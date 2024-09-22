@@ -39,7 +39,7 @@
             "lookup": "properties.NAME",
             "from": {
               "data": {
-                "url": "https://raw.githubusercontent.com/mvoo0012/3179/refs/heads/main/Week9_World_life_expectancy2020/World%20Life%20expectancy%20at%20birth%202020%20-%20Sheet1.csv"
+                "url": "https://raw.githubusercontent.com/mvoo0012/3179/refs/heads/main/Week9_World_life_expectancy2022/World%20Life%20expectancy%20at%20birth%202020%20-%22Sheet1.csv"
               },
               "key": "Country",
               "fields": ["Life Expectancy"]
