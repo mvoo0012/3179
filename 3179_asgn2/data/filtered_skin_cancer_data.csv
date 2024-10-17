@@ -1,0 +1,1135 @@
+Year,Sex,Incident,Mortality,Population,State
+2007,Males,2126,339,3413653,New South Wales
+2007,Males,1188,182,2574619,Victoria
+2007,Males,1591,211,2076128,Queensland
+2007,Males,575,88,1075987,Western Australia
+2007,Males,342,55,779355,South Australia
+2007,Males,127,12,245319,Tasmania
+2007,Males,72,14,170383,Australian Capital Territory
+2007,Males,30,3,112777,Northern Territory
+2007,Males,6034,909,10449776,
+2007,Females,1420,138,3470199,New South Wales
+2007,Females,986,95,2624884,Victoria
+2007,Females,1125,90,2083862,Queensland
+2007,Females,412,36,1059019,Western Australia
+2007,Females,279,34,799134,South Australia
+2007,Females,109,4,250539,Tasmania
+2007,Females,59,4,173793,Australian Capital Territory
+2007,Females,20,1,103841,Northern Territory
+2007,Females,4400,400,10566345,
+2007,Persons,3546,477,6883852,New South Wales
+2007,Persons,2174,277,5199503,Victoria
+2007,Persons,2716,301,4159990,Queensland
+2007,Persons,987,124,2135006,Western Australia
+2007,Persons,621,89,1578489,South Australia
+2007,Persons,236,16,495858,Tasmania
+2007,Persons,131,18,344176,Australian Capital Territory
+2007,Persons,50,4,216618,Northern Territory
+2007,Persons,10434,1309,21016121,
+2008,Males,2155,347,3476199,New South Wales
+2008,Males,1247,187,2633317,Victoria
+2008,Males,1776,213,2135996,Queensland
+2008,Males,658,93,1113633,Western Australia
+2008,Males,413,78,789696,South Australia
+2008,Males,163,27,248714,Tasmania
+2008,Males,76,14,174242,Australian Capital Territory
+2008,Males,29,3,116223,Northern Territory
+2008,Males,6529,959,10689738,
+2008,Females,1489,150,3525583,New South Wales
+2008,Females,982,89,2679968,Victoria
+2008,Females,1193,95,2139555,Queensland
+2008,Females,425,30,1095295,Western Australia
+2008,Females,325,38,808184,South Australia
+2008,Females,114,13,253060,Tasmania
+2008,Females,62,5,176859,Australian Capital Territory
+2008,Females,20,1,106303,Northern Territory
+2008,Females,4606,424,10785887,
+2008,Persons,3644,497,7001782,New South Wales
+2008,Persons,2229,276,5313285,Victoria
+2008,Persons,2969,308,4275551,Queensland
+2008,Persons,1083,123,2208928,Western Australia
+2008,Persons,738,116,1597880,South Australia
+2008,Persons,277,40,501774,Tasmania
+2008,Persons,139,18,351101,Australian Capital Territory
+2008,Persons,49,4,222526,Northern Territory
+2008,Persons,11135,1383,21475625,
+2009,Males,2190,353,3526643,New South Wales
+2009,Males,1332,218,2686022,Victoria
+2009,Males,1787,198,2181500,Queensland
+2009,Males,637,90,1140480,Western Australia
+2009,Males,381,64,800926,South Australia
+2009,Males,159,18,251434,Tasmania
+2009,Males,77,14,177822,Australian Capital Territory
+2009,Males,30,3,119297,Northern Territory
+2009,Males,6598,956,10886022,
+2009,Females,1534,170,3574861,New South Wales
+2009,Females,1048,95,2733227,Victoria
+2009,Females,1264,92,2185954,Queensland
+2009,Females,399,47,1123267,Western Australia
+2009,Females,289,26,817652,South Australia
+2009,Females,115,16,255027,Tasmania
+2009,Females,57,6,180037,Australian Capital Territory
+2009,Females,20,1,108486,Northern Territory
+2009,Females,4708,454,10979601,
+2009,Persons,3724,523,7101504,New South Wales
+2009,Persons,2380,313,5419249,Victoria
+2009,Persons,3051,290,4367454,Queensland
+2009,Persons,1036,137,2263747,Western Australia
+2009,Persons,670,90,1618578,South Australia
+2009,Persons,274,34,506461,Tasmania
+2009,Persons,135,19,357859,Australian Capital Territory
+2009,Persons,50,4,227783,Northern Territory
+2009,Persons,11306,1410,21865623,
+2010,Males,2336,370,3565558,New South Wales
+2010,Males,1304,202,2720959,Victoria
+2010,Males,1842,232,2214429,Queensland
+2010,Males,646,88,1167862,Western Australia
+2010,Males,386,67,808037,South Australia
+2010,Males,158,20,253833,Tasmania
+2010,Males,74,14,181314,Australian Capital Territory
+2010,Males,32,4,120979,Northern Territory
+2010,Males,6796,995,11034979,
+2010,Females,1563,144,3614333,New South Wales
+2010,Females,971,92,2774752,Victoria
+2010,Females,1268,118,2222453,Queensland
+2010,Females,388,37,1151201,Western Australia
+2010,Females,311,18,824445,South Australia
+2010,Females,134,10,256386,Tasmania
+2010,Females,50,5,183519,Australian Capital Territory
+2010,Females,21,1,109534,Northern Territory
+2010,Females,4703,423,11137490,
+2010,Persons,3899,514,7179891,New South Wales
+2010,Persons,2275,294,5495711,Victoria
+2010,Persons,3110,350,4436882,Queensland
+2010,Persons,1034,125,2319063,Western Australia
+2010,Persons,697,85,1632482,South Australia
+2010,Persons,292,30,510219,Tasmania
+2010,Persons,124,19,364833,Australian Capital Territory
+2010,Persons,53,5,230460,Northern Territory
+2010,Persons,11499,1418,22172469,
+2011,Males,2399,366,3604198,New South Wales
+2011,Males,1172,217,2766513,Victoria
+2011,Males,1924,247,2253923,Queensland
+2011,Males,665,135,1202068,Western Australia
+2011,Males,404,73,815608,South Australia
+2011,Males,131,27,254896,Tasmania
+2011,Males,76,12,184982,Australian Capital Territory
+2011,Males,33,3,122136,Northern Territory
+2011,Males,6800,1076,11206252,
+2011,Females,1616,153,3654524,New South Wales
+2011,Females,900,107,2825305,Victoria
+2011,Females,1379,96,2264726,Queensland
+2011,Females,449,46,1183879,Western Australia
+2011,Females,287,26,831575,South Australia
+2011,Females,129,16,256984,Tasmania
+2011,Females,48,5,187088,Australian Capital Territory
+2011,Females,22,2,110816,Northern Territory
+2011,Females,4837,453,11315945,
+2011,Persons,4015,519,7258722,New South Wales
+2011,Persons,2072,324,5591818,Victoria
+2011,Persons,3303,343,4518649,Queensland
+2011,Persons,1114,181,2385947,Western Australia
+2011,Persons,691,99,1647183,South Australia
+2011,Persons,260,43,511880,Tasmania
+2011,Persons,124,17,372070,Australian Capital Territory
+2011,Persons,55,5,232952,Northern Territory
+2011,Persons,11637,1529,22522197,
+2012,Males,2490,368,3650035,New South Wales
+2012,Males,1292,210,2825349,Victoria
+2012,Males,2014,231,2299776,Queensland
+2012,Males,694,112,1239615,Western Australia
+2012,Males,393,64,823688,South Australia
+2012,Males,146,28,254866,Tasmania
+2012,Males,79,12,188673,Australian Capital Territory
+2012,Males,37,5,125043,Northern Territory
+2012,Males,7152,1039,11408788,
+2012,Females,1699,177,3703154,New South Wales
+2012,Females,988,104,2884237,Victoria
+2012,Females,1430,105,2311528,Queensland
+2012,Females,451,39,1217874,Western Australia
+2012,Females,302,37,839394,South Australia
+2012,Females,109,21,257127,Tasmania
+2012,Females,54,6,191139,Australian Capital Territory
+2012,Females,23,1,113685,Northern Territory
+2012,Females,5081,490,11519235,
+2012,Persons,4189,545,7353189,New South Wales
+2012,Persons,2280,314,5709586,Victoria
+2012,Persons,3444,336,4611304,Queensland
+2012,Persons,1145,151,2457489,Western Australia
+2012,Persons,695,101,1663082,South Australia
+2012,Persons,255,49,511993,Tasmania
+2012,Persons,132,18,379812,Australian Capital Territory
+2012,Persons,60,6,238728,Northern Territory
+2012,Persons,12233,1529,22928023,
+2013,Males,2540,398,3698220,New South Wales
+2013,Males,1330,249,2884387,Victoria
+2013,Males,2163,313,2333762,Queensland
+2013,Males,780,109,1259941,Western Australia
+2013,Males,437,70,830900,South Australia
+2013,Males,139,21,254878,Tasmania
+2013,Males,81,12,191691,Australian Capital Territory
+2013,Males,39,5,126921,Northern Territory
+2013,Males,7523,1177,11582448,
+2013,Females,1767,155,3756718,New South Wales
+2013,Females,1002,118,2948198,Victoria
+2013,Females,1530,110,2351677,Queensland
+2013,Females,532,51,1242247,Western Australia
+2013,Females,284,36,847152,South Australia
+2013,Females,136,12,258137,Tasmania
+2013,Females,54,5,194627,Australian Capital Territory
+2013,Females,24,2,115450,Northern Territory
+2013,Females,5339,489,11715329,
+2013,Persons,4307,553,7454938,New South Wales
+2013,Persons,2332,367,5832585,Victoria
+2013,Persons,3693,423,4685439,Queensland
+2013,Persons,1312,160,2502188,Western Australia
+2013,Persons,721,106,1678052,South Australia
+2013,Persons,275,33,513015,Tasmania
+2013,Persons,135,17,386318,Australian Capital Territory
+2013,Persons,63,7,242304,Northern Territory
+2013,Persons,12862,1666,23297777,
+2014,Males,2558,336,3750061,New South Wales
+2014,Males,1402,190,2945763,Victoria
+2014,Males,2199,250,2361282,Queensland
+2014,Males,770,103,1271552,Western Australia
+2014,Males,478,90,838094,South Australia
+2014,Males,163,23,255134,Tasmania
+2014,Males,81,11,194291,Australian Capital Territory
+2014,Males,43,6,127079,Northern Territory
+2014,Males,7705,1004,11744498,
+2014,Females,1797,165,3812110,New South Wales
+2014,Females,1064,88,3011749,Victoria
+2014,Females,1507,102,2385981,Queensland
+2014,Females,530,49,1257067,Western Australia
+2014,Females,310,33,855013,South Australia
+2014,Females,169,14,259067,Tasmania
+2014,Females,63,5,197690,Australian Capital Territory
+2014,Females,25,2,116165,Northern Territory
+2014,Females,5483,461,11895833,
+2014,Persons,4355,501,7562171,New South Wales
+2014,Persons,2466,278,5957512,Victoria
+2014,Persons,3706,352,4747263,Queensland
+2014,Persons,1300,152,2528619,Western Australia
+2014,Persons,788,123,1693107,South Australia
+2014,Persons,332,37,514040,Tasmania
+2014,Persons,144,16,391981,Australian Capital Territory
+2014,Persons,68,8,243201,Northern Territory
+2014,Persons,13188,1465,23640331,
+2015,Males,2581,386,3803289,New South Wales
+2015,Males,1533,215,3011376,Victoria
+2015,Males,2192,221,2385347,Queensland
+2015,Males,895,102,1278792,Western Australia
+2015,Males,471,74,843702,South Australia
+2015,Males,166,18,255551,Tasmania
+2015,Males,84,12,197696,Australian Capital Territory
+2015,Males,48,6,127914,Northern Territory
+2015,Males,8004,1039,11904308,
+2015,Females,1780,176,3868112,New South Wales
+2015,Females,1162,111,3081673,Victoria
+2015,Females,1561,97,2419586,Queensland
+2015,Females,669,54,1268953,Western Australia
+2015,Females,295,24,862235,South Australia
+2015,Females,136,5,260242,Tasmania
+2015,Females,70,6,201178,Australian Capital Territory
+2015,Females,27,2,117123,Northern Territory
+2015,Females,5714,475,12080273,
+2015,Persons,4361,562,7671401,New South Wales
+2015,Persons,2695,326,6093049,Victoria
+2015,Persons,3753,318,4804933,Queensland
+2015,Persons,1564,156,2547745,Western Australia
+2015,Persons,766,98,1705937,South Australia
+2015,Persons,302,23,515697,Tasmania
+2015,Persons,153,18,398874,Australian Capital Territory
+2015,Persons,75,8,244692,Northern Territory
+2015,Persons,13718,1514,23984581,
+2016,Males,2858,288,3865361,New South Wales
+2016,Males,1569,178,3082379,Victoria
+2016,Males,2331,213,2421215,Queensland
+2016,Males,912,91,1288303,Western Australia
+2016,Males,463,56,849914,South Australia
+2016,Males,185,23,258456,Tasmania
+2016,Males,92,11,202502,Australian Capital Territory
+2016,Males,54,6,128021,Northern Territory
+2016,Males,8491,858,12098143,
+2016,Females,1927,131,3930264,New South Wales
+2016,Females,1251,85,3153402,Victoria
+2016,Females,1633,88,2461724,Queensland
+2016,Females,624,36,1281303,Western Australia
+2016,Females,341,39,869666,South Australia
+2016,Females,148,7,263525,Tasmania
+2016,Females,75,7,206376,Australian Capital Territory
+2016,Females,28,2,118539,Northern Territory
+2016,Females,6034,396,12286921,
+2016,Persons,4785,419,7795625,New South Wales
+2016,Persons,2820,263,6235781,Victoria
+2016,Persons,3964,301,4882939,Queensland
+2016,Persons,1536,127,2569606,Western Australia
+2016,Persons,804,95,1719580,South Australia
+2016,Persons,333,30,521981,Tasmania
+2016,Persons,167,18,408878,Australian Capital Territory
+2016,Persons,82,8,246443,Northern Territory
+2016,Persons,14525,1254,24385064,
+2017,Males,2975,319,3921301,New South Wales
+2017,Males,1673,162,3144429,Victoria
+2017,Males,2477,241,2458389,Queensland
+2017,Males,867,89,1302076,Western Australia
+2017,Males,467,59,857807,South Australia
+2017,Males,181,23,263305,Tasmania
+2017,Males,107,10,207866,Australian Capital Territory
+2017,Males,52,5,128104,Northern Territory
+2017,Males,8833,908,12284961,
+2017,Females,1957,186,3979645,New South Wales
+2017,Females,1310,111,3213781,Victoria
+2017,Females,1671,106,2502576,Queensland
+2017,Females,586,46,1297852,Western Australia
+2017,Females,332,25,877847,South Australia
+2017,Females,158,7,268256,Tasmania
+2017,Females,77,8,212360,Australian Capital Territory
+2017,Females,29,2,119647,Northern Territory
+2017,Females,6129,495,12474057,
+2017,Persons,4932,505,7900946,New South Wales
+2017,Persons,2983,273,6358210,Victoria
+2017,Persons,4148,347,4960965,Queensland
+2017,Persons,1453,135,2599928,Western Australia
+2017,Persons,799,84,1735654,South Australia
+2017,Persons,339,30,531561,Tasmania
+2017,Persons,184,18,420226,Australian Capital Territory
+2017,Persons,81,7,247514,Northern Territory
+2017,Persons,14962,1403,24759018,
+2018,Males,2984,333,3976266,New South Wales
+2018,Males,1766,195,3207192,Victoria
+2018,Males,2341,235,2499842,Queensland
+2018,Males,857,80,1319834,Western Australia
+2018,Males,476,62,867603,South Australia
+2018,Males,205,33,268840,Tasmania
+2018,Males,114,12,212822,Australian Capital Territory
+2018,Males,53,5,127221,Northern Territory
+2018,Males,8807,966,12481024,
+2018,Females,2021,139,4027298,New South Wales
+2018,Females,1311,97,3272503,Victoria
+2018,Females,1731,88,2546592,Queensland
+2018,Females,627,52,1316570,Western Australia
+2018,Females,309,23,888112,South Australia
+2018,Females,196,12,274087,Tasmania
+2018,Females,81,8,217936,Australian Capital Territory
+2018,Females,30,2,119997,Northern Territory
+2018,Females,6315,417,12665116,
+2018,Persons,5005,472,8003564,New South Wales
+2018,Persons,3078,292,6479695,Victoria
+2018,Persons,4072,323,5046434,Queensland
+2018,Persons,1484,132,2636404,Western Australia
+2018,Persons,785,85,1755715,South Australia
+2018,Persons,401,45,542927,Tasmania
+2018,Persons,195,20,430758,Australian Capital Territory
+2018,Persons,83,7,247095,Northern Territory
+2018,Persons,15123,1383,25146140,
+2019,Males,3012,307,4019498,New South Wales
+2019,Males,1632,189,3262240,Victoria
+2019,Males,2601,212,2540680,Queensland
+2019,Males,945,104,1345064,Western Australia
+2019,Males,545,79,878768,South Australia
+2019,Males,224,26,273893,Tasmania
+2019,Males,120,14,217500,Australian Capital Territory
+2019,Males,55,6,126289,Northern Territory
+2019,Males,9135,942,12665662,
+2019,Females,2077,157,4068863,New South Wales
+2019,Females,1202,85,3327810,Victoria
+2019,Females,1845,99,2589061,Queensland
+2019,Females,676,45,1343735,Western Australia
+2019,Females,357,33,900160,South Australia
+2019,Females,188,14,279447,Tasmania
+2019,Females,86,8,222767,Australian Capital Territory
+2019,Females,33,1,120727,Northern Territory
+2019,Females,6491,441,12854806,
+2019,Persons,5089,464,8088361,New South Wales
+2019,Persons,2834,274,6590050,Victoria
+2019,Persons,4446,311,5129741,Queensland
+2019,Persons,1621,149,2688799,Western Australia
+2019,Persons,902,112,1778928,South Australia
+2019,Persons,412,40,553340,Tasmania
+2019,Persons,205,22,440267,Australian Capital Territory
+2019,Persons,88,7,246677,Northern Territory
+2019,Persons,15626,1383,25520468,
+2020,Males,2894,347,4031001,New South Wales
+2020,Males,1493,183,3274653,Victoria
+2020,Males,2408,222,2568499,Queensland
+2020,Males,817,85,1364994,Western Australia
+2020,Males,544,68,886475,South Australia
+2020,Males,221,28,278353,Tasmania
+2020,Males,120,15,220886,Australian Capital Territory
+2020,Males,55,5,126133,Northern Territory
+2020,Males,8546,954,12728639,
+2020,Females,2024,146,4081000,New South Wales
+2020,Females,1093,98,3341983,Victoria
+2020,Females,1761,105,2615830,Queensland
+2020,Females,597,38,1363193,Western Australia
+2020,Females,347,39,908039,South Australia
+2020,Females,205,9,283528,Tasmania
+2020,Females,85,8,226764,Australian Capital Territory
+2020,Females,33,2,121772,Northern Territory
+2020,Females,6135,445,12920609,
+2020,Persons,4918,493,8112001,New South Wales
+2020,Persons,2586,281,6616636,Victoria
+2020,Persons,4169,327,5184329,Queensland
+2020,Persons,1417,123,2728187,Western Australia
+2020,Persons,891,107,1794514,South Australia
+2020,Persons,428,37,561881,Tasmania
+2020,Persons,205,23,447650,Australian Capital Territory
+2020,Persons,88,6,247819,Northern Territory
+2020,Persons,14686,1399,25649248,
+2007,Males,178,35,3413653,New South Wales
+2007,Males,53,6,2574619,Victoria
+2007,Males,109,23,2076128,Queensland
+2007,Males,48,12,1075987,Western Australia
+2007,Males,14,4,779355,South Australia
+2007,Males,12,1,245319,Tasmania
+2007,Males,5,1,170383,Australian Capital Territory
+2007,Males,0,0,112777,Northern Territory
+2007,Males,416,82,10449776,
+2007,Females,119,22,3470199,New South Wales
+2007,Females,36,5,2624884,Victoria
+2007,Females,49,8,2083862,Queensland
+2007,Females,25,7,1059019,Western Australia
+2007,Females,7,5,799134,South Australia
+2007,Females,6,5,250539,Tasmania
+2007,Females,2,0,173793,Australian Capital Territory
+2007,Females,0,0,103841,Northern Territory
+2007,Females,242,52,10566345,
+2007,Persons,297,57,6883852,New South Wales
+2007,Persons,89,11,5199503,Victoria
+2007,Persons,158,31,4159990,Queensland
+2007,Persons,73,19,2135006,Western Australia
+2007,Persons,21,9,1578489,South Australia
+2007,Persons,18,6,495858,Tasmania
+2007,Persons,7,1,344176,Australian Capital Territory
+2007,Persons,0,0,216618,Northern Territory
+2007,Persons,658,134,21016121,
+2008,Males,166,28,3476199,New South Wales
+2008,Males,40,6,2633317,Victoria
+2008,Males,119,25,2135996,Queensland
+2008,Males,52,5,1113633,Western Australia
+2008,Males,11,4,789696,South Australia
+2008,Males,7,2,248714,Tasmania
+2008,Males,4,2,174242,Australian Capital Territory
+2008,Males,1,0,116223,Northern Territory
+2008,Males,402,75,10689738,
+2008,Females,127,24,3525583,New South Wales
+2008,Females,30,6,2679968,Victoria
+2008,Females,38,11,2139555,Queensland
+2008,Females,29,3,1095295,Western Australia
+2008,Females,6,4,808184,South Australia
+2008,Females,8,0,253060,Tasmania
+2008,Females,2,0,176859,Australian Capital Territory
+2008,Females,0,0,106303,Northern Territory
+2008,Females,241,48,10785887,
+2008,Persons,293,52,7001782,New South Wales
+2008,Persons,70,12,5313285,Victoria
+2008,Persons,157,36,4275551,Queensland
+2008,Persons,81,8,2208928,Western Australia
+2008,Persons,17,8,1597880,South Australia
+2008,Persons,15,2,501774,Tasmania
+2008,Persons,6,2,351101,Australian Capital Territory
+2008,Persons,1,0,222526,Northern Territory
+2008,Persons,643,123,21475625,
+2009,Males,190,35,3526643,New South Wales
+2009,Males,47,9,2686022,Victoria
+2009,Males,135,24,2181500,Queensland
+2009,Males,46,6,1140480,Western Australia
+2009,Males,15,7,800926,South Australia
+2009,Males,9,3,251434,Tasmania
+2009,Males,3,2,177822,Australian Capital Territory
+2009,Males,1,0,119297,Northern Territory
+2009,Males,446,84,10886022,
+2009,Females,111,22,3574861,New South Wales
+2009,Females,32,14,2733227,Victoria
+2009,Females,55,5,2185954,Queensland
+2009,Females,31,5,1123267,Western Australia
+2009,Females,10,5,817652,South Australia
+2009,Females,5,0,255027,Tasmania
+2009,Females,2,1,180037,Australian Capital Territory
+2009,Females,0,0,108486,Northern Territory
+2009,Females,247,52,10979601,
+2009,Persons,301,57,7101504,New South Wales
+2009,Persons,79,23,5419249,Victoria
+2009,Persons,190,29,4367454,Queensland
+2009,Persons,77,11,2263747,Western Australia
+2009,Persons,25,12,1618578,South Australia
+2009,Persons,14,3,506461,Tasmania
+2009,Persons,5,2,357859,Australian Capital Territory
+2009,Persons,1,0,227783,Northern Territory
+2009,Persons,693,136,21865623,
+2010,Males,174,34,3565558,New South Wales
+2010,Males,49,14,2720959,Victoria
+2010,Males,118,25,2214429,Queensland
+2010,Males,51,9,1167862,Western Australia
+2010,Males,22,4,808037,South Australia
+2010,Males,12,1,253833,Tasmania
+2010,Males,4,2,181314,Australian Capital Territory
+2010,Males,1,0,120979,Northern Territory
+2010,Males,434,88,11034979,
+2010,Females,120,18,3614333,New South Wales
+2010,Females,33,7,2774752,Victoria
+2010,Females,64,15,2222453,Queensland
+2010,Females,29,1,1151201,Western Australia
+2010,Females,7,2,824445,South Australia
+2010,Females,10,2,256386,Tasmania
+2010,Females,2,1,183519,Australian Capital Territory
+2010,Females,0,0,109534,Northern Territory
+2010,Females,265,48,11137490,
+2010,Persons,294,52,7179891,New South Wales
+2010,Persons,82,21,5495711,Victoria
+2010,Persons,182,40,4436882,Queensland
+2010,Persons,80,10,2319063,Western Australia
+2010,Persons,29,6,1632482,South Australia
+2010,Persons,22,3,510219,Tasmania
+2010,Persons,6,2,364833,Australian Capital Territory
+2010,Persons,1,0,230460,Northern Territory
+2010,Persons,699,136,22172469,
+2011,Males,188,37,3604198,New South Wales
+2011,Males,38,16,2766513,Victoria
+2011,Males,122,22,2253923,Queensland
+2011,Males,58,4,1202068,Western Australia
+2011,Males,30,5,815608,South Australia
+2011,Males,10,3,254896,Tasmania
+2011,Males,4,1,184982,Australian Capital Territory
+2011,Males,1,0,122136,Northern Territory
+2011,Males,452,89,11206252,
+2011,Females,106,22,3654524,New South Wales
+2011,Females,23,14,2825305,Victoria
+2011,Females,60,12,2264726,Queensland
+2011,Females,39,2,1183879,Western Australia
+2011,Females,6,2,831575,South Australia
+2011,Females,2,0,256984,Tasmania
+2011,Females,2,1,187088,Australian Capital Territory
+2011,Females,0,0,110816,Northern Territory
+2011,Females,238,52,11315945,
+2011,Persons,294,59,7258722,New South Wales
+2011,Persons,61,30,5591818,Victoria
+2011,Persons,182,34,4518649,Queensland
+2011,Persons,97,6,2385947,Western Australia
+2011,Persons,36,7,1647183,South Australia
+2011,Persons,12,3,511880,Tasmania
+2011,Persons,6,2,372070,Australian Capital Territory
+2011,Persons,2,1,232952,Northern Territory
+2011,Persons,690,141,22522197,
+2012,Males,200,41,3650035,New South Wales
+2012,Males,36,10,2825349,Victoria
+2012,Males,131,26,2299776,Queensland
+2012,Males,71,19,1239615,Western Australia
+2012,Males,24,5,823688,South Australia
+2012,Males,11,1,254866,Tasmania
+2012,Males,5,1,188673,Australian Capital Territory
+2012,Males,1,0,125043,Northern Territory
+2012,Males,478,103,11408788,
+2012,Females,116,28,3703154,New South Wales
+2012,Females,28,7,2884237,Victoria
+2012,Females,71,11,2311528,Queensland
+2012,Females,47,3,1217874,Western Australia
+2012,Females,13,1,839394,South Australia
+2012,Females,8,1,257127,Tasmania
+2012,Females,2,1,191139,Australian Capital Territory
+2012,Females,1,0,113685,Northern Territory
+2012,Females,286,51,11519235,
+2012,Persons,316,69,7353189,New South Wales
+2012,Persons,64,17,5709586,Victoria
+2012,Persons,202,37,4611304,Queensland
+2012,Persons,118,22,2457489,Western Australia
+2012,Persons,37,6,1663082,South Australia
+2012,Persons,19,2,511993,Tasmania
+2012,Persons,7,2,379812,Australian Capital Territory
+2012,Persons,2,1,238728,Northern Territory
+2012,Persons,764,154,22928023,
+2013,Males,240,44,3698220,New South Wales
+2013,Males,57,19,2884387,Victoria
+2013,Males,148,38,2333762,Queensland
+2013,Males,87,11,1259941,Western Australia
+2013,Males,23,6,830900,South Australia
+2013,Males,12,1,254878,Tasmania
+2013,Males,5,1,191691,Australian Capital Territory
+2013,Males,1,1,126921,Northern Territory
+2013,Males,575,121,11582448,
+2013,Females,116,25,3756718,New South Wales
+2013,Females,29,6,2948198,Victoria
+2013,Females,72,20,2351677,Queensland
+2013,Females,44,10,1242247,Western Australia
+2013,Females,9,3,847152,South Australia
+2013,Females,5,3,258137,Tasmania
+2013,Females,2,1,194627,Australian Capital Territory
+2013,Females,0,0,115450,Northern Territory
+2013,Females,275,69,11715329,
+2013,Persons,356,69,7454938,New South Wales
+2013,Persons,86,25,5832585,Victoria
+2013,Persons,220,58,4685439,Queensland
+2013,Persons,131,21,2502188,Western Australia
+2013,Persons,32,9,1678052,South Australia
+2013,Persons,17,4,513015,Tasmania
+2013,Persons,7,2,386318,Australian Capital Territory
+2013,Persons,2,1,242304,Northern Territory
+2013,Persons,850,190,23297777,
+2014,Males,224,42,3750061,New South Wales
+2014,Males,83,22,2945763,Victoria
+2014,Males,131,40,2361282,Queensland
+2014,Males,77,14,1271552,Western Australia
+2014,Males,27,7,838094,South Australia
+2014,Males,11,2,255134,Tasmania
+2014,Males,5,1,194291,Australian Capital Territory
+2014,Males,2,1,127079,Northern Territory
+2014,Males,561,129,11744498,
+2014,Females,118,26,3812110,New South Wales
+2014,Females,38,5,3011749,Victoria
+2014,Females,74,13,2385981,Queensland
+2014,Females,43,6,1257067,Western Australia
+2014,Females,16,1,855013,South Australia
+2014,Females,5,1,259067,Tasmania
+2014,Females,1,1,197690,Australian Capital Territory
+2014,Females,0,0,116165,Northern Territory
+2014,Females,295,53,11895833,
+2014,Persons,342,68,7562171,New South Wales
+2014,Persons,121,27,5957512,Victoria
+2014,Persons,205,53,4747263,Queensland
+2014,Persons,120,20,2528619,Western Australia
+2014,Persons,43,8,1693107,South Australia
+2014,Persons,16,3,514040,Tasmania
+2014,Persons,7,2,391981,Australian Capital Territory
+2014,Persons,2,1,243201,Northern Territory
+2014,Persons,856,182,23640331,
+2015,Males,251,38,3803289,New South Wales
+2015,Males,79,26,3011376,Victoria
+2015,Males,138,25,2385347,Queensland
+2015,Males,81,10,1278792,Western Australia
+2015,Males,30,6,843702,South Australia
+2015,Males,10,3,255551,Tasmania
+2015,Males,5,1,197696,Australian Capital Territory
+2015,Males,2,1,127914,Northern Territory
+2015,Males,598,109,11904308,
+2015,Females,136,22,3868112,New South Wales
+2015,Females,39,14,3081673,Victoria
+2015,Females,82,6,2419586,Queensland
+2015,Females,44,6,1268953,Western Australia
+2015,Females,15,2,862235,South Australia
+2015,Females,14,1,260242,Tasmania
+2015,Females,1,0,201178,Australian Capital Territory
+2015,Females,0,0,117123,Northern Territory
+2015,Females,332,52,12080273,
+2015,Persons,387,60,7671401,New South Wales
+2015,Persons,118,40,6093049,Victoria
+2015,Persons,220,31,4804933,Queensland
+2015,Persons,125,16,2547745,Western Australia
+2015,Persons,45,8,1705937,South Australia
+2015,Persons,24,4,515697,Tasmania
+2015,Persons,7,1,398874,Australian Capital Territory
+2015,Persons,2,1,244692,Northern Territory
+2015,Persons,930,161,23984581,
+2016,Males,260,42,3865361,New South Wales
+2016,Males,92,15,3082379,Victoria
+2016,Males,157,28,2421215,Queensland
+2016,Males,71,13,1288303,Western Australia
+2016,Males,38,8,849914,South Australia
+2016,Males,11,0,258456,Tasmania
+2016,Males,6,1,202502,Australian Capital Territory
+2016,Males,2,0,128021,Northern Territory
+2016,Males,638,107,12098143,
+2016,Females,144,22,3930264,New South Wales
+2016,Females,49,15,3153402,Victoria
+2016,Females,76,15,2461724,Queensland
+2016,Females,55,6,1281303,Western Australia
+2016,Females,13,2,869666,South Australia
+2016,Females,3,1,263525,Tasmania
+2016,Females,2,1,206376,Australian Capital Territory
+2016,Females,0,0,118539,Northern Territory
+2016,Females,344,62,12286921,
+2016,Persons,404,64,7795625,New South Wales
+2016,Persons,141,30,6235781,Victoria
+2016,Persons,233,43,4882939,Queensland
+2016,Persons,126,19,2569606,Western Australia
+2016,Persons,51,10,1719580,South Australia
+2016,Persons,14,1,521981,Tasmania
+2016,Persons,7,2,408878,Australian Capital Territory
+2016,Persons,3,1,246443,Northern Territory
+2016,Persons,982,169,24385064,
+2017,Males,300,46,3921301,New South Wales
+2017,Males,151,19,3144429,Victoria
+2017,Males,171,26,2458389,Queensland
+2017,Males,73,6,1302076,Western Australia
+2017,Males,29,7,857807,South Australia
+2017,Males,12,3,263305,Tasmania
+2017,Males,6,1,207866,Australian Capital Territory
+2017,Males,3,0,128104,Northern Territory
+2017,Males,744,109,12284961,
+2017,Females,133,27,3979645,New South Wales
+2017,Females,76,11,3213781,Victoria
+2017,Females,98,18,2502576,Queensland
+2017,Females,49,5,1297852,Western Australia
+2017,Females,20,5,877847,South Australia
+2017,Females,9,1,268256,Tasmania
+2017,Females,1,1,212360,Australian Capital Territory
+2017,Females,0,0,119647,Northern Territory
+2017,Females,387,68,12474057,
+2017,Persons,433,73,7900946,New South Wales
+2017,Persons,227,30,6358210,Victoria
+2017,Persons,269,44,4960965,Queensland
+2017,Persons,122,11,2599928,Western Australia
+2017,Persons,49,12,1735654,South Australia
+2017,Persons,21,4,531561,Tasmania
+2017,Persons,7,2,420226,Australian Capital Territory
+2017,Persons,3,1,247514,Northern Territory
+2017,Persons,1131,177,24759018,
+2018,Males,272,43,3976266,New South Wales
+2018,Males,95,25,3207192,Victoria
+2018,Males,148,24,2499842,Queensland
+2018,Males,63,10,1319834,Western Australia
+2018,Males,31,5,867603,South Australia
+2018,Males,17,2,268840,Tasmania
+2018,Males,5,1,212822,Australian Capital Territory
+2018,Males,3,0,127221,Northern Territory
+2018,Males,630,112,12481024,
+2018,Females,175,22,4027298,New South Wales
+2018,Females,50,15,3272503,Victoria
+2018,Females,74,13,2546592,Queensland
+2018,Females,40,4,1316570,Western Australia
+2018,Females,16,5,888112,South Australia
+2018,Females,7,1,274087,Tasmania
+2018,Females,2,0,217936,Australian Capital Territory
+2018,Females,1,0,119997,Northern Territory
+2018,Females,367,60,12665116,
+2018,Persons,447,65,8003564,New South Wales
+2018,Persons,145,40,6479695,Victoria
+2018,Persons,222,37,5046434,Queensland
+2018,Persons,103,14,2636404,Western Australia
+2018,Persons,47,10,1755715,South Australia
+2018,Persons,24,3,542927,Tasmania
+2018,Persons,7,2,430758,Australian Capital Territory
+2018,Persons,3,1,247095,Northern Territory
+2018,Persons,997,172,25146140,
+2019,Males,336,54,4019498,New South Wales
+2019,Males,157,20,3262240,Victoria
+2019,Males,210,38,2540680,Queensland
+2019,Males,86,6,1345064,Western Australia
+2019,Males,32,3,878768,South Australia
+2019,Males,16,3,273893,Tasmania
+2019,Males,5,2,217500,Australian Capital Territory
+2019,Males,2,0,126289,Northern Territory
+2019,Males,845,127,12665662,
+2019,Females,147,23,4068863,New South Wales
+2019,Females,87,12,3327810,Victoria
+2019,Females,109,10,2589061,Queensland
+2019,Females,40,7,1343735,Western Australia
+2019,Females,13,3,900160,South Australia
+2019,Females,7,0,279447,Tasmania
+2019,Females,2,0,222767,Australian Capital Territory
+2019,Females,1,0,120727,Northern Territory
+2019,Females,406,56,12854806,
+2019,Persons,483,77,8088361,New South Wales
+2019,Persons,244,32,6590050,Victoria
+2019,Persons,319,48,5129741,Queensland
+2019,Persons,126,13,2688799,Western Australia
+2019,Persons,45,6,1778928,South Australia
+2019,Persons,23,3,553340,Tasmania
+2019,Persons,8,2,440267,Australian Capital Territory
+2019,Persons,3,1,246677,Northern Territory
+2019,Persons,1251,183,25520468,
+2020,Males,397,41,4031001,New South Wales
+2020,Males,167,30,3274653,Victoria
+2020,Males,214,28,2568499,Queensland
+2020,Males,86,11,1364994,Western Australia
+2020,Males,50,11,886475,South Australia
+2020,Males,9,6,278353,Tasmania
+2020,Males,5,2,220886,Australian Capital Territory
+2020,Males,2,0,126133,Northern Territory
+2020,Males,929,128,12728639,
+2020,Females,178,34,4081000,New South Wales
+2020,Females,69,23,3341983,Victoria
+2020,Females,104,20,2615830,Queensland
+2020,Females,30,4,1363193,Western Australia
+2020,Females,18,2,908039,South Australia
+2020,Females,11,5,283528,Tasmania
+2020,Females,2,1,226764,Australian Capital Territory
+2020,Females,1,0,121772,Northern Territory
+2020,Females,410,89,12920609,
+2020,Persons,575,75,8112001,New South Wales
+2020,Persons,236,53,6616636,Victoria
+2020,Persons,318,48,5184329,Queensland
+2020,Persons,116,15,2728187,Western Australia
+2020,Persons,68,13,1794514,South Australia
+2020,Persons,20,11,561881,Tasmania
+2020,Persons,7,2,447650,Australian Capital Territory
+2020,Persons,2,1,247819,Northern Territory
+2020,Persons,1339,217,25649248,
+2007,Males,2304,374,3413653,New South Wales
+2007,Males,1241,188,2574619,Victoria
+2007,Males,1700,234,2076128,Queensland
+2007,Males,623,100,1075987,Western Australia
+2007,Males,356,59,779355,South Australia
+2007,Males,139,13,245319,Tasmania
+2007,Males,77,15,170383,Australian Capital Territory
+2007,Males,30,3,112777,Northern Territory
+2007,Males,6450,991,10449776,
+2007,Females,1539,160,3470199,New South Wales
+2007,Females,1022,100,2624884,Victoria
+2007,Females,1174,98,2083862,Queensland
+2007,Females,437,43,1059019,Western Australia
+2007,Females,286,39,799134,South Australia
+2007,Females,115,9,250539,Tasmania
+2007,Females,61,4,173793,Australian Capital Territory
+2007,Females,20,1,103841,Northern Territory
+2007,Females,4642,452,10566345,
+2007,Persons,3843,534,6883852,New South Wales
+2007,Persons,2263,288,5199503,Victoria
+2007,Persons,2874,332,4159990,Queensland
+2007,Persons,1060,143,2135006,Western Australia
+2007,Persons,642,98,1578489,South Australia
+2007,Persons,254,22,495858,Tasmania
+2007,Persons,138,19,344176,Australian Capital Territory
+2007,Persons,50,4,216618,Northern Territory
+2007,Persons,11092,1443,21016121,
+2008,Males,2321,375,3476199,New South Wales
+2008,Males,1287,193,2633317,Victoria
+2008,Males,1895,238,2135996,Queensland
+2008,Males,710,98,1113633,Western Australia
+2008,Males,424,82,789696,South Australia
+2008,Males,170,29,248714,Tasmania
+2008,Males,80,16,174242,Australian Capital Territory
+2008,Males,30,3,116223,Northern Territory
+2008,Males,6931,1034,10689738,
+2008,Females,1616,174,3525583,New South Wales
+2008,Females,1012,95,2679968,Victoria
+2008,Females,1231,106,2139555,Queensland
+2008,Females,454,33,1095295,Western Australia
+2008,Females,331,42,808184,South Australia
+2008,Females,122,13,253060,Tasmania
+2008,Females,64,5,176859,Australian Capital Territory
+2008,Females,20,1,106303,Northern Territory
+2008,Females,4847,472,10785887,
+2008,Persons,3937,549,7001782,New South Wales
+2008,Persons,2299,288,5313285,Victoria
+2008,Persons,3126,344,4275551,Queensland
+2008,Persons,1164,131,2208928,Western Australia
+2008,Persons,755,124,1597880,South Australia
+2008,Persons,292,42,501774,Tasmania
+2008,Persons,145,20,351101,Australian Capital Territory
+2008,Persons,50,4,222526,Northern Territory
+2008,Persons,11778,1506,21475625,
+2009,Males,2380,388,3526643,New South Wales
+2009,Males,1379,227,2686022,Victoria
+2009,Males,1922,222,2181500,Queensland
+2009,Males,683,96,1140480,Western Australia
+2009,Males,396,71,800926,South Australia
+2009,Males,168,21,251434,Tasmania
+2009,Males,80,16,177822,Australian Capital Territory
+2009,Males,31,3,119297,Northern Territory
+2009,Males,7044,1040,10886022,
+2009,Females,1645,192,3574861,New South Wales
+2009,Females,1080,109,2733227,Victoria
+2009,Females,1319,97,2185954,Queensland
+2009,Females,430,52,1123267,Western Australia
+2009,Females,299,31,817652,South Australia
+2009,Females,120,16,255027,Tasmania
+2009,Females,59,7,180037,Australian Capital Territory
+2009,Females,20,1,108486,Northern Territory
+2009,Females,4955,506,10979601,
+2009,Persons,4025,580,7101504,New South Wales
+2009,Persons,2459,336,5419249,Victoria
+2009,Persons,3241,319,4367454,Queensland
+2009,Persons,1113,148,2263747,Western Australia
+2009,Persons,695,102,1618578,South Australia
+2009,Persons,288,37,506461,Tasmania
+2009,Persons,140,21,357859,Australian Capital Territory
+2009,Persons,51,4,227783,Northern Territory
+2009,Persons,11999,1546,21865623,
+2010,Males,2510,404,3565558,New South Wales
+2010,Males,1353,216,2720959,Victoria
+2010,Males,1960,257,2214429,Queensland
+2010,Males,697,97,1167862,Western Australia
+2010,Males,408,71,808037,South Australia
+2010,Males,170,21,253833,Tasmania
+2010,Males,78,16,181314,Australian Capital Territory
+2010,Males,33,4,120979,Northern Territory
+2010,Males,7230,1083,11034979,
+2010,Females,1683,162,3614333,New South Wales
+2010,Females,1004,99,2774752,Victoria
+2010,Females,1332,133,2222453,Queensland
+2010,Females,417,38,1151201,Western Australia
+2010,Females,318,20,824445,South Australia
+2010,Females,144,12,256386,Tasmania
+2010,Females,52,6,183519,Australian Capital Territory
+2010,Females,21,1,109534,Northern Territory
+2010,Females,4968,471,11137490,
+2010,Persons,4193,566,7179891,New South Wales
+2010,Persons,2357,315,5495711,Victoria
+2010,Persons,3292,390,4436882,Queensland
+2010,Persons,1114,135,2319063,Western Australia
+2010,Persons,726,91,1632482,South Australia
+2010,Persons,314,33,510219,Tasmania
+2010,Persons,130,21,364833,Australian Capital Territory
+2010,Persons,54,5,230460,Northern Territory
+2010,Persons,12198,1554,22172469,
+2011,Males,2587,403,3604198,New South Wales
+2011,Males,1210,233,2766513,Victoria
+2011,Males,2046,269,2253923,Queensland
+2011,Males,723,139,1202068,Western Australia
+2011,Males,434,78,815608,South Australia
+2011,Males,141,30,254896,Tasmania
+2011,Males,80,13,184982,Australian Capital Territory
+2011,Males,34,3,122136,Northern Territory
+2011,Males,7252,1165,11206252,
+2011,Females,1722,175,3654524,New South Wales
+2011,Females,923,121,2825305,Victoria
+2011,Females,1439,108,2264726,Queensland
+2011,Females,488,48,1183879,Western Australia
+2011,Females,293,28,831575,South Australia
+2011,Females,131,16,256984,Tasmania
+2011,Females,50,6,187088,Australian Capital Territory
+2011,Females,22,2,110816,Northern Territory
+2011,Females,5075,505,11315945,
+2011,Persons,4309,578,7258722,New South Wales
+2011,Persons,2133,354,5591818,Victoria
+2011,Persons,3485,377,4518649,Queensland
+2011,Persons,1211,187,2385947,Western Australia
+2011,Persons,727,106,1647183,South Australia
+2011,Persons,272,46,511880,Tasmania
+2011,Persons,130,19,372070,Australian Capital Territory
+2011,Persons,57,6,232952,Northern Territory
+2011,Persons,12327,1670,22522197,
+2012,Males,2690,409,3650035,New South Wales
+2012,Males,1328,220,2825349,Victoria
+2012,Males,2145,257,2299776,Queensland
+2012,Males,765,131,1239615,Western Australia
+2012,Males,417,69,823688,South Australia
+2012,Males,157,29,254866,Tasmania
+2012,Males,84,13,188673,Australian Capital Territory
+2012,Males,38,5,125043,Northern Territory
+2012,Males,7630,1142,11408788,
+2012,Females,1815,205,3703154,New South Wales
+2012,Females,1016,111,2884237,Victoria
+2012,Females,1501,116,2311528,Queensland
+2012,Females,498,42,1217874,Western Australia
+2012,Females,315,38,839394,South Australia
+2012,Females,117,22,257127,Tasmania
+2012,Females,56,7,191139,Australian Capital Territory
+2012,Females,24,1,113685,Northern Territory
+2012,Females,5367,541,11519235,
+2012,Persons,4505,614,7353189,New South Wales
+2012,Persons,2344,331,5709586,Victoria
+2012,Persons,3646,373,4611304,Queensland
+2012,Persons,1263,173,2457489,Western Australia
+2012,Persons,732,107,1663082,South Australia
+2012,Persons,274,51,511993,Tasmania
+2012,Persons,139,20,379812,Australian Capital Territory
+2012,Persons,62,7,238728,Northern Territory
+2012,Persons,12997,1683,22928023,
+2013,Males,2780,442,3698220,New South Wales
+2013,Males,1387,268,2884387,Victoria
+2013,Males,2311,351,2333762,Queensland
+2013,Males,867,120,1259941,Western Australia
+2013,Males,460,76,830900,South Australia
+2013,Males,151,22,254878,Tasmania
+2013,Males,86,13,191691,Australian Capital Territory
+2013,Males,40,6,126921,Northern Territory
+2013,Males,8098,1298,11582448,
+2013,Females,1883,180,3756718,New South Wales
+2013,Females,1031,124,2948198,Victoria
+2013,Females,1602,130,2351677,Queensland
+2013,Females,576,61,1242247,Western Australia
+2013,Females,293,39,847152,South Australia
+2013,Females,141,15,258137,Tasmania
+2013,Females,56,6,194627,Australian Capital Territory
+2013,Females,24,2,115450,Northern Territory
+2013,Females,5614,558,11715329,
+2013,Persons,4663,622,7454938,New South Wales
+2013,Persons,2418,392,5832585,Victoria
+2013,Persons,3913,481,4685439,Queensland
+2013,Persons,1443,181,2502188,Western Australia
+2013,Persons,753,115,1678052,South Australia
+2013,Persons,292,37,513015,Tasmania
+2013,Persons,142,19,386318,Australian Capital Territory
+2013,Persons,65,8,242304,Northern Territory
+2013,Persons,13712,1856,23297777,
+2014,Males,2782,378,3750061,New South Wales
+2014,Males,1485,212,2945763,Victoria
+2014,Males,2330,290,2361282,Queensland
+2014,Males,847,117,1271552,Western Australia
+2014,Males,505,97,838094,South Australia
+2014,Males,174,25,255134,Tasmania
+2014,Males,86,12,194291,Australian Capital Territory
+2014,Males,45,7,127079,Northern Territory
+2014,Males,8266,1133,11744498,
+2014,Females,1915,191,3812110,New South Wales
+2014,Females,1102,93,3011749,Victoria
+2014,Females,1581,115,2385981,Queensland
+2014,Females,573,55,1257067,Western Australia
+2014,Females,326,34,855013,South Australia
+2014,Females,174,15,259067,Tasmania
+2014,Females,64,6,197690,Australian Capital Territory
+2014,Females,25,2,116165,Northern Territory
+2014,Females,5778,514,11895833,
+2014,Persons,4697,569,7562171,New South Wales
+2014,Persons,2587,305,5957512,Victoria
+2014,Persons,3911,405,4747263,Queensland
+2014,Persons,1420,172,2528619,Western Australia
+2014,Persons,831,131,1693107,South Australia
+2014,Persons,348,40,514040,Tasmania
+2014,Persons,151,18,391981,Australian Capital Territory
+2014,Persons,70,9,243201,Northern Territory
+2014,Persons,14044,1647,23640331,
+2015,Males,2832,424,3803289,New South Wales
+2015,Males,1612,241,3011376,Victoria
+2015,Males,2330,246,2385347,Queensland
+2015,Males,976,112,1278792,Western Australia
+2015,Males,501,80,843702,South Australia
+2015,Males,176,21,255551,Tasmania
+2015,Males,89,13,197696,Australian Capital Territory
+2015,Males,50,7,127914,Northern Territory
+2015,Males,8602,1148,11904308,
+2015,Females,1916,198,3868112,New South Wales
+2015,Females,1201,125,3081673,Victoria
+2015,Females,1643,103,2419586,Queensland
+2015,Females,713,60,1268953,Western Australia
+2015,Females,310,26,862235,South Australia
+2015,Females,150,6,260242,Tasmania
+2015,Females,71,6,201178,Australian Capital Territory
+2015,Females,27,2,117123,Northern Territory
+2015,Females,6046,527,12080273,
+2015,Persons,4748,622,7671401,New South Wales
+2015,Persons,2813,366,6093049,Victoria
+2015,Persons,3973,349,4804933,Queensland
+2015,Persons,1689,172,2547745,Western Australia
+2015,Persons,811,106,1705937,South Australia
+2015,Persons,326,27,515697,Tasmania
+2015,Persons,160,19,398874,Australian Capital Territory
+2015,Persons,77,9,244692,Northern Territory
+2015,Persons,14648,1675,23984581,
+2016,Males,3118,330,3865361,New South Wales
+2016,Males,1661,193,3082379,Victoria
+2016,Males,2488,241,2421215,Queensland
+2016,Males,983,104,1288303,Western Australia
+2016,Males,501,64,849914,South Australia
+2016,Males,196,23,258456,Tasmania
+2016,Males,98,12,202502,Australian Capital Territory
+2016,Males,56,6,128021,Northern Territory
+2016,Males,9129,965,12098143,
+2016,Females,2071,153,3930264,New South Wales
+2016,Females,1300,100,3153402,Victoria
+2016,Females,1709,103,2461724,Queensland
+2016,Females,679,42,1281303,Western Australia
+2016,Females,354,41,869666,South Australia
+2016,Females,151,8,263525,Tasmania
+2016,Females,77,8,206376,Australian Capital Territory
+2016,Females,28,2,118539,Northern Territory
+2016,Females,6378,458,12286921,
+2016,Persons,5189,483,7795625,New South Wales
+2016,Persons,2961,293,6235781,Victoria
+2016,Persons,4197,344,4882939,Queensland
+2016,Persons,1662,146,2569606,Western Australia
+2016,Persons,855,105,1719580,South Australia
+2016,Persons,347,31,521981,Tasmania
+2016,Persons,174,20,408878,Australian Capital Territory
+2016,Persons,85,9,246443,Northern Territory
+2016,Persons,15507,1423,24385064,
+2017,Males,3275,365,3921301,New South Wales
+2017,Males,1824,181,3144429,Victoria
+2017,Males,2648,267,2458389,Queensland
+2017,Males,940,95,1302076,Western Australia
+2017,Males,496,66,857807,South Australia
+2017,Males,193,26,263305,Tasmania
+2017,Males,113,11,207866,Australian Capital Territory
+2017,Males,55,5,128104,Northern Territory
+2017,Males,9577,1017,12284961,
+2017,Females,2090,213,3979645,New South Wales
+2017,Females,1386,122,3213781,Victoria
+2017,Females,1769,124,2502576,Queensland
+2017,Females,635,51,1297852,Western Australia
+2017,Females,352,30,877847,South Australia
+2017,Females,167,8,268256,Tasmania
+2017,Females,78,9,212360,Australian Capital Territory
+2017,Females,29,2,119647,Northern Territory
+2017,Females,6516,563,12474057,
+2017,Persons,5365,578,7900946,New South Wales
+2017,Persons,3210,303,6358210,Victoria
+2017,Persons,4417,391,4960965,Queensland
+2017,Persons,1575,146,2599928,Western Australia
+2017,Persons,848,96,1735654,South Australia
+2017,Persons,360,34,531561,Tasmania
+2017,Persons,191,20,420226,Australian Capital Territory
+2017,Persons,84,8,247514,Northern Territory
+2017,Persons,16093,1580,24759018,
+2018,Males,3256,376,3976266,New South Wales
+2018,Males,1861,220,3207192,Victoria
+2018,Males,2489,259,2499842,Queensland
+2018,Males,920,90,1319834,Western Australia
+2018,Males,507,67,867603,South Australia
+2018,Males,222,35,268840,Tasmania
+2018,Males,119,13,212822,Australian Capital Territory
+2018,Males,56,5,127221,Northern Territory
+2018,Males,9437,1078,12481024,
+2018,Females,2196,161,4027298,New South Wales
+2018,Females,1361,112,3272503,Victoria
+2018,Females,1805,101,2546592,Queensland
+2018,Females,667,56,1316570,Western Australia
+2018,Females,325,28,888112,South Australia
+2018,Females,203,13,274087,Tasmania
+2018,Females,83,8,217936,Australian Capital Territory
+2018,Females,31,2,119997,Northern Territory
+2018,Females,6682,477,12665116,
+2018,Persons,5452,537,8003564,New South Wales
+2018,Persons,3223,332,6479695,Victoria
+2018,Persons,4294,360,5046434,Queensland
+2018,Persons,1587,146,2636404,Western Australia
+2018,Persons,832,95,1755715,South Australia
+2018,Persons,425,48,542927,Tasmania
+2018,Persons,202,22,430758,Australian Capital Territory
+2018,Persons,86,8,247095,Northern Territory
+2018,Persons,16120,1555,25146140,
+2019,Males,3348,361,4019498,New South Wales
+2019,Males,1789,209,3262240,Victoria
+2019,Males,2811,250,2540680,Queensland
+2019,Males,1031,110,1345064,Western Australia
+2019,Males,577,82,878768,South Australia
+2019,Males,240,29,273893,Tasmania
+2019,Males,125,16,217500,Australian Capital Territory
+2019,Males,57,6,126289,Northern Territory
+2019,Males,9980,1069,12665662,
+2019,Females,2224,180,4068863,New South Wales
+2019,Females,1289,97,3327810,Victoria
+2019,Females,1954,109,2589061,Queensland
+2019,Females,716,52,1343735,Western Australia
+2019,Females,370,36,900160,South Australia
+2019,Females,195,14,279447,Tasmania
+2019,Females,88,8,222767,Australian Capital Territory
+2019,Females,34,1,120727,Northern Territory
+2019,Females,6897,497,12854806,
+2019,Persons,5572,541,8088361,New South Wales
+2019,Persons,3078,306,6590050,Victoria
+2019,Persons,4765,359,5129741,Queensland
+2019,Persons,1747,162,2688799,Western Australia
+2019,Persons,947,118,1778928,South Australia
+2019,Persons,435,43,553340,Tasmania
+2019,Persons,213,24,440267,Australian Capital Territory
+2019,Persons,91,8,246677,Northern Territory
+2019,Persons,16877,1566,25520468,
+2020,Males,3291,388,4031001,New South Wales
+2020,Males,1660,213,3274653,Victoria
+2020,Males,2622,250,2568499,Queensland
+2020,Males,903,96,1364994,Western Australia
+2020,Males,594,79,886475,South Australia
+2020,Males,230,34,278353,Tasmania
+2020,Males,125,17,220886,Australian Capital Territory
+2020,Males,57,5,126133,Northern Territory
+2020,Males,9475,1082,12728639,
+2020,Females,2202,180,4081000,New South Wales
+2020,Females,1162,121,3341983,Victoria
+2020,Females,1865,125,2615830,Queensland
+2020,Females,627,42,1363193,Western Australia
+2020,Females,365,41,908039,South Australia
+2020,Females,216,14,283528,Tasmania
+2020,Females,87,9,226764,Australian Capital Territory
+2020,Females,34,2,121772,Northern Territory
+2020,Females,6545,534,12920609,
+2020,Persons,5493,568,8112001,New South Wales
+2020,Persons,2822,334,6616636,Victoria
+2020,Persons,4487,375,5184329,Queensland
+2020,Persons,1533,138,2728187,Western Australia
+2020,Persons,959,120,1794514,South Australia
+2020,Persons,448,48,561881,Tasmania
+2020,Persons,212,25,447650,Australian Capital Territory
+2020,Persons,90,7,247819,Northern Territory
+2020,Persons,16025,1616,25649248,
