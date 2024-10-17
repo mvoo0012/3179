@@ -1,0 +1,757 @@
+,Cancer,Year,Sex,State,Incident,Incident _Crude_rate_100k,Mortality,Mortality_Crude_rate_100k,Gender,Population
+0,Melanoma of the skin,2007,Males,NSW,"2,126",62.8,339,10.0,Male,3413653
+1,Melanoma of the skin,2007,Males,Vic,"1,188",46.6,182,7.1,Male,2574619
+2,Melanoma of the skin,2007,Males,Qld,"1,591",77.5,211,10.3,Male,2076128
+3,Melanoma of the skin,2007,Males,WA,575,54.2,88,8.3,Male,1075987
+4,Melanoma of the skin,2007,Males,SA,342,44.1,55,7.1,Male,779355
+5,Melanoma of the skin,2007,Males,Tas,127,52.1,12,4.9,Male,245319
+6,Melanoma of the skin,2007,Males,ACT,72,44.0,14,8.3,Male,170383
+7,Melanoma of the skin,2007,Males,NT,30,27.7,3,n.p.,Male,112777
+8,Melanoma of the skin,2007,Males,Australia,"6,034",58.3,909,8.8,Male,10449776
+9,Melanoma of the skin,2007,Females,NSW,"1,420",41.2,138,4.0,Female,3470199
+10,Melanoma of the skin,2007,Females,Vic,986,37.9,95,3.7,Female,2624884
+11,Melanoma of the skin,2007,Females,Qld,"1,125",54.6,90,4.4,Female,2083862
+12,Melanoma of the skin,2007,Females,WA,412,39.4,36,3.4,Female,1059019
+13,Melanoma of the skin,2007,Females,SA,279,35.1,34,4.3,Female,799134
+14,Melanoma of the skin,2007,Females,Tas,109,43.7,4,n.p.,Female,250539
+15,Melanoma of the skin,2007,Females,ACT,59,35.0,4,n.p.,Female,173793
+16,Melanoma of the skin,2007,Females,NT,20,20.6,1,n.p.,Female,103841
+17,Melanoma of the skin,2007,Females,Australia,"4,400",42.0,400,3.8,Female,10566345
+18,Melanoma of the skin,2007,Persons,NSW,"3,546",51.9,477,7.0,Person,6883852
+19,Melanoma of the skin,2007,Persons,Vic,"2,174",42.2,277,5.4,Person,5199503
+20,Melanoma of the skin,2007,Persons,Qld,"2,716",66.1,301,7.3,Person,4159990
+21,Melanoma of the skin,2007,Persons,WA,987,46.9,124,5.9,Person,2135006
+22,Melanoma of the skin,2007,Persons,SA,621,39.5,89,5.7,Person,1578489
+23,Melanoma of the skin,2007,Persons,Tas,236,47.8,16,3.2,Person,495858
+24,Melanoma of the skin,2007,Persons,ACT,131,39.4,18,5.3,Person,344176
+25,Melanoma of the skin,2007,Persons,NT,50,24.3,4,n.p.,Person,216618
+26,Melanoma of the skin,2007,Persons,Australia,"10,434",50.1,"1,309",6.3,Person,21016121
+27,Melanoma of the skin,2008,Males,NSW,"2,155",62.6,347,10.1,Male,3476199
+28,Melanoma of the skin,2008,Males,Vic,"1,247",47.9,187,7.2,Male,2633317
+29,Melanoma of the skin,2008,Males,Qld,"1,776",84.3,213,10.1,Male,2135996
+30,Melanoma of the skin,2008,Males,WA,658,60.1,93,8.5,Male,1113633
+31,Melanoma of the skin,2008,Males,SA,413,52.6,78,9.9,Male,789696
+32,Melanoma of the skin,2008,Males,Tas,163,66.0,27,10.9,Male,248714
+33,Melanoma of the skin,2008,Males,ACT,76,45.7,14,8.1,Male,174242
+34,Melanoma of the skin,2008,Males,NT,29,26.5,3,n.p.,Male,116223
+35,Melanoma of the skin,2008,Males,Australia,"6,529",61.8,959,9.1,Male,10689738
+36,Melanoma of the skin,2008,Females,NSW,"1,489",42.6,150,4.3,Female,3525583
+37,Melanoma of the skin,2008,Females,Vic,982,37.0,89,3.4,Female,2679968
+38,Melanoma of the skin,2008,Females,Qld,"1,193",56.5,95,4.5,Female,2139555
+39,Melanoma of the skin,2008,Females,WA,425,39.5,30,2.8,Female,1095295
+40,Melanoma of the skin,2008,Females,SA,325,40.4,38,4.7,Female,808184
+41,Melanoma of the skin,2008,Females,Tas,114,45.3,13,5.2,Female,253060
+42,Melanoma of the skin,2008,Females,ACT,62,36.6,5,2.7,Female,176859
+43,Melanoma of the skin,2008,Females,NT,20,19.6,1,n.p.,Female,106303
+44,Melanoma of the skin,2008,Females,Australia,"4,606",43.1,424,4.0,Female,10785887
+45,Melanoma of the skin,2008,Persons,NSW,"3,644",52.5,497,7.2,Person,7001782
+46,Melanoma of the skin,2008,Persons,Vic,"2,229",42.4,276,5.3,Person,5313285
+47,Melanoma of the skin,2008,Persons,Qld,"2,969",70.4,308,7.3,Person,4275551
+48,Melanoma of the skin,2008,Persons,WA,"1,083",49.9,123,5.7,Person,2208928
+49,Melanoma of the skin,2008,Persons,SA,738,46.5,116,7.3,Person,1597880
+50,Melanoma of the skin,2008,Persons,Tas,277,55.6,40,8.0,Person,501774
+51,Melanoma of the skin,2008,Persons,ACT,139,41.1,18,5.4,Person,351101
+52,Melanoma of the skin,2008,Persons,NT,49,23.2,4,n.p.,Person,222526
+53,Melanoma of the skin,2008,Persons,Australia,"11,135",52.4,"1,383",6.5,Person,21475625
+54,Melanoma of the skin,2009,Males,NSW,"2,190",62.5,353,10.1,Male,3526643
+55,Melanoma of the skin,2009,Males,Vic,"1,332",50.0,218,8.2,Male,2686022
+56,Melanoma of the skin,2009,Males,Qld,"1,787",82.6,198,9.2,Male,2181500
+57,Melanoma of the skin,2009,Males,WA,637,56.4,90,8.0,Male,1140480
+58,Melanoma of the skin,2009,Males,SA,381,47.9,64,8.0,Male,800926
+59,Melanoma of the skin,2009,Males,Tas,159,63.5,18,7.2,Male,251434
+60,Melanoma of the skin,2009,Males,ACT,77,45.5,14,8.0,Male,177822
+61,Melanoma of the skin,2009,Males,NT,30,26.6,3,n.p.,Male,119297
+62,Melanoma of the skin,2009,Males,Australia,"6,598",61.1,956,8.9,Male,10886022
+63,Melanoma of the skin,2009,Females,NSW,"1,534",43.2,170,4.8,Female,3574861
+64,Melanoma of the skin,2009,Females,Vic,"1,048",38.7,95,3.5,Female,2733227
+65,Melanoma of the skin,2009,Females,Qld,"1,264",58.4,92,4.2,Female,2185954
+66,Melanoma of the skin,2009,Females,WA,399,35.9,47,4.2,Female,1123267
+67,Melanoma of the skin,2009,Females,SA,289,35.5,26,3.2,Female,817652
+68,Melanoma of the skin,2009,Females,Tas,115,45.3,16,6.3,Female,255027
+69,Melanoma of the skin,2009,Females,ACT,57,33.2,6,3.2,Female,180037
+70,Melanoma of the skin,2009,Females,NT,20,19.6,1,n.p.,Female,108486
+71,Melanoma of the skin,2009,Females,Australia,"4,708",43.2,454,4.2,Female,10979601
+72,Melanoma of the skin,2009,Persons,NSW,"3,724",52.8,523,7.4,Person,7101504
+73,Melanoma of the skin,2009,Persons,Vic,"2,380",44.3,313,5.8,Person,5419249
+74,Melanoma of the skin,2009,Persons,Qld,"3,051",70.5,290,6.7,Person,4367454
+75,Melanoma of the skin,2009,Persons,WA,"1,036",46.2,137,6.1,Person,2263747
+76,Melanoma of the skin,2009,Persons,SA,670,41.6,90,5.6,Person,1618578
+77,Melanoma of the skin,2009,Persons,Tas,274,54.3,34,6.7,Person,506461
+78,Melanoma of the skin,2009,Persons,ACT,135,39.3,19,5.6,Person,357859
+79,Melanoma of the skin,2009,Persons,NT,50,23.3,4,n.p.,Person,227783
+80,Melanoma of the skin,2009,Persons,Australia,"11,306",52.1,"1,410",6.5,Person,21865623
+81,Melanoma of the skin,2010,Males,NSW,"2,336",65.8,370,10.4,Male,3565558
+82,Melanoma of the skin,2010,Males,Vic,"1,304",48.2,202,7.5,Male,2720959
+83,Melanoma of the skin,2010,Males,Qld,"1,842",83.7,232,10.5,Male,2214429
+84,Melanoma of the skin,2010,Males,WA,646,56.0,88,7.6,Male,1167862
+85,Melanoma of the skin,2010,Males,SA,386,47.9,67,8.3,Male,808037
+86,Melanoma of the skin,2010,Males,Tas,158,62.5,20,7.9,Male,253833
+87,Melanoma of the skin,2010,Males,ACT,74,43.0,14,7.9,Male,181314
+88,Melanoma of the skin,2010,Males,NT,32,27.7,4,n.p.,Male,120979
+89,Melanoma of the skin,2010,Males,Australia,"6,796",62.0,995,9.1,Male,11034979
+90,Melanoma of the skin,2010,Females,NSW,"1,563",43.5,144,4.0,Female,3614333
+91,Melanoma of the skin,2010,Females,Vic,971,35.2,92,3.3,Female,2774752
+92,Melanoma of the skin,2010,Females,Qld,"1,268",57.5,118,5.4,Female,2222453
+93,Melanoma of the skin,2010,Females,WA,388,34.1,37,3.3,Female,1151201
+94,Melanoma of the skin,2010,Females,SA,311,37.8,18,2.2,Female,824445
+95,Melanoma of the skin,2010,Females,Tas,134,52.4,10,3.9,Female,256386
+96,Melanoma of the skin,2010,Females,ACT,50,28.5,5,3.1,Female,183519
+97,Melanoma of the skin,2010,Females,NT,21,20.2,1,n.p.,Female,109534
+98,Melanoma of the skin,2010,Females,Australia,"4,703",42.5,423,3.8,Female,11137490
+99,Melanoma of the skin,2010,Persons,NSW,"3,899",54.6,514,7.2,Person,7179891
+100,Melanoma of the skin,2010,Persons,Vic,"2,275",41.7,294,5.4,Person,5495711
+101,Melanoma of the skin,2010,Persons,Qld,"3,110",70.6,350,7.9,Person,4436882
+102,Melanoma of the skin,2010,Persons,WA,"1,034",45.1,125,5.5,Person,2319063
+103,Melanoma of the skin,2010,Persons,SA,697,42.8,85,5.2,Person,1632482
+104,Melanoma of the skin,2010,Persons,Tas,292,57.4,30,5.9,Person,510219
+105,Melanoma of the skin,2010,Persons,ACT,124,35.7,19,5.5,Person,364833
+106,Melanoma of the skin,2010,Persons,NT,53,24.1,5,2.2,Person,230460
+107,Melanoma of the skin,2010,Persons,Australia,"11,499",52.2,"1,418",6.4,Person,22172469
+108,Melanoma of the skin,2011,Males,NSW,"2,399",66.9,366,10.2,Male,3604198
+109,Melanoma of the skin,2011,Males,Vic,"1,172",42.8,217,7.9,Male,2766513
+110,Melanoma of the skin,2011,Males,Qld,"1,924",86.1,247,11.1,Male,2253923
+111,Melanoma of the skin,2011,Males,WA,665,56.1,135,11.4,Male,1202068
+112,Melanoma of the skin,2011,Males,SA,404,49.8,73,9.0,Male,815608
+113,Melanoma of the skin,2011,Males,Tas,131,51.4,27,10.6,Male,254896
+114,Melanoma of the skin,2011,Males,ACT,76,43.0,12,7.0,Male,184982
+115,Melanoma of the skin,2011,Males,NT,33,28.0,3,n.p.,Male,122136
+116,Melanoma of the skin,2011,Males,Australia,"6,800",61.2,"1,076",9.7,Male,11206252
+117,Melanoma of the skin,2011,Females,NSW,"1,616",44.5,153,4.2,Female,3654524
+118,Melanoma of the skin,2011,Females,Vic,900,32.2,107,3.8,Female,2825305
+119,Melanoma of the skin,2011,Females,Qld,"1,379",61.5,96,4.3,Female,2264726
+120,Melanoma of the skin,2011,Females,WA,449,38.4,46,3.9,Female,1183879
+121,Melanoma of the skin,2011,Females,SA,287,34.7,26,3.1,Female,831575
+122,Melanoma of the skin,2011,Females,Tas,129,50.3,16,6.2,Female,256984
+123,Melanoma of the skin,2011,Females,ACT,48,27.0,5,2.8,Female,187088
+124,Melanoma of the skin,2011,Females,NT,22,20.4,2,n.p.,Female,110816
+125,Melanoma of the skin,2011,Females,Australia,"4,837",43.1,453,4.0,Female,11315945
+126,Melanoma of the skin,2011,Persons,NSW,"4,015",55.6,519,7.2,Person,7258722
+127,Melanoma of the skin,2011,Persons,Vic,"2,072",37.4,324,5.9,Person,5591818
+128,Melanoma of the skin,2011,Persons,Qld,"3,303",73.8,343,7.7,Person,4518649
+129,Melanoma of the skin,2011,Persons,WA,"1,114",47.3,181,7.7,Person,2385947
+130,Melanoma of the skin,2011,Persons,SA,691,42.1,99,6.0,Person,1647183
+131,Melanoma of the skin,2011,Persons,Tas,260,50.8,43,8.4,Person,511880
+132,Melanoma of the skin,2011,Persons,ACT,124,34.9,17,4.9,Person,372070
+133,Melanoma of the skin,2011,Persons,NT,55,24.4,5,2.1,Person,232952
+134,Melanoma of the skin,2011,Persons,Australia,"11,637",52.1,"1,529",6.8,Person,22522197
+135,Melanoma of the skin,2012,Males,NSW,"2,490",68.7,368,10.1,Male,3650035
+136,Melanoma of the skin,2012,Males,Vic,"1,292",46.2,210,7.5,Male,2825349
+137,Melanoma of the skin,2012,Males,Qld,"2,014",88.4,231,10.1,Male,2299776
+138,Melanoma of the skin,2012,Males,WA,694,56.7,112,9.2,Male,1239615
+139,Melanoma of the skin,2012,Males,SA,393,47.9,64,7.8,Male,823688
+140,Melanoma of the skin,2012,Males,Tas,146,57.3,28,11.0,Male,254866
+141,Melanoma of the skin,2012,Males,ACT,79,43.8,12,6.6,Male,188673
+142,Melanoma of the skin,2012,Males,NT,37,31.1,5,3.8,Male,125043
+143,Melanoma of the skin,2012,Males,Australia,"7,152",63.2,"1,039",9.2,Male,11408788
+144,Melanoma of the skin,2012,Females,NSW,"1,699",46.2,177,4.8,Female,3703154
+145,Melanoma of the skin,2012,Females,Vic,988,34.6,104,3.6,Female,2884237
+146,Melanoma of the skin,2012,Females,Qld,"1,430",62.4,105,4.6,Female,2311528
+147,Melanoma of the skin,2012,Females,WA,451,37.5,39,3.2,Female,1217874
+148,Melanoma of the skin,2012,Females,SA,302,36.1,37,4.4,Female,839394
+149,Melanoma of the skin,2012,Females,Tas,109,42.4,21,8.2,Female,257127
+150,Melanoma of the skin,2012,Females,ACT,54,29.4,6,3.3,Female,191139
+151,Melanoma of the skin,2012,Females,NT,23,21.1,1,n.p.,Female,113685
+152,Melanoma of the skin,2012,Females,Australia,"5,081",44.5,490,4.3,Female,11519235
+153,Melanoma of the skin,2012,Persons,NSW,"4,189",57.4,545,7.5,Person,7353189
+154,Melanoma of the skin,2012,Persons,Vic,"2,280",40.3,314,5.6,Person,5709586
+155,Melanoma of the skin,2012,Persons,Qld,"3,444",75.4,336,7.4,Person,4611304
+156,Melanoma of the skin,2012,Persons,WA,"1,145",47.2,151,6.2,Person,2457489
+157,Melanoma of the skin,2012,Persons,SA,695,42.0,101,6.1,Person,1663082
+158,Melanoma of the skin,2012,Persons,Tas,255,49.8,49,9.6,Person,511993
+159,Melanoma of the skin,2012,Persons,ACT,132,36.6,18,4.9,Person,379812
+160,Melanoma of the skin,2012,Persons,NT,60,26.3,6,2.6,Person,238728
+161,Melanoma of the skin,2012,Persons,Australia,"12,233",53.8,"1,529",6.7,Person,22928023
+162,Melanoma of the skin,2013,Males,NSW,"2,540",69.1,398,10.8,Male,3698220
+163,Melanoma of the skin,2013,Males,Vic,"1,330",46.6,249,8.7,Male,2884387
+164,Melanoma of the skin,2013,Males,Qld,"2,163",93.3,313,13.5,Male,2333762
+165,Melanoma of the skin,2013,Males,WA,780,62.2,109,8.7,Male,1259941
+166,Melanoma of the skin,2013,Males,SA,437,52.8,70,8.5,Male,830900
+167,Melanoma of the skin,2013,Males,Tas,139,54.6,21,8.2,Male,254878
+168,Melanoma of the skin,2013,Males,ACT,81,44.0,12,6.4,Male,191691
+169,Melanoma of the skin,2013,Males,NT,39,31.8,5,4.3,Male,126921
+170,Melanoma of the skin,2013,Males,Australia,"7,523",65.4,"1,177",10.2,Male,11582448
+171,Melanoma of the skin,2013,Females,NSW,"1,767",47.4,155,4.2,Female,3756718
+172,Melanoma of the skin,2013,Females,Vic,"1,002",34.4,118,4.0,Female,2948198
+173,Melanoma of the skin,2013,Females,Qld,"1,530",65.6,110,4.7,Female,2351677
+174,Melanoma of the skin,2013,Females,WA,532,43.2,51,4.1,Female,1242247
+175,Melanoma of the skin,2013,Females,SA,284,33.7,36,4.3,Female,847152
+176,Melanoma of the skin,2013,Females,Tas,136,52.8,12,4.7,Female,258137
+177,Melanoma of the skin,2013,Females,ACT,54,29.2,5,2.9,Female,194627
+178,Melanoma of the skin,2013,Females,NT,24,22.0,2,n.p.,Female,115450
+179,Melanoma of the skin,2013,Females,Australia,"5,339",45.9,489,4.2,Female,11715329
+180,Melanoma of the skin,2013,Persons,NSW,"4,307",58.2,553,7.5,Person,7454938
+181,Melanoma of the skin,2013,Persons,Vic,"2,332",40.4,367,6.4,Person,5832585
+182,Melanoma of the skin,2013,Persons,Qld,"3,693",79.4,423,9.1,Person,4685439
+183,Melanoma of the skin,2013,Persons,WA,"1,312",52.8,160,6.4,Person,2502188
+184,Melanoma of the skin,2013,Persons,SA,721,43.1,106,6.3,Person,1678052
+185,Melanoma of the skin,2013,Persons,Tas,275,53.7,33,6.4,Person,513015
+186,Melanoma of the skin,2013,Persons,ACT,135,36.5,17,4.7,Person,386318
+187,Melanoma of the skin,2013,Persons,NT,63,27.1,7,2.9,Person,242304
+188,Melanoma of the skin,2013,Persons,Australia,"12,862",55.6,"1,666",7.2,Person,23297777
+189,Melanoma of the skin,2014,Males,NSW,"2,558",68.7,336,9.0,Male,3750061
+190,Melanoma of the skin,2014,Males,Vic,"1,402",48.1,190,6.5,Male,2945763
+191,Melanoma of the skin,2014,Males,Qld,"2,199",93.6,250,10.6,Male,2361282
+192,Melanoma of the skin,2014,Males,WA,770,60.8,103,8.1,Male,1271552
+193,Melanoma of the skin,2014,Males,SA,478,57.2,90,10.8,Male,838094
+194,Melanoma of the skin,2014,Males,Tas,163,63.9,23,9.0,Male,255134
+195,Melanoma of the skin,2014,Males,ACT,81,43.5,11,5.8,Male,194291
+196,Melanoma of the skin,2014,Males,NT,43,34.4,6,4.5,Male,127079
+197,Melanoma of the skin,2014,Males,Australia,"7,705",66.0,"1,004",8.6,Male,11744498
+198,Melanoma of the skin,2014,Females,NSW,"1,797",47.5,165,4.4,Female,3812110
+199,Melanoma of the skin,2014,Females,Vic,"1,064",35.7,88,3.0,Female,3011749
+200,Melanoma of the skin,2014,Females,Qld,"1,507",63.6,102,4.3,Female,2385981
+201,Melanoma of the skin,2014,Females,WA,530,42.4,49,3.9,Female,1257067
+202,Melanoma of the skin,2014,Females,SA,310,36.4,33,3.9,Female,855013
+203,Melanoma of the skin,2014,Females,Tas,169,65.3,14,5.4,Female,259067
+204,Melanoma of the skin,2014,Females,ACT,63,33.3,5,2.8,Female,197690
+205,Melanoma of the skin,2014,Females,NT,25,22.2,2,n.p.,Female,116165
+206,Melanoma of the skin,2014,Females,Australia,"5,483",46.4,461,3.9,Female,11895833
+207,Melanoma of the skin,2014,Persons,NSW,"4,355",58.0,501,6.7,Person,7562171
+208,Melanoma of the skin,2014,Persons,Vic,"2,466",41.8,278,4.7,Person,5957512
+209,Melanoma of the skin,2014,Persons,Qld,"3,706",78.5,352,7.5,Person,4747263
+210,Melanoma of the skin,2014,Persons,WA,"1,300",51.6,152,6.0,Person,2528619
+211,Melanoma of the skin,2014,Persons,SA,788,46.7,123,7.3,Person,1693107
+212,Melanoma of the skin,2014,Persons,Tas,332,64.6,37,7.2,Person,514040
+213,Melanoma of the skin,2014,Persons,ACT,144,38.4,16,4.3,Person,391981
+214,Melanoma of the skin,2014,Persons,NT,68,28.6,8,3.3,Person,243201
+215,Melanoma of the skin,2014,Persons,Australia,"13,188",56.2,"1,465",6.2,Person,23640331
+216,Melanoma of the skin,2015,Males,NSW,"2,581",68.3,386,10.2,Male,3803289
+217,Melanoma of the skin,2015,Males,Vic,"1,533",51.5,215,7.2,Male,3011376
+218,Melanoma of the skin,2015,Males,Qld,"2,192",92.3,221,9.3,Male,2385347
+219,Melanoma of the skin,2015,Males,WA,895,70.1,102,8.0,Male,1278792
+220,Melanoma of the skin,2015,Males,SA,471,56.0,74,8.8,Male,843702
+221,Melanoma of the skin,2015,Males,Tas,166,65.0,18,7.0,Male,255551
+222,Melanoma of the skin,2015,Males,ACT,84,44.0,12,6.1,Male,197696
+223,Melanoma of the skin,2015,Males,NT,48,38.4,6,4.9,Male,127914
+224,Melanoma of the skin,2015,Males,Australia,"8,004",67.7,"1,039",8.8,Male,11904308
+225,Melanoma of the skin,2015,Females,NSW,"1,780",46.4,176,4.6,Female,3868112
+226,Melanoma of the skin,2015,Females,Vic,"1,162",38.2,111,3.6,Female,3081673
+227,Melanoma of the skin,2015,Females,Qld,"1,561",65.0,97,4.0,Female,2419586
+228,Melanoma of the skin,2015,Females,WA,669,52.9,54,4.3,Female,1268953
+229,Melanoma of the skin,2015,Females,SA,295,34.3,24,2.8,Female,862235
+230,Melanoma of the skin,2015,Females,Tas,136,52.4,5,1.9,Female,260242
+231,Melanoma of the skin,2015,Females,ACT,70,36.1,6,3.1,Female,201178
+232,Melanoma of the skin,2015,Females,NT,27,23.7,2,n.p.,Female,117123
+233,Melanoma of the skin,2015,Females,Australia,"5,714",47.7,475,4.0,Female,12080273
+234,Melanoma of the skin,2015,Persons,NSW,"4,361",57.3,562,7.4,Person,7671401
+235,Melanoma of the skin,2015,Persons,Vic,"2,695",44.8,326,5.4,Person,6093049
+236,Melanoma of the skin,2015,Persons,Qld,"3,753",78.6,318,6.7,Person,4804933
+237,Melanoma of the skin,2015,Persons,WA,"1,564",61.6,156,6.1,Person,2547745
+238,Melanoma of the skin,2015,Persons,SA,766,45.0,98,5.8,Person,1705937
+239,Melanoma of the skin,2015,Persons,Tas,302,58.6,23,4.5,Person,515697
+240,Melanoma of the skin,2015,Persons,ACT,153,40.1,18,4.6,Person,398874
+241,Melanoma of the skin,2015,Persons,NT,75,31.4,8,3.5,Person,244692
+242,Melanoma of the skin,2015,Persons,Australia,"13,718",57.6,"1,514",6.4,Person,23984581
+243,Melanoma of the skin,2016,Males,NSW,"2,858",74.5,288,7.5,Male,3865361
+244,Melanoma of the skin,2016,Males,Vic,"1,569",51.4,178,5.8,Male,3082379
+245,Melanoma of the skin,2016,Males,Qld,"2,331",97.0,213,8.9,Male,2421215
+246,Melanoma of the skin,2016,Males,WA,912,71.1,91,7.1,Male,1288303
+247,Melanoma of the skin,2016,Males,SA,463,54.7,56,6.6,Male,849914
+248,Melanoma of the skin,2016,Males,Tas,185,72.2,23,9.0,Male,258456
+249,Melanoma of the skin,2016,Males,ACT,92,47.4,11,5.8,Male,202502
+250,Melanoma of the skin,2016,Males,NT,54,42.5,6,4.9,Male,128021
+251,Melanoma of the skin,2016,Males,Australia,"8,491",70.7,858,7.1,Male,12098143
+252,Melanoma of the skin,2016,Females,NSW,"1,927",49.4,131,3.4,Female,3930264
+253,Melanoma of the skin,2016,Females,Vic,"1,251",40.1,85,2.7,Female,3153402
+254,Melanoma of the skin,2016,Females,Qld,"1,633",66.9,88,3.6,Female,2461724
+255,Melanoma of the skin,2016,Females,WA,624,49.0,36,2.8,Female,1281303
+256,Melanoma of the skin,2016,Females,SA,341,39.4,39,4.5,Female,869666
+257,Melanoma of the skin,2016,Females,Tas,148,56.6,7,2.7,Female,263525
+258,Melanoma of the skin,2016,Females,ACT,75,38.2,7,3.4,Female,206376
+259,Melanoma of the skin,2016,Females,NT,28,24.6,2,n.p.,Female,118539
+260,Melanoma of the skin,2016,Females,Australia,"6,034",49.5,396,3.2,Female,12286921
+261,Melanoma of the skin,2016,Persons,NSW,"4,785",61.9,419,5.4,Person,7795625
+262,Melanoma of the skin,2016,Persons,Vic,"2,820",45.7,263,4.3,Person,6235781
+263,Melanoma of the skin,2016,Persons,Qld,"3,964",81.8,301,6.2,Person,4882939
+264,Melanoma of the skin,2016,Persons,WA,"1,536",60.1,127,5.0,Person,2569606
+265,Melanoma of the skin,2016,Persons,SA,804,46.9,95,5.5,Person,1719580
+266,Melanoma of the skin,2016,Persons,Tas,333,64.3,30,5.8,Person,521981
+267,Melanoma of the skin,2016,Persons,ACT,167,42.8,18,4.6,Person,408878
+268,Melanoma of the skin,2016,Persons,NT,82,33.9,8,3.3,Person,246443
+269,Melanoma of the skin,2016,Persons,Australia,"14,525",60.0,"1,254",5.2,Person,24385064
+270,Melanoma of the skin,2017,Males,NSW,"2,975",76.3,319,8.2,Male,3921301
+271,Melanoma of the skin,2017,Males,Vic,"1,673",53.7,162,5.2,Male,3144429
+272,Melanoma of the skin,2017,Males,Qld,"2,477",101.4,241,9.9,Male,2458389
+273,Melanoma of the skin,2017,Males,WA,867,66.9,89,6.9,Male,1302076
+274,Melanoma of the skin,2017,Males,SA,467,54.7,59,6.9,Male,857807
+275,Melanoma of the skin,2017,Males,Tas,181,69.4,23,8.8,Male,263305
+276,Melanoma of the skin,2017,Males,ACT,107,54.4,10,5.2,Male,207866
+277,Melanoma of the skin,2017,Males,NT,52,40.9,5,3.9,Male,128104
+278,Melanoma of the skin,2017,Males,Australia,"8,833",72.4,908,7.4,Male,12284961
+279,Melanoma of the skin,2017,Females,NSW,"1,957",49.4,186,4.7,Female,3979645
+280,Melanoma of the skin,2017,Females,Vic,"1,310",41.1,111,3.5,Female,3213781
+281,Melanoma of the skin,2017,Females,Qld,"1,671",67.3,106,4.3,Female,2502576
+282,Melanoma of the skin,2017,Females,WA,586,45.4,46,3.6,Female,1297852
+283,Melanoma of the skin,2017,Females,SA,332,38.0,25,2.9,Female,877847
+284,Melanoma of the skin,2017,Females,Tas,158,59.4,7,2.6,Female,268256
+285,Melanoma of the skin,2017,Females,ACT,77,38.5,8,3.9,Female,212360
+286,Melanoma of the skin,2017,Females,NT,29,24.6,2,n.p.,Female,119647
+287,Melanoma of the skin,2017,Females,Australia,"6,129",49.5,495,4.0,Female,12474057
+288,Melanoma of the skin,2017,Persons,NSW,"4,932",62.8,505,6.4,Person,7900946
+289,Melanoma of the skin,2017,Persons,Vic,"2,983",47.3,273,4.3,Person,6358210
+290,Melanoma of the skin,2017,Persons,Qld,"4,148",84.2,347,7.0,Person,4960965
+291,Melanoma of the skin,2017,Persons,WA,"1,453",56.2,135,5.2,Person,2599928
+292,Melanoma of the skin,2017,Persons,SA,799,46.2,84,4.9,Person,1735654
+293,Melanoma of the skin,2017,Persons,Tas,339,64.4,30,5.7,Person,531561
+294,Melanoma of the skin,2017,Persons,ACT,184,46.4,18,4.5,Person,420226
+295,Melanoma of the skin,2017,Persons,NT,81,33.1,7,2.9,Person,247514
+296,Melanoma of the skin,2017,Persons,Australia,"14,962",60.8,"1,403",5.7,Person,24759018
+297,Melanoma of the skin,2018,Males,NSW,"2,984",75.5,333,8.4,Male,3976266
+298,Melanoma of the skin,2018,Males,Vic,"1,766",55.6,195,6.1,Male,3207192
+299,Melanoma of the skin,2018,Males,Qld,"2,341",94.4,235,9.5,Male,2499842
+300,Melanoma of the skin,2018,Males,WA,857,65.4,80,6.1,Male,1319834
+301,Melanoma of the skin,2018,Males,SA,476,55.2,62,7.2,Male,867603
+302,Melanoma of the skin,2018,Males,Tas,205,77.0,33,12.4,Male,268840
+303,Melanoma of the skin,2018,Males,ACT,114,56.7,12,6.1,Male,212822
+304,Melanoma of the skin,2018,Males,NT,53,41.4,5,4.1,Male,127221
+305,Melanoma of the skin,2018,Males,Australia,"8,807",71.1,966,7.8,Male,12481024
+306,Melanoma of the skin,2018,Females,NSW,"2,021",50.5,139,3.5,Female,4027298
+307,Melanoma of the skin,2018,Females,Vic,"1,311",40.4,97,3.0,Female,3272503
+308,Melanoma of the skin,2018,Females,Qld,"1,731",68.5,88,3.5,Female,2546592
+309,Melanoma of the skin,2018,Females,WA,627,48.0,52,4.0,Female,1316570
+310,Melanoma of the skin,2018,Females,SA,309,35.0,23,2.6,Female,888112
+311,Melanoma of the skin,2018,Females,Tas,196,72.3,12,4.4,Female,274087
+312,Melanoma of the skin,2018,Females,ACT,81,39.7,8,3.9,Female,217936
+313,Melanoma of the skin,2018,Females,NT,30,25.8,2,n.p.,Female,119997
+314,Melanoma of the skin,2018,Females,Australia,"6,315",50.2,417,3.3,Female,12665116
+315,Melanoma of the skin,2018,Persons,NSW,"5,005",62.9,472,5.9,Person,8003564
+316,Melanoma of the skin,2018,Persons,Vic,"3,078",47.9,292,4.5,Person,6479695
+317,Melanoma of the skin,2018,Persons,Qld,"4,072",81.3,323,6.5,Person,5046434
+318,Melanoma of the skin,2018,Persons,WA,"1,484",56.7,132,5.0,Person,2636404
+319,Melanoma of the skin,2018,Persons,SA,785,45.0,85,4.9,Person,1755715
+320,Melanoma of the skin,2018,Persons,Tas,401,74.6,45,8.4,Person,542927
+321,Melanoma of the skin,2018,Persons,ACT,195,48.1,20,5.0,Person,430758
+322,Melanoma of the skin,2018,Persons,NT,83,33.9,7,2.8,Person,247095
+323,Melanoma of the skin,2018,Persons,Australia,"15,123",60.6,"1,383",5.5,Person,25146140
+324,Melanoma of the skin,2019,Males,NSW,"3,012",75.3,307,7.7,Male,4019498
+325,Melanoma of the skin,2019,Males,Vic,"1,632",50.4,189,5.8,Male,3262240
+326,Melanoma of the skin,2019,Males,Qld,"2,601",103.2,212,8.4,Male,2540680
+327,Melanoma of the skin,2019,Males,WA,945,71.0,104,7.8,Male,1345064
+328,Melanoma of the skin,2019,Males,SA,545,62.4,79,9.0,Male,878768
+329,Melanoma of the skin,2019,Males,Tas,224,82.6,26,9.6,Male,273893
+330,Melanoma of the skin,2019,Males,ACT,120,58.3,14,6.9,Male,217500
+331,Melanoma of the skin,2019,Males,NT,55,43.3,6,4.6,Male,126289
+332,Melanoma of the skin,2019,Males,Australia,"9,135",72.6,942,7.5,Male,12665662
+333,Melanoma of the skin,2019,Females,NSW,"2,077",51.3,157,3.9,Female,4068863
+334,Melanoma of the skin,2019,Females,Vic,"1,202",36.4,85,2.6,Female,3327810
+335,Melanoma of the skin,2019,Females,Qld,"1,845",71.9,99,3.9,Female,2589061
+336,Melanoma of the skin,2019,Females,WA,676,50.9,45,3.4,Female,1343735
+337,Melanoma of the skin,2019,Females,SA,357,39.9,33,3.7,Female,900160
+338,Melanoma of the skin,2019,Females,Tas,188,68.0,14,5.1,Female,279447
+339,Melanoma of the skin,2019,Females,ACT,86,40.8,8,3.7,Female,222767
+340,Melanoma of the skin,2019,Females,NT,33,27.6,1,n.p.,Female,120727
+341,Melanoma of the skin,2019,Females,Australia,"6,491",50.9,441,3.5,Female,12854806
+342,Melanoma of the skin,2019,Persons,NSW,"5,089",63.2,464,5.8,Person,8088361
+343,Melanoma of the skin,2019,Persons,Vic,"2,834",43.4,274,4.2,Person,6590050
+344,Melanoma of the skin,2019,Persons,Qld,"4,446",87.4,311,6.1,Person,5129741
+345,Melanoma of the skin,2019,Persons,WA,"1,621",60.9,149,5.6,Person,2688799
+346,Melanoma of the skin,2019,Persons,SA,902,51.0,112,6.3,Person,1778928
+347,Melanoma of the skin,2019,Persons,Tas,412,75.2,40,7.3,Person,553340
+348,Melanoma of the skin,2019,Persons,ACT,205,49.5,22,5.3,Person,440267
+349,Melanoma of the skin,2019,Persons,NT,88,35.7,7,2.9,Person,246677
+350,Melanoma of the skin,2019,Persons,Australia,"15,626",61.7,"1,383",5.5,Person,25520468
+351,Melanoma of the skin,2020,Males,NSW,"2,894",71.8,347,8.6,Male,4031001
+352,Melanoma of the skin,2020,Males,Vic,"1,493",45.6,183,5.6,Male,3274653
+353,Melanoma of the skin,2020,Males,Qld,"2,408",94.1,222,8.7,Male,2568499
+354,Melanoma of the skin,2020,Males,WA,817,60.2,85,6.3,Male,1364994
+355,Melanoma of the skin,2020,Males,SA,544,61.5,68,7.7,Male,886475
+356,Melanoma of the skin,2020,Males,Tas,221,80.1,28,10.1,Male,278353
+357,Melanoma of the skin,2020,Males,ACT,120,57.2,15,7.1,Male,220886
+358,Melanoma of the skin,2020,Males,NT,55,43.4,5,3.6,Male,126133
+359,Melanoma of the skin,2020,Males,Australia,"8,546",67.1,954,7.5,Male,12728639
+360,Melanoma of the skin,2020,Females,NSW,"2,024",49.6,146,3.6,Female,4081000
+361,Melanoma of the skin,2020,Females,Vic,"1,093",32.7,98,2.9,Female,3341983
+362,Melanoma of the skin,2020,Females,Qld,"1,761",67.5,105,4.0,Female,2615830
+363,Melanoma of the skin,2020,Females,WA,597,44.0,38,2.8,Female,1363193
+364,Melanoma of the skin,2020,Females,SA,347,38.3,39,4.3,Female,908039
+365,Melanoma of the skin,2020,Females,Tas,205,72.8,9,3.2,Female,283528
+366,Melanoma of the skin,2020,Females,ACT,85,39.4,8,3.7,Female,226764
+367,Melanoma of the skin,2020,Females,NT,33,27.7,2,n.p.,Female,121772
+368,Melanoma of the skin,2020,Females,Australia,"6,135",47.5,445,3.4,Female,12920609
+369,Melanoma of the skin,2020,Persons,NSW,"4,918",60.6,493,6.1,Person,8112001
+370,Melanoma of the skin,2020,Persons,Vic,"2,586",39.1,281,4.2,Person,6616636
+371,Melanoma of the skin,2020,Persons,Qld,"4,169",80.7,327,6.3,Person,5184329
+372,Melanoma of the skin,2020,Persons,WA,"1,417",52.2,123,4.5,Person,2728187
+373,Melanoma of the skin,2020,Persons,SA,891,49.8,107,6.0,Person,1794514
+374,Melanoma of the skin,2020,Persons,Tas,428,76.8,37,6.6,Person,561881
+375,Melanoma of the skin,2020,Persons,ACT,205,48.2,23,5.4,Person,447650
+376,Melanoma of the skin,2020,Persons,NT,88,35.8,6,2.5,Person,247819
+377,Melanoma of the skin,2020,Persons,Australia,"14,686",57.3,"1,399",5.5,Person,25649248
+378,Non-melanoma skin cancer (rare types),2007,Males,NSW,178,5.3,35,1.0,Male,3413653
+379,Non-melanoma skin cancer (rare types),2007,Males,Vic,53,2.1,6,0.2,Male,2574619
+380,Non-melanoma skin cancer (rare types),2007,Males,Qld,109,5.3,23,1.1,Male,2076128
+381,Non-melanoma skin cancer (rare types),2007,Males,WA,48,4.5,12,1.1,Male,1075987
+382,Non-melanoma skin cancer (rare types),2007,Males,SA,14,1.8,4,n.p.,Male,779355
+383,Non-melanoma skin cancer (rare types),2007,Males,Tas,12,4.9,1,n.p.,Male,245319
+384,Non-melanoma skin cancer (rare types),2007,Males,ACT,5,2.9,1,n.p.,Male,170383
+385,Non-melanoma skin cancer (rare types),2007,Males,NT,0,n.p.,0,n.p.,Male,112777
+386,Non-melanoma skin cancer (rare types),2007,Males,Australia,416,4.0,82,0.8,Male,10449776
+387,Non-melanoma skin cancer (rare types),2007,Females,NSW,119,3.5,22,0.6,Female,3470199
+388,Non-melanoma skin cancer (rare types),2007,Females,Vic,36,1.4,5,0.2,Female,2624884
+389,Non-melanoma skin cancer (rare types),2007,Females,Qld,49,2.4,8,0.4,Female,2083862
+390,Non-melanoma skin cancer (rare types),2007,Females,WA,25,2.4,7,0.7,Female,1059019
+391,Non-melanoma skin cancer (rare types),2007,Females,SA,7,0.9,5,0.6,Female,799134
+392,Non-melanoma skin cancer (rare types),2007,Females,Tas,6,2.4,5,2.0,Female,250539
+393,Non-melanoma skin cancer (rare types),2007,Females,ACT,2,n.p.,0,n.p.,Female,173793
+394,Non-melanoma skin cancer (rare types),2007,Females,NT,0,0.0,0,0.0,Female,103841
+395,Non-melanoma skin cancer (rare types),2007,Females,Australia,242,2.3,52,0.5,Female,10566345
+396,Non-melanoma skin cancer (rare types),2007,Persons,NSW,297,4.3,57,0.8,Person,6883852
+397,Non-melanoma skin cancer (rare types),2007,Persons,Vic,89,1.7,11,0.2,Person,5199503
+398,Non-melanoma skin cancer (rare types),2007,Persons,Qld,158,3.8,31,0.8,Person,4159990
+399,Non-melanoma skin cancer (rare types),2007,Persons,WA,73,3.5,19,0.9,Person,2135006
+400,Non-melanoma skin cancer (rare types),2007,Persons,SA,21,1.3,9,0.6,Person,1578489
+401,Non-melanoma skin cancer (rare types),2007,Persons,Tas,18,3.6,6,1.2,Person,495858
+402,Non-melanoma skin cancer (rare types),2007,Persons,ACT,7,2.2,1,n.p.,Person,344176
+403,Non-melanoma skin cancer (rare types),2007,Persons,NT,0,n.p.,0,n.p.,Person,216618
+404,Non-melanoma skin cancer (rare types),2007,Persons,Australia,658,3.2,134,0.6,Person,21016121
+405,Non-melanoma skin cancer (rare types),2008,Males,NSW,166,4.8,28,0.8,Male,3476199
+406,Non-melanoma skin cancer (rare types),2008,Males,Vic,40,1.5,6,0.2,Male,2633317
+407,Non-melanoma skin cancer (rare types),2008,Males,Qld,119,5.6,25,1.2,Male,2135996
+408,Non-melanoma skin cancer (rare types),2008,Males,WA,52,4.7,5,0.5,Male,1113633
+409,Non-melanoma skin cancer (rare types),2008,Males,SA,11,1.4,4,n.p.,Male,789696
+410,Non-melanoma skin cancer (rare types),2008,Males,Tas,7,2.8,2,n.p.,Male,248714
+411,Non-melanoma skin cancer (rare types),2008,Males,ACT,4,n.p.,2,n.p.,Male,174242
+412,Non-melanoma skin cancer (rare types),2008,Males,NT,1,n.p.,0,n.p.,Male,116223
+413,Non-melanoma skin cancer (rare types),2008,Males,Australia,402,3.8,75,0.7,Male,10689738
+414,Non-melanoma skin cancer (rare types),2008,Females,NSW,127,3.6,24,0.7,Female,3525583
+415,Non-melanoma skin cancer (rare types),2008,Females,Vic,30,1.1,6,0.2,Female,2679968
+416,Non-melanoma skin cancer (rare types),2008,Females,Qld,38,1.8,11,0.5,Female,2139555
+417,Non-melanoma skin cancer (rare types),2008,Females,WA,29,2.7,3,n.p.,Female,1095295
+418,Non-melanoma skin cancer (rare types),2008,Females,SA,6,0.7,4,n.p.,Female,808184
+419,Non-melanoma skin cancer (rare types),2008,Females,Tas,8,3.2,0,0.0,Female,253060
+420,Non-melanoma skin cancer (rare types),2008,Females,ACT,2,n.p.,0,n.p.,Female,176859
+421,Non-melanoma skin cancer (rare types),2008,Females,NT,0,n.p.,0,0.0,Female,106303
+422,Non-melanoma skin cancer (rare types),2008,Females,Australia,241,2.3,48,0.4,Female,10785887
+423,Non-melanoma skin cancer (rare types),2008,Persons,NSW,293,4.2,52,0.7,Person,7001782
+424,Non-melanoma skin cancer (rare types),2008,Persons,Vic,70,1.3,12,0.2,Person,5313285
+425,Non-melanoma skin cancer (rare types),2008,Persons,Qld,157,3.7,36,0.9,Person,4275551
+426,Non-melanoma skin cancer (rare types),2008,Persons,WA,81,3.7,8,0.4,Person,2208928
+427,Non-melanoma skin cancer (rare types),2008,Persons,SA,17,1.1,8,0.5,Person,1597880
+428,Non-melanoma skin cancer (rare types),2008,Persons,Tas,15,3.0,2,n.p.,Person,501774
+429,Non-melanoma skin cancer (rare types),2008,Persons,ACT,6,1.7,2,n.p.,Person,351101
+430,Non-melanoma skin cancer (rare types),2008,Persons,NT,1,n.p.,0,n.p.,Person,222526
+431,Non-melanoma skin cancer (rare types),2008,Persons,Australia,643,3.0,123,0.6,Person,21475625
+432,Non-melanoma skin cancer (rare types),2009,Males,NSW,190,5.4,35,1.0,Male,3526643
+433,Non-melanoma skin cancer (rare types),2009,Males,Vic,47,1.8,9,0.3,Male,2686022
+434,Non-melanoma skin cancer (rare types),2009,Males,Qld,135,6.2,24,1.1,Male,2181500
+435,Non-melanoma skin cancer (rare types),2009,Males,WA,46,4.1,6,0.5,Male,1140480
+436,Non-melanoma skin cancer (rare types),2009,Males,SA,15,1.9,7,0.9,Male,800926
+437,Non-melanoma skin cancer (rare types),2009,Males,Tas,9,3.6,3,n.p.,Male,251434
+438,Non-melanoma skin cancer (rare types),2009,Males,ACT,3,n.p.,2,n.p.,Male,177822
+439,Non-melanoma skin cancer (rare types),2009,Males,NT,1,n.p.,0,n.p.,Male,119297
+440,Non-melanoma skin cancer (rare types),2009,Males,Australia,446,4.1,84,0.8,Male,10886022
+441,Non-melanoma skin cancer (rare types),2009,Females,NSW,111,3.1,22,0.6,Female,3574861
+442,Non-melanoma skin cancer (rare types),2009,Females,Vic,32,1.2,14,0.5,Female,2733227
+443,Non-melanoma skin cancer (rare types),2009,Females,Qld,55,2.5,5,0.2,Female,2185954
+444,Non-melanoma skin cancer (rare types),2009,Females,WA,31,2.8,5,0.5,Female,1123267
+445,Non-melanoma skin cancer (rare types),2009,Females,SA,10,1.2,5,0.6,Female,817652
+446,Non-melanoma skin cancer (rare types),2009,Females,Tas,5,2.0,0,0.0,Female,255027
+447,Non-melanoma skin cancer (rare types),2009,Females,ACT,2,n.p.,1,n.p.,Female,180037
+448,Non-melanoma skin cancer (rare types),2009,Females,NT,0,n.p.,0,0.0,Female,108486
+449,Non-melanoma skin cancer (rare types),2009,Females,Australia,247,2.3,52,0.5,Female,10979601
+450,Non-melanoma skin cancer (rare types),2009,Persons,NSW,301,4.3,57,0.8,Person,7101504
+451,Non-melanoma skin cancer (rare types),2009,Persons,Vic,79,1.5,23,0.4,Person,5419249
+452,Non-melanoma skin cancer (rare types),2009,Persons,Qld,190,4.4,29,0.7,Person,4367454
+453,Non-melanoma skin cancer (rare types),2009,Persons,WA,77,3.4,11,0.5,Person,2263747
+454,Non-melanoma skin cancer (rare types),2009,Persons,SA,25,1.6,12,0.7,Person,1618578
+455,Non-melanoma skin cancer (rare types),2009,Persons,Tas,14,2.8,3,n.p.,Person,506461
+456,Non-melanoma skin cancer (rare types),2009,Persons,ACT,5,1.6,2,n.p.,Person,357859
+457,Non-melanoma skin cancer (rare types),2009,Persons,NT,1,n.p.,0,n.p.,Person,227783
+458,Non-melanoma skin cancer (rare types),2009,Persons,Australia,693,3.2,136,0.6,Person,21865623
+459,Non-melanoma skin cancer (rare types),2010,Males,NSW,174,4.9,34,1.0,Male,3565558
+460,Non-melanoma skin cancer (rare types),2010,Males,Vic,49,1.8,14,0.5,Male,2720959
+461,Non-melanoma skin cancer (rare types),2010,Males,Qld,118,5.4,25,1.1,Male,2214429
+462,Non-melanoma skin cancer (rare types),2010,Males,WA,51,4.4,9,0.8,Male,1167862
+463,Non-melanoma skin cancer (rare types),2010,Males,SA,22,2.7,4,n.p.,Male,808037
+464,Non-melanoma skin cancer (rare types),2010,Males,Tas,12,4.7,1,n.p.,Male,253833
+465,Non-melanoma skin cancer (rare types),2010,Males,ACT,4,n.p.,2,n.p.,Male,181314
+466,Non-melanoma skin cancer (rare types),2010,Males,NT,1,n.p.,0,n.p.,Male,120979
+467,Non-melanoma skin cancer (rare types),2010,Males,Australia,434,4.0,88,0.8,Male,11034979
+468,Non-melanoma skin cancer (rare types),2010,Females,NSW,120,3.3,18,0.5,Female,3614333
+469,Non-melanoma skin cancer (rare types),2010,Females,Vic,33,1.2,7,0.3,Female,2774752
+470,Non-melanoma skin cancer (rare types),2010,Females,Qld,64,2.9,15,0.7,Female,2222453
+471,Non-melanoma skin cancer (rare types),2010,Females,WA,29,2.6,1,n.p.,Female,1151201
+472,Non-melanoma skin cancer (rare types),2010,Females,SA,7,0.9,2,n.p.,Female,824445
+473,Non-melanoma skin cancer (rare types),2010,Females,Tas,10,3.9,2,n.p.,Female,256386
+474,Non-melanoma skin cancer (rare types),2010,Females,ACT,2,n.p.,1,n.p.,Female,183519
+475,Non-melanoma skin cancer (rare types),2010,Females,NT,0,n.p.,0,n.p.,Female,109534
+476,Non-melanoma skin cancer (rare types),2010,Females,Australia,265,2.4,48,0.4,Female,11137490
+477,Non-melanoma skin cancer (rare types),2010,Persons,NSW,294,4.1,52,0.7,Person,7179891
+478,Non-melanoma skin cancer (rare types),2010,Persons,Vic,82,1.5,21,0.4,Person,5495711
+479,Non-melanoma skin cancer (rare types),2010,Persons,Qld,182,4.1,40,0.9,Person,4436882
+480,Non-melanoma skin cancer (rare types),2010,Persons,WA,80,3.5,10,0.4,Person,2319063
+481,Non-melanoma skin cancer (rare types),2010,Persons,SA,29,1.8,6,0.4,Person,1632482
+482,Non-melanoma skin cancer (rare types),2010,Persons,Tas,22,4.3,3,n.p.,Person,510219
+483,Non-melanoma skin cancer (rare types),2010,Persons,ACT,6,1.7,2,n.p.,Person,364833
+484,Non-melanoma skin cancer (rare types),2010,Persons,NT,1,n.p.,0,n.p.,Person,230460
+485,Non-melanoma skin cancer (rare types),2010,Persons,Australia,699,3.2,136,0.6,Person,22172469
+486,Non-melanoma skin cancer (rare types),2011,Males,NSW,188,5.2,37,1.0,Male,3604198
+487,Non-melanoma skin cancer (rare types),2011,Males,Vic,38,1.4,16,0.6,Male,2766513
+488,Non-melanoma skin cancer (rare types),2011,Males,Qld,122,5.5,22,1.0,Male,2253923
+489,Non-melanoma skin cancer (rare types),2011,Males,WA,58,4.9,4,n.p.,Male,1202068
+490,Non-melanoma skin cancer (rare types),2011,Males,SA,30,3.7,5,0.6,Male,815608
+491,Non-melanoma skin cancer (rare types),2011,Males,Tas,10,3.9,3,n.p.,Male,254896
+492,Non-melanoma skin cancer (rare types),2011,Males,ACT,4,n.p.,1,n.p.,Male,184982
+493,Non-melanoma skin cancer (rare types),2011,Males,NT,1,n.p.,0,n.p.,Male,122136
+494,Non-melanoma skin cancer (rare types),2011,Males,Australia,452,4.1,89,0.8,Male,11206252
+495,Non-melanoma skin cancer (rare types),2011,Females,NSW,106,2.9,22,0.6,Female,3654524
+496,Non-melanoma skin cancer (rare types),2011,Females,Vic,23,0.8,14,0.5,Female,2825305
+497,Non-melanoma skin cancer (rare types),2011,Females,Qld,60,2.7,12,0.5,Female,2264726
+498,Non-melanoma skin cancer (rare types),2011,Females,WA,39,3.3,2,n.p.,Female,1183879
+499,Non-melanoma skin cancer (rare types),2011,Females,SA,6,0.7,2,n.p.,Female,831575
+500,Non-melanoma skin cancer (rare types),2011,Females,Tas,2,n.p.,0,0.0,Female,256984
+501,Non-melanoma skin cancer (rare types),2011,Females,ACT,2,n.p.,1,n.p.,Female,187088
+502,Non-melanoma skin cancer (rare types),2011,Females,NT,0,n.p.,0,n.p.,Female,110816
+503,Non-melanoma skin cancer (rare types),2011,Females,Australia,238,2.1,52,0.5,Female,11315945
+504,Non-melanoma skin cancer (rare types),2011,Persons,NSW,294,4.1,59,0.8,Person,7258722
+505,Non-melanoma skin cancer (rare types),2011,Persons,Vic,61,1.1,30,0.5,Person,5591818
+506,Non-melanoma skin cancer (rare types),2011,Persons,Qld,182,4.1,34,0.8,Person,4518649
+507,Non-melanoma skin cancer (rare types),2011,Persons,WA,97,4.1,6,0.3,Person,2385947
+508,Non-melanoma skin cancer (rare types),2011,Persons,SA,36,2.2,7,0.4,Person,1647183
+509,Non-melanoma skin cancer (rare types),2011,Persons,Tas,12,2.3,3,n.p.,Person,511880
+510,Non-melanoma skin cancer (rare types),2011,Persons,ACT,6,1.6,2,n.p.,Person,372070
+511,Non-melanoma skin cancer (rare types),2011,Persons,NT,2,n.p.,1,n.p.,Person,232952
+512,Non-melanoma skin cancer (rare types),2011,Persons,Australia,690,3.1,141,0.6,Person,22522197
+513,Non-melanoma skin cancer (rare types),2012,Males,NSW,200,5.5,41,1.1,Male,3650035
+514,Non-melanoma skin cancer (rare types),2012,Males,Vic,36,1.3,10,0.4,Male,2825349
+515,Non-melanoma skin cancer (rare types),2012,Males,Qld,131,5.7,26,1.1,Male,2299776
+516,Non-melanoma skin cancer (rare types),2012,Males,WA,71,5.8,19,1.6,Male,1239615
+517,Non-melanoma skin cancer (rare types),2012,Males,SA,24,2.9,5,0.6,Male,823688
+518,Non-melanoma skin cancer (rare types),2012,Males,Tas,11,4.3,1,n.p.,Male,254866
+519,Non-melanoma skin cancer (rare types),2012,Males,ACT,5,2.6,1,n.p.,Male,188673
+520,Non-melanoma skin cancer (rare types),2012,Males,NT,1,n.p.,0,n.p.,Male,125043
+521,Non-melanoma skin cancer (rare types),2012,Males,Australia,478,4.2,103,0.9,Male,11408788
+522,Non-melanoma skin cancer (rare types),2012,Females,NSW,116,3.2,28,0.8,Female,3703154
+523,Non-melanoma skin cancer (rare types),2012,Females,Vic,28,1.0,7,0.2,Female,2884237
+524,Non-melanoma skin cancer (rare types),2012,Females,Qld,71,3.1,11,0.5,Female,2311528
+525,Non-melanoma skin cancer (rare types),2012,Females,WA,47,3.9,3,n.p.,Female,1217874
+526,Non-melanoma skin cancer (rare types),2012,Females,SA,13,1.6,1,n.p.,Female,839394
+527,Non-melanoma skin cancer (rare types),2012,Females,Tas,8,3.1,1,n.p.,Female,257127
+528,Non-melanoma skin cancer (rare types),2012,Females,ACT,2,n.p.,1,n.p.,Female,191139
+529,Non-melanoma skin cancer (rare types),2012,Females,NT,1,n.p.,0,n.p.,Female,113685
+530,Non-melanoma skin cancer (rare types),2012,Females,Australia,286,2.5,51,0.4,Female,11519235
+531,Non-melanoma skin cancer (rare types),2012,Persons,NSW,316,4.3,69,0.9,Person,7353189
+532,Non-melanoma skin cancer (rare types),2012,Persons,Vic,64,1.1,17,0.3,Person,5709586
+533,Non-melanoma skin cancer (rare types),2012,Persons,Qld,202,4.4,37,0.8,Person,4611304
+534,Non-melanoma skin cancer (rare types),2012,Persons,WA,118,4.9,22,0.9,Person,2457489
+535,Non-melanoma skin cancer (rare types),2012,Persons,SA,37,2.2,6,0.4,Person,1663082
+536,Non-melanoma skin cancer (rare types),2012,Persons,Tas,19,3.7,2,n.p.,Person,511993
+537,Non-melanoma skin cancer (rare types),2012,Persons,ACT,7,1.8,2,n.p.,Person,379812
+538,Non-melanoma skin cancer (rare types),2012,Persons,NT,2,n.p.,1,n.p.,Person,238728
+539,Non-melanoma skin cancer (rare types),2012,Persons,Australia,764,3.4,154,0.7,Person,22928023
+540,Non-melanoma skin cancer (rare types),2013,Males,NSW,240,6.5,44,1.2,Male,3698220
+541,Non-melanoma skin cancer (rare types),2013,Males,Vic,57,2.0,19,0.7,Male,2884387
+542,Non-melanoma skin cancer (rare types),2013,Males,Qld,148,6.4,38,1.6,Male,2333762
+543,Non-melanoma skin cancer (rare types),2013,Males,WA,87,6.9,11,0.9,Male,1259941
+544,Non-melanoma skin cancer (rare types),2013,Males,SA,23,2.8,6,0.7,Male,830900
+545,Non-melanoma skin cancer (rare types),2013,Males,Tas,12,4.7,1,n.p.,Male,254878
+546,Non-melanoma skin cancer (rare types),2013,Males,ACT,5,2.7,1,n.p.,Male,191691
+547,Non-melanoma skin cancer (rare types),2013,Males,NT,1,n.p.,1,n.p.,Male,126921
+548,Non-melanoma skin cancer (rare types),2013,Males,Australia,575,5.0,121,1.1,Male,11582448
+549,Non-melanoma skin cancer (rare types),2013,Females,NSW,116,3.1,25,0.7,Female,3756718
+550,Non-melanoma skin cancer (rare types),2013,Females,Vic,29,1.0,6,0.2,Female,2948198
+551,Non-melanoma skin cancer (rare types),2013,Females,Qld,72,3.1,20,0.9,Female,2351677
+552,Non-melanoma skin cancer (rare types),2013,Females,WA,44,3.6,10,0.8,Female,1242247
+553,Non-melanoma skin cancer (rare types),2013,Females,SA,9,1.1,3,n.p.,Female,847152
+554,Non-melanoma skin cancer (rare types),2013,Females,Tas,5,1.9,3,n.p.,Female,258137
+555,Non-melanoma skin cancer (rare types),2013,Females,ACT,2,n.p.,1,n.p.,Female,194627
+556,Non-melanoma skin cancer (rare types),2013,Females,NT,0,n.p.,0,n.p.,Female,115450
+557,Non-melanoma skin cancer (rare types),2013,Females,Australia,275,2.4,69,0.6,Female,11715329
+558,Non-melanoma skin cancer (rare types),2013,Persons,NSW,356,4.8,69,0.9,Person,7454938
+559,Non-melanoma skin cancer (rare types),2013,Persons,Vic,86,1.5,25,0.4,Person,5832585
+560,Non-melanoma skin cancer (rare types),2013,Persons,Qld,220,4.7,58,1.2,Person,4685439
+561,Non-melanoma skin cancer (rare types),2013,Persons,WA,131,5.3,21,0.8,Person,2502188
+562,Non-melanoma skin cancer (rare types),2013,Persons,SA,32,1.9,9,0.5,Person,1678052
+563,Non-melanoma skin cancer (rare types),2013,Persons,Tas,17,3.3,4,n.p.,Person,513015
+564,Non-melanoma skin cancer (rare types),2013,Persons,ACT,7,1.8,2,n.p.,Person,386318
+565,Non-melanoma skin cancer (rare types),2013,Persons,NT,2,n.p.,1,n.p.,Person,242304
+566,Non-melanoma skin cancer (rare types),2013,Persons,Australia,850,3.7,190,0.8,Person,23297777
+567,Non-melanoma skin cancer (rare types),2014,Males,NSW,224,6.0,42,1.1,Male,3750061
+568,Non-melanoma skin cancer (rare types),2014,Males,Vic,83,2.8,22,0.8,Male,2945763
+569,Non-melanoma skin cancer (rare types),2014,Males,Qld,131,5.6,40,1.7,Male,2361282
+570,Non-melanoma skin cancer (rare types),2014,Males,WA,77,6.1,14,1.1,Male,1271552
+571,Non-melanoma skin cancer (rare types),2014,Males,SA,27,3.2,7,0.8,Male,838094
+572,Non-melanoma skin cancer (rare types),2014,Males,Tas,11,4.3,2,n.p.,Male,255134
+573,Non-melanoma skin cancer (rare types),2014,Males,ACT,5,2.9,1,n.p.,Male,194291
+574,Non-melanoma skin cancer (rare types),2014,Males,NT,2,n.p.,1,n.p.,Male,127079
+575,Non-melanoma skin cancer (rare types),2014,Males,Australia,561,4.8,129,1.1,Male,11744498
+576,Non-melanoma skin cancer (rare types),2014,Females,NSW,118,3.1,26,0.7,Female,3812110
+577,Non-melanoma skin cancer (rare types),2014,Females,Vic,38,1.3,5,0.2,Female,3011749
+578,Non-melanoma skin cancer (rare types),2014,Females,Qld,74,3.1,13,0.5,Female,2385981
+579,Non-melanoma skin cancer (rare types),2014,Females,WA,43,3.4,6,0.5,Female,1257067
+580,Non-melanoma skin cancer (rare types),2014,Females,SA,16,1.9,1,n.p.,Female,855013
+581,Non-melanoma skin cancer (rare types),2014,Females,Tas,5,1.9,1,n.p.,Female,259067
+582,Non-melanoma skin cancer (rare types),2014,Females,ACT,1,n.p.,1,n.p.,Female,197690
+583,Non-melanoma skin cancer (rare types),2014,Females,NT,0,n.p.,0,n.p.,Female,116165
+584,Non-melanoma skin cancer (rare types),2014,Females,Australia,295,2.5,53,0.4,Female,11895833
+585,Non-melanoma skin cancer (rare types),2014,Persons,NSW,342,4.6,68,0.9,Person,7562171
+586,Non-melanoma skin cancer (rare types),2014,Persons,Vic,121,2.1,27,0.5,Person,5957512
+587,Non-melanoma skin cancer (rare types),2014,Persons,Qld,205,4.3,53,1.1,Person,4747263
+588,Non-melanoma skin cancer (rare types),2014,Persons,WA,120,4.8,20,0.8,Person,2528619
+589,Non-melanoma skin cancer (rare types),2014,Persons,SA,43,2.5,8,0.5,Person,1693107
+590,Non-melanoma skin cancer (rare types),2014,Persons,Tas,16,3.1,3,n.p.,Person,514040
+591,Non-melanoma skin cancer (rare types),2014,Persons,ACT,7,1.8,2,n.p.,Person,391981
+592,Non-melanoma skin cancer (rare types),2014,Persons,NT,2,n.p.,1,n.p.,Person,243201
+593,Non-melanoma skin cancer (rare types),2014,Persons,Australia,856,3.6,182,0.8,Person,23640331
+594,Non-melanoma skin cancer (rare types),2015,Males,NSW,251,6.6,38,1.0,Male,3803289
+595,Non-melanoma skin cancer (rare types),2015,Males,Vic,79,2.7,26,0.9,Male,3011376
+596,Non-melanoma skin cancer (rare types),2015,Males,Qld,138,5.8,25,1.1,Male,2385347
+597,Non-melanoma skin cancer (rare types),2015,Males,WA,81,6.3,10,0.8,Male,1278792
+598,Non-melanoma skin cancer (rare types),2015,Males,SA,30,3.6,6,0.7,Male,843702
+599,Non-melanoma skin cancer (rare types),2015,Males,Tas,10,3.9,3,n.p.,Male,255551
+600,Non-melanoma skin cancer (rare types),2015,Males,ACT,5,2.8,1,n.p.,Male,197696
+601,Non-melanoma skin cancer (rare types),2015,Males,NT,2,n.p.,1,n.p.,Male,127914
+602,Non-melanoma skin cancer (rare types),2015,Males,Australia,598,5.1,109,0.9,Male,11904308
+603,Non-melanoma skin cancer (rare types),2015,Females,NSW,136,3.5,22,0.6,Female,3868112
+604,Non-melanoma skin cancer (rare types),2015,Females,Vic,39,1.3,14,0.5,Female,3081673
+605,Non-melanoma skin cancer (rare types),2015,Females,Qld,82,3.4,6,0.2,Female,2419586
+606,Non-melanoma skin cancer (rare types),2015,Females,WA,44,3.5,6,0.5,Female,1268953
+607,Non-melanoma skin cancer (rare types),2015,Females,SA,15,1.7,2,n.p.,Female,862235
+608,Non-melanoma skin cancer (rare types),2015,Females,Tas,14,5.4,1,n.p.,Female,260242
+609,Non-melanoma skin cancer (rare types),2015,Females,ACT,1,n.p.,0,n.p.,Female,201178
+610,Non-melanoma skin cancer (rare types),2015,Females,NT,0,n.p.,0,n.p.,Female,117123
+611,Non-melanoma skin cancer (rare types),2015,Females,Australia,332,2.8,52,0.4,Female,12080273
+612,Non-melanoma skin cancer (rare types),2015,Persons,NSW,387,5.1,60,0.8,Person,7671401
+613,Non-melanoma skin cancer (rare types),2015,Persons,Vic,118,2.0,40,0.7,Person,6093049
+614,Non-melanoma skin cancer (rare types),2015,Persons,Qld,220,4.6,31,0.6,Person,4804933
+615,Non-melanoma skin cancer (rare types),2015,Persons,WA,125,4.9,16,0.6,Person,2547745
+616,Non-melanoma skin cancer (rare types),2015,Persons,SA,45,2.6,8,0.5,Person,1705937
+617,Non-melanoma skin cancer (rare types),2015,Persons,Tas,24,4.7,4,n.p.,Person,515697
+618,Non-melanoma skin cancer (rare types),2015,Persons,ACT,7,1.7,1,n.p.,Person,398874
+619,Non-melanoma skin cancer (rare types),2015,Persons,NT,2,n.p.,1,n.p.,Person,244692
+620,Non-melanoma skin cancer (rare types),2015,Persons,Australia,930,3.9,161,0.7,Person,23984581
+621,Non-melanoma skin cancer (rare types),2016,Males,NSW,260,6.8,42,1.1,Male,3865361
+622,Non-melanoma skin cancer (rare types),2016,Males,Vic,92,3.0,15,0.5,Male,3082379
+623,Non-melanoma skin cancer (rare types),2016,Males,Qld,157,6.5,28,1.2,Male,2421215
+624,Non-melanoma skin cancer (rare types),2016,Males,WA,71,5.5,13,1.0,Male,1288303
+625,Non-melanoma skin cancer (rare types),2016,Males,SA,38,4.5,8,0.9,Male,849914
+626,Non-melanoma skin cancer (rare types),2016,Males,Tas,11,4.3,0,0.0,Male,258456
+627,Non-melanoma skin cancer (rare types),2016,Males,ACT,6,2.9,1,n.p.,Male,202502
+628,Non-melanoma skin cancer (rare types),2016,Males,NT,2,n.p.,0,n.p.,Male,128021
+629,Non-melanoma skin cancer (rare types),2016,Males,Australia,638,5.3,107,0.9,Male,12098143
+630,Non-melanoma skin cancer (rare types),2016,Females,NSW,144,3.7,22,0.6,Female,3930264
+631,Non-melanoma skin cancer (rare types),2016,Females,Vic,49,1.6,15,0.5,Female,3153402
+632,Non-melanoma skin cancer (rare types),2016,Females,Qld,76,3.1,15,0.6,Female,2461724
+633,Non-melanoma skin cancer (rare types),2016,Females,WA,55,4.3,6,0.5,Female,1281303
+634,Non-melanoma skin cancer (rare types),2016,Females,SA,13,1.5,2,n.p.,Female,869666
+635,Non-melanoma skin cancer (rare types),2016,Females,Tas,3,n.p.,1,n.p.,Female,263525
+636,Non-melanoma skin cancer (rare types),2016,Females,ACT,2,n.p.,1,n.p.,Female,206376
+637,Non-melanoma skin cancer (rare types),2016,Females,NT,0,n.p.,0,n.p.,Female,118539
+638,Non-melanoma skin cancer (rare types),2016,Females,Australia,344,2.8,62,0.5,Female,12286921
+639,Non-melanoma skin cancer (rare types),2016,Persons,NSW,404,5.2,64,0.8,Person,7795625
+640,Non-melanoma skin cancer (rare types),2016,Persons,Vic,141,2.3,30,0.5,Person,6235781
+641,Non-melanoma skin cancer (rare types),2016,Persons,Qld,233,4.8,43,0.9,Person,4882939
+642,Non-melanoma skin cancer (rare types),2016,Persons,WA,126,4.9,19,0.7,Person,2569606
+643,Non-melanoma skin cancer (rare types),2016,Persons,SA,51,3.0,10,0.6,Person,1719580
+644,Non-melanoma skin cancer (rare types),2016,Persons,Tas,14,2.7,1,n.p.,Person,521981
+645,Non-melanoma skin cancer (rare types),2016,Persons,ACT,7,1.8,2,n.p.,Person,408878
+646,Non-melanoma skin cancer (rare types),2016,Persons,NT,3,n.p.,1,n.p.,Person,246443
+647,Non-melanoma skin cancer (rare types),2016,Persons,Australia,982,4.1,169,0.7,Person,24385064
+648,Non-melanoma skin cancer (rare types),2017,Males,NSW,300,7.7,46,1.2,Male,3921301
+649,Non-melanoma skin cancer (rare types),2017,Males,Vic,151,4.8,19,0.6,Male,3144429
+650,Non-melanoma skin cancer (rare types),2017,Males,Qld,171,7.0,26,1.1,Male,2458389
+651,Non-melanoma skin cancer (rare types),2017,Males,WA,73,5.6,6,0.5,Male,1302076
+652,Non-melanoma skin cancer (rare types),2017,Males,SA,29,3.4,7,0.8,Male,857807
+653,Non-melanoma skin cancer (rare types),2017,Males,Tas,12,4.6,3,n.p.,Male,263305
+654,Non-melanoma skin cancer (rare types),2017,Males,ACT,6,2.8,1,n.p.,Male,207866
+655,Non-melanoma skin cancer (rare types),2017,Males,NT,3,n.p.,0,n.p.,Male,128104
+656,Non-melanoma skin cancer (rare types),2017,Males,Australia,744,6.1,109,0.9,Male,12284961
+657,Non-melanoma skin cancer (rare types),2017,Females,NSW,133,3.4,27,0.7,Female,3979645
+658,Non-melanoma skin cancer (rare types),2017,Females,Vic,76,2.4,11,0.3,Female,3213781
+659,Non-melanoma skin cancer (rare types),2017,Females,Qld,98,3.9,18,0.7,Female,2502576
+660,Non-melanoma skin cancer (rare types),2017,Females,WA,49,3.8,5,0.4,Female,1297852
+661,Non-melanoma skin cancer (rare types),2017,Females,SA,20,2.3,5,0.6,Female,877847
+662,Non-melanoma skin cancer (rare types),2017,Females,Tas,9,3.4,1,n.p.,Female,268256
+663,Non-melanoma skin cancer (rare types),2017,Females,ACT,1,n.p.,1,n.p.,Female,212360
+664,Non-melanoma skin cancer (rare types),2017,Females,NT,0,n.p.,0,n.p.,Female,119647
+665,Non-melanoma skin cancer (rare types),2017,Females,Australia,387,3.1,68,0.5,Female,12474057
+666,Non-melanoma skin cancer (rare types),2017,Persons,NSW,433,5.5,73,0.9,Person,7900946
+667,Non-melanoma skin cancer (rare types),2017,Persons,Vic,227,3.6,30,0.5,Person,6358210
+668,Non-melanoma skin cancer (rare types),2017,Persons,Qld,269,5.5,44,0.9,Person,4960965
+669,Non-melanoma skin cancer (rare types),2017,Persons,WA,122,4.7,11,0.4,Person,2599928
+670,Non-melanoma skin cancer (rare types),2017,Persons,SA,49,2.8,12,0.7,Person,1735654
+671,Non-melanoma skin cancer (rare types),2017,Persons,Tas,21,4.0,4,n.p.,Person,531561
+672,Non-melanoma skin cancer (rare types),2017,Persons,ACT,7,1.8,2,n.p.,Person,420226
+673,Non-melanoma skin cancer (rare types),2017,Persons,NT,3,n.p.,1,n.p.,Person,247514
+674,Non-melanoma skin cancer (rare types),2017,Persons,Australia,"1,131",4.6,177,0.7,Person,24759018
+675,Non-melanoma skin cancer (rare types),2018,Males,NSW,272,6.9,43,1.1,Male,3976266
+676,Non-melanoma skin cancer (rare types),2018,Males,Vic,95,3.0,25,0.8,Male,3207192
+677,Non-melanoma skin cancer (rare types),2018,Males,Qld,148,6.0,24,1.0,Male,2499842
+678,Non-melanoma skin cancer (rare types),2018,Males,WA,63,4.8,10,0.8,Male,1319834
+679,Non-melanoma skin cancer (rare types),2018,Males,SA,31,3.6,5,0.6,Male,867603
+680,Non-melanoma skin cancer (rare types),2018,Males,Tas,17,6.4,2,n.p.,Male,268840
+681,Non-melanoma skin cancer (rare types),2018,Males,ACT,5,2.4,1,n.p.,Male,212822
+682,Non-melanoma skin cancer (rare types),2018,Males,NT,3,n.p.,0,n.p.,Male,127221
+683,Non-melanoma skin cancer (rare types),2018,Males,Australia,630,5.1,112,0.9,Male,12481024
+684,Non-melanoma skin cancer (rare types),2018,Females,NSW,175,4.4,22,0.5,Female,4027298
+685,Non-melanoma skin cancer (rare types),2018,Females,Vic,50,1.5,15,0.5,Female,3272503
+686,Non-melanoma skin cancer (rare types),2018,Females,Qld,74,2.9,13,0.5,Female,2546592
+687,Non-melanoma skin cancer (rare types),2018,Females,WA,40,3.1,4,n.p.,Female,1316570
+688,Non-melanoma skin cancer (rare types),2018,Females,SA,16,1.8,5,0.6,Female,888112
+689,Non-melanoma skin cancer (rare types),2018,Females,Tas,7,2.6,1,n.p.,Female,274087
+690,Non-melanoma skin cancer (rare types),2018,Females,ACT,2,n.p.,0,n.p.,Female,217936
+691,Non-melanoma skin cancer (rare types),2018,Females,NT,1,n.p.,0,n.p.,Female,119997
+692,Non-melanoma skin cancer (rare types),2018,Females,Australia,367,2.9,60,0.5,Female,12665116
+693,Non-melanoma skin cancer (rare types),2018,Persons,NSW,447,5.6,65,0.8,Person,8003564
+694,Non-melanoma skin cancer (rare types),2018,Persons,Vic,145,2.3,40,0.6,Person,6479695
+695,Non-melanoma skin cancer (rare types),2018,Persons,Qld,222,4.4,37,0.7,Person,5046434
+696,Non-melanoma skin cancer (rare types),2018,Persons,WA,103,3.9,14,0.5,Person,2636404
+697,Non-melanoma skin cancer (rare types),2018,Persons,SA,47,2.7,10,0.6,Person,1755715
+698,Non-melanoma skin cancer (rare types),2018,Persons,Tas,24,4.5,3,n.p.,Person,542927
+699,Non-melanoma skin cancer (rare types),2018,Persons,ACT,7,1.7,2,n.p.,Person,430758
+700,Non-melanoma skin cancer (rare types),2018,Persons,NT,3,n.p.,1,n.p.,Person,247095
+701,Non-melanoma skin cancer (rare types),2018,Persons,Australia,997,4.0,172,0.7,Person,25146140
+702,Non-melanoma skin cancer (rare types),2019,Males,NSW,336,8.4,54,1.4,Male,4019498
+703,Non-melanoma skin cancer (rare types),2019,Males,Vic,157,4.9,20,0.6,Male,3262240
+704,Non-melanoma skin cancer (rare types),2019,Males,Qld,210,8.3,38,1.5,Male,2540680
+705,Non-melanoma skin cancer (rare types),2019,Males,WA,86,6.5,6,0.5,Male,1345064
+706,Non-melanoma skin cancer (rare types),2019,Males,SA,32,3.7,3,n.p.,Male,878768
+707,Non-melanoma skin cancer (rare types),2019,Males,Tas,16,5.9,3,n.p.,Male,273893
+708,Non-melanoma skin cancer (rare types),2019,Males,ACT,5,2.6,2,n.p.,Male,217500
+709,Non-melanoma skin cancer (rare types),2019,Males,NT,2,n.p.,0,n.p.,Male,126289
+710,Non-melanoma skin cancer (rare types),2019,Males,Australia,845,6.7,127,1.0,Male,12665662
+711,Non-melanoma skin cancer (rare types),2019,Females,NSW,147,3.6,23,0.6,Female,4068863
+712,Non-melanoma skin cancer (rare types),2019,Females,Vic,87,2.6,12,0.4,Female,3327810
+713,Non-melanoma skin cancer (rare types),2019,Females,Qld,109,4.2,10,0.4,Female,2589061
+714,Non-melanoma skin cancer (rare types),2019,Females,WA,40,3.0,7,0.5,Female,1343735
+715,Non-melanoma skin cancer (rare types),2019,Females,SA,13,1.5,3,n.p.,Female,900160
+716,Non-melanoma skin cancer (rare types),2019,Females,Tas,7,2.5,0,0.0,Female,279447
+717,Non-melanoma skin cancer (rare types),2019,Females,ACT,2,n.p.,0,n.p.,Female,222767
+718,Non-melanoma skin cancer (rare types),2019,Females,NT,1,n.p.,0,n.p.,Female,120727
+719,Non-melanoma skin cancer (rare types),2019,Females,Australia,406,3.2,56,0.4,Female,12854806
+720,Non-melanoma skin cancer (rare types),2019,Persons,NSW,483,6.0,77,1.0,Person,8088361
+721,Non-melanoma skin cancer (rare types),2019,Persons,Vic,244,3.7,32,0.5,Person,6590050
+722,Non-melanoma skin cancer (rare types),2019,Persons,Qld,319,6.3,48,0.9,Person,5129741
+723,Non-melanoma skin cancer (rare types),2019,Persons,WA,126,4.7,13,0.5,Person,2688799
+724,Non-melanoma skin cancer (rare types),2019,Persons,SA,45,2.5,6,0.3,Person,1778928
+725,Non-melanoma skin cancer (rare types),2019,Persons,Tas,23,4.2,3,n.p.,Person,553340
+726,Non-melanoma skin cancer (rare types),2019,Persons,ACT,8,1.9,2,n.p.,Person,440267
+727,Non-melanoma skin cancer (rare types),2019,Persons,NT,3,n.p.,1,n.p.,Person,246677
+728,Non-melanoma skin cancer (rare types),2019,Persons,Australia,"1,251",4.9,183,0.7,Person,25520468
+729,Non-melanoma skin cancer (rare types),2020,Males,NSW,397,9.8,41,1.0,Male,4031001
+730,Non-melanoma skin cancer (rare types),2020,Males,Vic,167,5.1,30,0.9,Male,3274653
+731,Non-melanoma skin cancer (rare types),2020,Males,Qld,214,8.4,28,1.1,Male,2568499
+732,Non-melanoma skin cancer (rare types),2020,Males,WA,86,6.3,11,0.8,Male,1364994
+733,Non-melanoma skin cancer (rare types),2020,Males,SA,50,5.7,11,1.2,Male,886475
+734,Non-melanoma skin cancer (rare types),2020,Males,Tas,9,3.3,6,2.2,Male,278353
+735,Non-melanoma skin cancer (rare types),2020,Males,ACT,5,2.4,2,n.p.,Male,220886
+736,Non-melanoma skin cancer (rare types),2020,Males,NT,2,n.p.,0,n.p.,Male,126133
+737,Non-melanoma skin cancer (rare types),2020,Males,Australia,929,7.3,128,1.0,Male,12728639
+738,Non-melanoma skin cancer (rare types),2020,Females,NSW,178,4.4,34,0.8,Female,4081000
+739,Non-melanoma skin cancer (rare types),2020,Females,Vic,69,2.1,23,0.7,Female,3341983
+740,Non-melanoma skin cancer (rare types),2020,Females,Qld,104,4.0,20,0.8,Female,2615830
+741,Non-melanoma skin cancer (rare types),2020,Females,WA,30,2.2,4,n.p.,Female,1363193
+742,Non-melanoma skin cancer (rare types),2020,Females,SA,18,2.0,2,n.p.,Female,908039
+743,Non-melanoma skin cancer (rare types),2020,Females,Tas,11,3.9,5,1.8,Female,283528
+744,Non-melanoma skin cancer (rare types),2020,Females,ACT,2,n.p.,1,n.p.,Female,226764
+745,Non-melanoma skin cancer (rare types),2020,Females,NT,1,n.p.,0,n.p.,Female,121772
+746,Non-melanoma skin cancer (rare types),2020,Females,Australia,410,3.2,89,0.7,Female,12920609
+747,Non-melanoma skin cancer (rare types),2020,Persons,NSW,575,7.1,75,0.9,Person,8112001
+748,Non-melanoma skin cancer (rare types),2020,Persons,Vic,236,3.6,53,0.8,Person,6616636
+749,Non-melanoma skin cancer (rare types),2020,Persons,Qld,318,6.2,48,0.9,Person,5184329
+750,Non-melanoma skin cancer (rare types),2020,Persons,WA,116,4.3,15,0.6,Person,2728187
+751,Non-melanoma skin cancer (rare types),2020,Persons,SA,68,3.8,13,0.7,Person,1794514
+752,Non-melanoma skin cancer (rare types),2020,Persons,Tas,20,3.6,11,2.0,Person,561881
+753,Non-melanoma skin cancer (rare types),2020,Persons,ACT,7,1.7,2,n.p.,Person,447650
+754,Non-melanoma skin cancer (rare types),2020,Persons,NT,2,n.p.,1,n.p.,Person,247819
+755,Non-melanoma skin cancer (rare types),2020,Persons,Australia,"1,339",5.2,217,0.8,Person,25649248
