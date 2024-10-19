@@ -1,4 +1,4 @@
-row,Cancer,Year,Sex,Age,Risk,Risk_1_X),Type
+row,Cancer,Year,Sex,Age,Risk,Risk_1_X,Type
 0,Melanoma of the skin,2007,Males,before age  5,0.0,. .,Diagnosis
 1,Melanoma of the skin,2007,Males,before age 10,0.0,. .,Diagnosis
 2,Melanoma of the skin,2007,Males,before age 15,0.0021,n.p.,Diagnosis
