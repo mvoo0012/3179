@@ -4,7 +4,7 @@
   "height": 600,
   "title": "Skin Cancer Incidence vs. Mortality by State (2007-2020)",
   "data": {
-    "url": "https://raw.githubusercontent.com/mvoo0012/3179/refs/heads/main/3179_asgn2/data/Skin%20cancer.csv"
+    "url": "https://raw.githubusercontent.com/mvoo0012/3179/refs/heads/main/data/Skin%20cancer.csv"
   },
   "params": [
     {
