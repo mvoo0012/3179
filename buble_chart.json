@@ -1,0 +1,131 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 700,
+  "height": 600,
+  "title": "Skin Cancer Incidence vs. Mortality by State (2007-2020)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/mvoo0012/3179/refs/heads/main/3179_asgn2/data/Skin%20cancer.csv"
+  },
+  "params": [
+    {
+      "name": "Year_Selection",
+      "value": 2007,
+      "bind": {
+        "input": "range",
+        "min": 2007,
+        "max": 2020,
+        "step": 1,
+        "name": "Year Selection: "
+      }
+    },
+    {
+      "name": "Gender",
+      "value": "Persons",
+      "bind": {
+        "input": "select",
+        "options": ["Persons", "Males", "Females"],
+        "labels": ["All/Persons", "Male", "Female"],
+        "name": "Gender: "
+      }
+    },
+    {
+      "name": "Skin_cancer",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "options": ["All", "Melanoma of the skin", "Non-melanoma skin cancer (rare types)"],
+        "labels": ["All Skin Cancer", "Melanoma", "Non-melanoma"],
+        "name": "Skin Cancer Type: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.Year == Year_Selection"}, 
+    {"filter": "datum.Sex == Gender"},
+    {"filter": "datum.Cancer == Skin_cancer"},
+    {
+      "calculate": "datum.Incident/datum.Population * 100000",
+      "as": "Cases per 100,000 Population"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "Incident",
+      "type": "quantitative",
+      "title": "Incident (Cases)",
+      "axis": {"tickCount": 4},
+      "scale": {"type": "log", "domain": [1, 20000]}
+    },
+    "y": {
+      "field": "Mortality",
+      "type": "quantitative",
+      "title": "Mortality (Death)",
+      "axis": {"tickCount": 3},
+      "scale": {"type": "log", "domain": [1, 1000]}
+    }
+  },
+  "layer": [
+    {
+      "mark": "circle",
+      "encoding": {
+        "size": {
+          "field": "Population",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [500000, 1000000, 5000000],
+            "range": [100, 200, 300, 450]
+          },
+          "legend": {"format": ".1s"}
+        },
+        "color": {
+          "field": "State",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "New South Wales",
+              "Victoria",
+              "Queensland",
+              "Western Australia",
+              "South Australia",
+              "Tasmania",
+              "Australian Capital Territory",
+              "Northern Territory"
+            ],
+            "range": [
+              "#4daf4a",
+              "#f781bf",
+              "#e41a1c",
+              "#984ea3",
+              "#ff7f00",
+              "#a6cee3",
+              "#377eb8",
+              "#a65628"
+            ]
+          }
+        },
+        "opacity": {"value": 0.6},
+        "tooltip": [
+          {"field": "State", "type": "nominal"},
+          {"field": "Sex", "type": "nominal"},
+          {"field": "Cancer", "type": "nominal"},
+          {"field": "Incident", "type": "quantitative", "format": ","},
+          {"field": "Mortality", "type": "quantitative", "format": ","},
+          {"field": "Population", "type": "quantitative", "format": ","},
+          {"field": "Cases per 100,000 Population", "type": "quantitative", "format": ".2f"}
+        ]
+      }
+    }, 
+    {
+      "mark": {
+        "type": "text", "align": "right", "baseline":"middle","dx": -12, "fontSize": 11.5, "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "State", "type": "nominal"},
+        "color":{"value":"black"},
+        "opacity": {"condition": { "test": "datum['State'] == 'Victoria' || datum['State'] == 'Queensland' || datum['State'] == 'Australian Capital Territory' || datum['State'] == 'New South Wales' || datum['State'] == 'Northern Territory'", "value": 1 }, "value": 0
+      }  
+    }
+    }
+  ]
+}

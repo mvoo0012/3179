@@ -1,0 +1,125 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Skin Cancer Distribution in Australia (2007-2020)",
+  "projection": {"type": "mercator"},
+  "height": 500,
+  "width": 700,
+  "data": {
+    "url": "https://raw.githubusercontent.com/mvoo0012/3179/refs/heads/main/3179_asgn2/data/updated_filtered_skin_cancer_data.csv"
+  },
+  "params": [
+    {
+      "name": "Selected_Year",
+      "value": 2007,
+      "bind": {
+        "input": "range",
+        "min": 2007,
+        "max": 2020,
+        "step": 1,
+        "name": "Select Year: "
+      }
+    },
+    {
+      "name": "gender_selection",
+      "value": "Persons",
+      "bind": {
+        "input": "select",
+        "options": ["Persons", "Males", "Females"],
+        "labels": ["All/Persons", "Males", "Females"],
+        "name": "Gender: "
+      }
+    },
+    {
+      "name": "field_selection",
+      "value": "Incident",
+      "bind": {
+        "input": "select",
+        "options": ["Incident", "Mortality"],
+        "labels": ["All Case", "Death Case"],
+        "name": "Case Type: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.Year == Selected_Year"},
+    {"filter": "datum.Sex == gender_selection"},
+    {"filter": "datum.Type == field_selection"},
+    {
+      "calculate": "datum.Cases / datum.Population * 100000",
+      "as": "Normalized_Cases"
+    },
+    {
+      "lookup": "State",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/mvoo0012/3179/refs/heads/main/3179_asgn2/data/STE_2016_AUST1.json",
+          "format": {"type": "topojson", "feature": "STE_2016_AUST"}
+        },
+        "key": "properties.STE_NAME16"
+      },
+      "as": "geo"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {"type": "geoshape", "stroke": "#fff", "strokeWidth": 0.5},
+      "encoding": {
+        "shape": {"field": "geo", "type": "geojson"},
+        "color": {
+          "field": "Normalized_Cases",
+          "type": "quantitative",
+          "scale": {"scheme": "oranges"},
+          "legend": {"title": "Cases per 100,000 population"}
+        },
+        "tooltip": [
+          {"field": "State", "type": "nominal", "title": "State"},
+          {"field": "Cases", "type": "quantitative", "title": "Raw Cases"},
+          {"field": "Normalized_Cases", "type": "quantitative", "title": "Cases per 100,000 population"},
+          {"field": "Population", "type": "quantitative", "title": "Population"},
+          {"field": "Year", "type": "ordinal", "title": "Year"}
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "lookup": "State",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/mvoo0012/3179/refs/heads/main/3179_asgn2/data/aus_state.csv"
+            },
+            "key": "name",
+            "fields": ["latitude", "longitude"]
+          }
+        },
+        {
+          "filter": {
+            "or": [
+              {"field": "State", "equal": "Victoria"},
+              {"field": "State", "equal": "South Australia"},
+              {"field": "State", "equal": "Northern Territory"},
+              {"field": "State", "equal": "Western Australia"},
+              {"field": "State", "equal": "Tasmania"},
+              {"field": "State", "equal": "Queensland"},
+              {"field": "State", "equal": "New South Wales"},
+              {"field": "State", "equal": "Australian Capital Territory"}
+            ]
+          }
+        }
+      ],
+      "mark": {"type": "text", "align": "left", "baseline":"middle","dx": -12, "fontSize": 11.5, "fontStyle": "italic"},
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "text": {"field": "State", "type": "nominal"},
+        "opacity": {
+          "condition": {
+            "test": "datum['State'] == 'Victoria' || datum['State'] == 'Northern Territory' || datum['State'] == 'South Australia' || datum['State'] == 'Western Australia' || datum['State'] == 'Queensland' || datum['State'] == 'New South Wales' || datum['State'] == 'Tasmania'|| datum['State'] == 'Australian Capital Territory'",
+            "value": 1
+          },
+          "value": 0.5
+        }
+      }
+    }
+  ]
+}

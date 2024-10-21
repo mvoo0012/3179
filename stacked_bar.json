@@ -1,0 +1,75 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "hconcat": [
+      {
+        "title": "Skin Cancer Diagnoses by Stage and Age (2011)",
+        "width": 300,
+        "height": 400,
+        "data": {
+          "url": "https://raw.githubusercontent.com/mvoo0012/3179/refs/heads/main/3179_asgn2/data/2011_diagnose_039.csv"
+        },
+        "transform": [
+          {"filter": "datum.Sex == gender"},
+          {"filter": "datum.RD_stage != 'Stage unknown'"}
+        ],
+        "mark": "bar",
+        "encoding": {
+          "x": {"field": "RD_stage", "type": "ordinal", "axis": {"title": "Stage"}},
+          "y": {"field": "Count", "type": "quantitative", "axis": {"title": "Diagnosis Count"}},
+          "color": {
+            "field": "Age", 
+            "type": "nominal",
+            "legend": {"title": "Age Group"}
+          },
+          "tooltip": [
+          {"field": "Cancer", "type": "nominal", "title": "Cancer"},
+          {"field": "Age", "type": "nominal", "title": "Age range"},
+          {"field": "Count", "type": "quantitative", "title": "Case "},
+          {"field": "Rate_100k", "type": "quantitative", "title": "Cases per 100,000 population"}
+        ]
+        }
+      },
+      {
+        "title": "Skin Cancer Survival by Stage and Age (2011)",
+        "width": 300,
+        "height": 400,
+        "data": {
+          "url": "https://raw.githubusercontent.com/mvoo0012/3179/refs/heads/main/3179_asgn2/data/2011_survival_with_cases.csv"
+        },
+        "transform": [
+          {"filter": "datum.Sex == gender"},  
+          {"filter": "datum.RD_stage != 'Stage unknown'"}
+        ],
+        "mark": "bar",
+        "encoding": {
+          "x": {"field": "RD_stage", "type": "ordinal", "axis": {"title": "Stage"}},
+          "y": {"field": "Survival_case", "type": "quantitative", "axis": {"title": "Survival Count"},  "scale": {
+              "domain": {"expr": "gender == 'Persons' ? [0, 8000] : gender == 'Females' ? [0, 3500] : [0, 5000]"}}}, 
+          "color": {
+            "field": "Age", 
+            "type": "nominal",
+            "legend": {"title": "Age Group"}
+          },
+          "tooltip": [
+          {"field": "Cancer", "type": "nominal", "title": "Cancer"},
+          {"field": "Age", "type": "nominal", "title": "Age range"},
+          {"field": "Survival_case", "type": "quantitative", "title": "Survival Case"},
+          {"field": "Survival_percnt", "type": "quantitative", "title": "Survival percentage %"}
+        ]
+        }
+      }
+    ],
+    "params": [
+      {
+        "name": "gender",
+        "value": "Persons",
+        "bind": {
+          "input": "select",
+          "labels": ["All/Persons","Males", "Females"],
+          "options": ["Persons","Males", "Females"],
+          "name": "Select Gender: "
+        }
+      }
+    ]
+  }
+  
