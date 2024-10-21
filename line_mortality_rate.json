@@ -1,0 +1,62 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Mortality Rate by State (2007-2020)",
+  "width": 700,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/mvoo0012/3179/refs/heads/main/3179_asgn2/data/cleaned_skin_cancer_data_no_blank_states.csv"
+  },
+  "params": [
+    {
+      "name": "cancer_selection",
+      "value": "Melanoma of the skin",
+      "bind": {
+        "input": "select",
+        "options": ["Melanoma of the skin", "Non-melanoma skin cancer (rare types)"],
+        "name": "Cancer Type: "
+      }
+    },
+    {
+      "name": "gender_selection",
+      "value": "Persons",
+      "bind": {
+        "input": "select",
+        "labels": ["Males", "Females", "All/ Persons"],
+        "options": ["Males", "Females", "Persons"],
+        "name": "Gender: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.Cancer == cancer_selection"},
+    {"filter": "datum.Sex == gender_selection"},
+    {
+      "calculate": "datum.Mortality / datum.Incident * 100",
+      "as": "Mortality_Rate"
+    }
+  ],
+
+  "mark": "line",
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "temporal",
+      "title": "Year"
+    },
+    "y": {
+      "field": "Mortality_Rate",
+      "type": "quantitative",
+      "title": "Mortality Rate"
+    },
+    "color": {
+      "field": "State",
+      "type": "nominal",
+      "title": "State"
+    },
+    "tooltip": [
+      {"field": "State", "type": "nominal", "title": "State"},
+      {"field": "Year", "type": "temporal", "title": "Year"},
+      {"field": "Mortality_Rate", "type": "quantitative", "title": "Mortality Rate"}
+    ]
+  }
+}
