@@ -4,7 +4,7 @@
   "width": 700,
   "height": 400,
   "data": {
-    "url": "https://raw.githubusercontent.com/mvoo0012/3179/refs/heads/main/3179_asgn2/data/cleaned_skin_cancer_data_no_blank_states.csv"
+    "url": "https://raw.githubusercontent.com/mvoo0012/3179/refs/heads/main/data/cleaned_skin_cancer_data_no_blank_states.csv"
   },
   "params": [
     {
