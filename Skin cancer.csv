@@ -1,0 +1,1135 @@
+row,Cancer,Year,Sex,State,Incident,Incident _Crude_rate_100k,Mortality,Mortality_Crude_rate_100k,Gender,Population
+0.0,Melanoma of the skin,2007,Males,New South Wales,2126,62.8,339,10.0,Male,3413653
+1.0,Melanoma of the skin,2007,Males,Victoria,1188,46.6,182,7.1,Male,2574619
+2.0,Melanoma of the skin,2007,Males,Queensland,1591,77.5,211,10.3,Male,2076128
+3.0,Melanoma of the skin,2007,Males,Western Australia,575,54.2,88,8.3,Male,1075987
+4.0,Melanoma of the skin,2007,Males,South Australia,342,44.1,55,7.1,Male,779355
+5.0,Melanoma of the skin,2007,Males,Tasmania,127,52.1,12,4.9,Male,245319
+6.0,Melanoma of the skin,2007,Males,Australian Capital Territory,72,44.0,14,8.3,Male,170383
+7.0,Melanoma of the skin,2007,Males,Northern Territory,30,27.7,3,n.p.,Male,112777
+8.0,Melanoma of the skin,2007,Males,,6034,58.3,909,8.8,Male,10449776
+9.0,Melanoma of the skin,2007,Females,New South Wales,1420,41.2,138,4.0,Female,3470199
+10.0,Melanoma of the skin,2007,Females,Victoria,986,37.9,95,3.7,Female,2624884
+11.0,Melanoma of the skin,2007,Females,Queensland,1125,54.6,90,4.4,Female,2083862
+12.0,Melanoma of the skin,2007,Females,Western Australia,412,39.4,36,3.4,Female,1059019
+13.0,Melanoma of the skin,2007,Females,South Australia,279,35.1,34,4.3,Female,799134
+14.0,Melanoma of the skin,2007,Females,Tasmania,109,43.7,4,n.p.,Female,250539
+15.0,Melanoma of the skin,2007,Females,Australian Capital Territory,59,35.0,4,n.p.,Female,173793
+16.0,Melanoma of the skin,2007,Females,Northern Territory,20,20.6,1,n.p.,Female,103841
+17.0,Melanoma of the skin,2007,Females,,4400,42.0,400,3.8,Female,10566345
+18.0,Melanoma of the skin,2007,Persons,New South Wales,3546,51.9,477,7.0,Person,6883852
+19.0,Melanoma of the skin,2007,Persons,Victoria,2174,42.2,277,5.4,Person,5199503
+20.0,Melanoma of the skin,2007,Persons,Queensland,2716,66.1,301,7.3,Person,4159990
+21.0,Melanoma of the skin,2007,Persons,Western Australia,987,46.9,124,5.9,Person,2135006
+22.0,Melanoma of the skin,2007,Persons,South Australia,621,39.5,89,5.7,Person,1578489
+23.0,Melanoma of the skin,2007,Persons,Tasmania,236,47.8,16,3.2,Person,495858
+24.0,Melanoma of the skin,2007,Persons,Australian Capital Territory,131,39.4,18,5.3,Person,344176
+25.0,Melanoma of the skin,2007,Persons,Northern Territory,50,24.3,4,n.p.,Person,216618
+26.0,Melanoma of the skin,2007,Persons,,10434,50.1,1309,6.3,Person,21016121
+27.0,Melanoma of the skin,2008,Males,New South Wales,2155,62.6,347,10.1,Male,3476199
+28.0,Melanoma of the skin,2008,Males,Victoria,1247,47.9,187,7.2,Male,2633317
+29.0,Melanoma of the skin,2008,Males,Queensland,1776,84.3,213,10.1,Male,2135996
+30.0,Melanoma of the skin,2008,Males,Western Australia,658,60.1,93,8.5,Male,1113633
+31.0,Melanoma of the skin,2008,Males,South Australia,413,52.6,78,9.9,Male,789696
+32.0,Melanoma of the skin,2008,Males,Tasmania,163,66.0,27,10.9,Male,248714
+33.0,Melanoma of the skin,2008,Males,Australian Capital Territory,76,45.7,14,8.1,Male,174242
+34.0,Melanoma of the skin,2008,Males,Northern Territory,29,26.5,3,n.p.,Male,116223
+35.0,Melanoma of the skin,2008,Males,,6529,61.8,959,9.1,Male,10689738
+36.0,Melanoma of the skin,2008,Females,New South Wales,1489,42.6,150,4.3,Female,3525583
+37.0,Melanoma of the skin,2008,Females,Victoria,982,37.0,89,3.4,Female,2679968
+38.0,Melanoma of the skin,2008,Females,Queensland,1193,56.5,95,4.5,Female,2139555
+39.0,Melanoma of the skin,2008,Females,Western Australia,425,39.5,30,2.8,Female,1095295
+40.0,Melanoma of the skin,2008,Females,South Australia,325,40.4,38,4.7,Female,808184
+41.0,Melanoma of the skin,2008,Females,Tasmania,114,45.3,13,5.2,Female,253060
+42.0,Melanoma of the skin,2008,Females,Australian Capital Territory,62,36.6,5,2.7,Female,176859
+43.0,Melanoma of the skin,2008,Females,Northern Territory,20,19.6,1,n.p.,Female,106303
+44.0,Melanoma of the skin,2008,Females,,4606,43.1,424,4.0,Female,10785887
+45.0,Melanoma of the skin,2008,Persons,New South Wales,3644,52.5,497,7.2,Person,7001782
+46.0,Melanoma of the skin,2008,Persons,Victoria,2229,42.4,276,5.3,Person,5313285
+47.0,Melanoma of the skin,2008,Persons,Queensland,2969,70.4,308,7.3,Person,4275551
+48.0,Melanoma of the skin,2008,Persons,Western Australia,1083,49.9,123,5.7,Person,2208928
+49.0,Melanoma of the skin,2008,Persons,South Australia,738,46.5,116,7.3,Person,1597880
+50.0,Melanoma of the skin,2008,Persons,Tasmania,277,55.6,40,8.0,Person,501774
+51.0,Melanoma of the skin,2008,Persons,Australian Capital Territory,139,41.1,18,5.4,Person,351101
+52.0,Melanoma of the skin,2008,Persons,Northern Territory,49,23.2,4,n.p.,Person,222526
+53.0,Melanoma of the skin,2008,Persons,,11135,52.4,1383,6.5,Person,21475625
+54.0,Melanoma of the skin,2009,Males,New South Wales,2190,62.5,353,10.1,Male,3526643
+55.0,Melanoma of the skin,2009,Males,Victoria,1332,50.0,218,8.2,Male,2686022
+56.0,Melanoma of the skin,2009,Males,Queensland,1787,82.6,198,9.2,Male,2181500
+57.0,Melanoma of the skin,2009,Males,Western Australia,637,56.4,90,8.0,Male,1140480
+58.0,Melanoma of the skin,2009,Males,South Australia,381,47.9,64,8.0,Male,800926
+59.0,Melanoma of the skin,2009,Males,Tasmania,159,63.5,18,7.2,Male,251434
+60.0,Melanoma of the skin,2009,Males,Australian Capital Territory,77,45.5,14,8.0,Male,177822
+61.0,Melanoma of the skin,2009,Males,Northern Territory,30,26.6,3,n.p.,Male,119297
+62.0,Melanoma of the skin,2009,Males,,6598,61.1,956,8.9,Male,10886022
+63.0,Melanoma of the skin,2009,Females,New South Wales,1534,43.2,170,4.8,Female,3574861
+64.0,Melanoma of the skin,2009,Females,Victoria,1048,38.7,95,3.5,Female,2733227
+65.0,Melanoma of the skin,2009,Females,Queensland,1264,58.4,92,4.2,Female,2185954
+66.0,Melanoma of the skin,2009,Females,Western Australia,399,35.9,47,4.2,Female,1123267
+67.0,Melanoma of the skin,2009,Females,South Australia,289,35.5,26,3.2,Female,817652
+68.0,Melanoma of the skin,2009,Females,Tasmania,115,45.3,16,6.3,Female,255027
+69.0,Melanoma of the skin,2009,Females,Australian Capital Territory,57,33.2,6,3.2,Female,180037
+70.0,Melanoma of the skin,2009,Females,Northern Territory,20,19.6,1,n.p.,Female,108486
+71.0,Melanoma of the skin,2009,Females,,4708,43.2,454,4.2,Female,10979601
+72.0,Melanoma of the skin,2009,Persons,New South Wales,3724,52.8,523,7.4,Person,7101504
+73.0,Melanoma of the skin,2009,Persons,Victoria,2380,44.3,313,5.8,Person,5419249
+74.0,Melanoma of the skin,2009,Persons,Queensland,3051,70.5,290,6.7,Person,4367454
+75.0,Melanoma of the skin,2009,Persons,Western Australia,1036,46.2,137,6.1,Person,2263747
+76.0,Melanoma of the skin,2009,Persons,South Australia,670,41.6,90,5.6,Person,1618578
+77.0,Melanoma of the skin,2009,Persons,Tasmania,274,54.3,34,6.7,Person,506461
+78.0,Melanoma of the skin,2009,Persons,Australian Capital Territory,135,39.3,19,5.6,Person,357859
+79.0,Melanoma of the skin,2009,Persons,Northern Territory,50,23.3,4,n.p.,Person,227783
+80.0,Melanoma of the skin,2009,Persons,,11306,52.1,1410,6.5,Person,21865623
+81.0,Melanoma of the skin,2010,Males,New South Wales,2336,65.8,370,10.4,Male,3565558
+82.0,Melanoma of the skin,2010,Males,Victoria,1304,48.2,202,7.5,Male,2720959
+83.0,Melanoma of the skin,2010,Males,Queensland,1842,83.7,232,10.5,Male,2214429
+84.0,Melanoma of the skin,2010,Males,Western Australia,646,56.0,88,7.6,Male,1167862
+85.0,Melanoma of the skin,2010,Males,South Australia,386,47.9,67,8.3,Male,808037
+86.0,Melanoma of the skin,2010,Males,Tasmania,158,62.5,20,7.9,Male,253833
+87.0,Melanoma of the skin,2010,Males,Australian Capital Territory,74,43.0,14,7.9,Male,181314
+88.0,Melanoma of the skin,2010,Males,Northern Territory,32,27.7,4,n.p.,Male,120979
+89.0,Melanoma of the skin,2010,Males,,6796,62.0,995,9.1,Male,11034979
+90.0,Melanoma of the skin,2010,Females,New South Wales,1563,43.5,144,4.0,Female,3614333
+91.0,Melanoma of the skin,2010,Females,Victoria,971,35.2,92,3.3,Female,2774752
+92.0,Melanoma of the skin,2010,Females,Queensland,1268,57.5,118,5.4,Female,2222453
+93.0,Melanoma of the skin,2010,Females,Western Australia,388,34.1,37,3.3,Female,1151201
+94.0,Melanoma of the skin,2010,Females,South Australia,311,37.8,18,2.2,Female,824445
+95.0,Melanoma of the skin,2010,Females,Tasmania,134,52.4,10,3.9,Female,256386
+96.0,Melanoma of the skin,2010,Females,Australian Capital Territory,50,28.5,5,3.1,Female,183519
+97.0,Melanoma of the skin,2010,Females,Northern Territory,21,20.2,1,n.p.,Female,109534
+98.0,Melanoma of the skin,2010,Females,,4703,42.5,423,3.8,Female,11137490
+99.0,Melanoma of the skin,2010,Persons,New South Wales,3899,54.6,514,7.2,Person,7179891
+100.0,Melanoma of the skin,2010,Persons,Victoria,2275,41.7,294,5.4,Person,5495711
+101.0,Melanoma of the skin,2010,Persons,Queensland,3110,70.6,350,7.9,Person,4436882
+102.0,Melanoma of the skin,2010,Persons,Western Australia,1034,45.1,125,5.5,Person,2319063
+103.0,Melanoma of the skin,2010,Persons,South Australia,697,42.8,85,5.2,Person,1632482
+104.0,Melanoma of the skin,2010,Persons,Tasmania,292,57.4,30,5.9,Person,510219
+105.0,Melanoma of the skin,2010,Persons,Australian Capital Territory,124,35.7,19,5.5,Person,364833
+106.0,Melanoma of the skin,2010,Persons,Northern Territory,53,24.1,5,2.2,Person,230460
+107.0,Melanoma of the skin,2010,Persons,,11499,52.2,1418,6.4,Person,22172469
+108.0,Melanoma of the skin,2011,Males,New South Wales,2399,66.9,366,10.2,Male,3604198
+109.0,Melanoma of the skin,2011,Males,Victoria,1172,42.8,217,7.9,Male,2766513
+110.0,Melanoma of the skin,2011,Males,Queensland,1924,86.1,247,11.1,Male,2253923
+111.0,Melanoma of the skin,2011,Males,Western Australia,665,56.1,135,11.4,Male,1202068
+112.0,Melanoma of the skin,2011,Males,South Australia,404,49.8,73,9.0,Male,815608
+113.0,Melanoma of the skin,2011,Males,Tasmania,131,51.4,27,10.6,Male,254896
+114.0,Melanoma of the skin,2011,Males,Australian Capital Territory,76,43.0,12,7.0,Male,184982
+115.0,Melanoma of the skin,2011,Males,Northern Territory,33,28.0,3,n.p.,Male,122136
+116.0,Melanoma of the skin,2011,Males,,6800,61.2,1076,9.7,Male,11206252
+117.0,Melanoma of the skin,2011,Females,New South Wales,1616,44.5,153,4.2,Female,3654524
+118.0,Melanoma of the skin,2011,Females,Victoria,900,32.2,107,3.8,Female,2825305
+119.0,Melanoma of the skin,2011,Females,Queensland,1379,61.5,96,4.3,Female,2264726
+120.0,Melanoma of the skin,2011,Females,Western Australia,449,38.4,46,3.9,Female,1183879
+121.0,Melanoma of the skin,2011,Females,South Australia,287,34.7,26,3.1,Female,831575
+122.0,Melanoma of the skin,2011,Females,Tasmania,129,50.3,16,6.2,Female,256984
+123.0,Melanoma of the skin,2011,Females,Australian Capital Territory,48,27.0,5,2.8,Female,187088
+124.0,Melanoma of the skin,2011,Females,Northern Territory,22,20.4,2,n.p.,Female,110816
+125.0,Melanoma of the skin,2011,Females,,4837,43.1,453,4.0,Female,11315945
+126.0,Melanoma of the skin,2011,Persons,New South Wales,4015,55.6,519,7.2,Person,7258722
+127.0,Melanoma of the skin,2011,Persons,Victoria,2072,37.4,324,5.9,Person,5591818
+128.0,Melanoma of the skin,2011,Persons,Queensland,3303,73.8,343,7.7,Person,4518649
+129.0,Melanoma of the skin,2011,Persons,Western Australia,1114,47.3,181,7.7,Person,2385947
+130.0,Melanoma of the skin,2011,Persons,South Australia,691,42.1,99,6.0,Person,1647183
+131.0,Melanoma of the skin,2011,Persons,Tasmania,260,50.8,43,8.4,Person,511880
+132.0,Melanoma of the skin,2011,Persons,Australian Capital Territory,124,34.9,17,4.9,Person,372070
+133.0,Melanoma of the skin,2011,Persons,Northern Territory,55,24.4,5,2.1,Person,232952
+134.0,Melanoma of the skin,2011,Persons,,11637,52.1,1529,6.8,Person,22522197
+135.0,Melanoma of the skin,2012,Males,New South Wales,2490,68.7,368,10.1,Male,3650035
+136.0,Melanoma of the skin,2012,Males,Victoria,1292,46.2,210,7.5,Male,2825349
+137.0,Melanoma of the skin,2012,Males,Queensland,2014,88.4,231,10.1,Male,2299776
+138.0,Melanoma of the skin,2012,Males,Western Australia,694,56.7,112,9.2,Male,1239615
+139.0,Melanoma of the skin,2012,Males,South Australia,393,47.9,64,7.8,Male,823688
+140.0,Melanoma of the skin,2012,Males,Tasmania,146,57.3,28,11.0,Male,254866
+141.0,Melanoma of the skin,2012,Males,Australian Capital Territory,79,43.8,12,6.6,Male,188673
+142.0,Melanoma of the skin,2012,Males,Northern Territory,37,31.1,5,3.8,Male,125043
+143.0,Melanoma of the skin,2012,Males,,7152,63.2,1039,9.2,Male,11408788
+144.0,Melanoma of the skin,2012,Females,New South Wales,1699,46.2,177,4.8,Female,3703154
+145.0,Melanoma of the skin,2012,Females,Victoria,988,34.6,104,3.6,Female,2884237
+146.0,Melanoma of the skin,2012,Females,Queensland,1430,62.4,105,4.6,Female,2311528
+147.0,Melanoma of the skin,2012,Females,Western Australia,451,37.5,39,3.2,Female,1217874
+148.0,Melanoma of the skin,2012,Females,South Australia,302,36.1,37,4.4,Female,839394
+149.0,Melanoma of the skin,2012,Females,Tasmania,109,42.4,21,8.2,Female,257127
+150.0,Melanoma of the skin,2012,Females,Australian Capital Territory,54,29.4,6,3.3,Female,191139
+151.0,Melanoma of the skin,2012,Females,Northern Territory,23,21.1,1,n.p.,Female,113685
+152.0,Melanoma of the skin,2012,Females,,5081,44.5,490,4.3,Female,11519235
+153.0,Melanoma of the skin,2012,Persons,New South Wales,4189,57.4,545,7.5,Person,7353189
+154.0,Melanoma of the skin,2012,Persons,Victoria,2280,40.3,314,5.6,Person,5709586
+155.0,Melanoma of the skin,2012,Persons,Queensland,3444,75.4,336,7.4,Person,4611304
+156.0,Melanoma of the skin,2012,Persons,Western Australia,1145,47.2,151,6.2,Person,2457489
+157.0,Melanoma of the skin,2012,Persons,South Australia,695,42.0,101,6.1,Person,1663082
+158.0,Melanoma of the skin,2012,Persons,Tasmania,255,49.8,49,9.6,Person,511993
+159.0,Melanoma of the skin,2012,Persons,Australian Capital Territory,132,36.6,18,4.9,Person,379812
+160.0,Melanoma of the skin,2012,Persons,Northern Territory,60,26.3,6,2.6,Person,238728
+161.0,Melanoma of the skin,2012,Persons,,12233,53.8,1529,6.7,Person,22928023
+162.0,Melanoma of the skin,2013,Males,New South Wales,2540,69.1,398,10.8,Male,3698220
+163.0,Melanoma of the skin,2013,Males,Victoria,1330,46.6,249,8.7,Male,2884387
+164.0,Melanoma of the skin,2013,Males,Queensland,2163,93.3,313,13.5,Male,2333762
+165.0,Melanoma of the skin,2013,Males,Western Australia,780,62.2,109,8.7,Male,1259941
+166.0,Melanoma of the skin,2013,Males,South Australia,437,52.8,70,8.5,Male,830900
+167.0,Melanoma of the skin,2013,Males,Tasmania,139,54.6,21,8.2,Male,254878
+168.0,Melanoma of the skin,2013,Males,Australian Capital Territory,81,44.0,12,6.4,Male,191691
+169.0,Melanoma of the skin,2013,Males,Northern Territory,39,31.8,5,4.3,Male,126921
+170.0,Melanoma of the skin,2013,Males,,7523,65.4,1177,10.2,Male,11582448
+171.0,Melanoma of the skin,2013,Females,New South Wales,1767,47.4,155,4.2,Female,3756718
+172.0,Melanoma of the skin,2013,Females,Victoria,1002,34.4,118,4.0,Female,2948198
+173.0,Melanoma of the skin,2013,Females,Queensland,1530,65.6,110,4.7,Female,2351677
+174.0,Melanoma of the skin,2013,Females,Western Australia,532,43.2,51,4.1,Female,1242247
+175.0,Melanoma of the skin,2013,Females,South Australia,284,33.7,36,4.3,Female,847152
+176.0,Melanoma of the skin,2013,Females,Tasmania,136,52.8,12,4.7,Female,258137
+177.0,Melanoma of the skin,2013,Females,Australian Capital Territory,54,29.2,5,2.9,Female,194627
+178.0,Melanoma of the skin,2013,Females,Northern Territory,24,22.0,2,n.p.,Female,115450
+179.0,Melanoma of the skin,2013,Females,,5339,45.9,489,4.2,Female,11715329
+180.0,Melanoma of the skin,2013,Persons,New South Wales,4307,58.2,553,7.5,Person,7454938
+181.0,Melanoma of the skin,2013,Persons,Victoria,2332,40.4,367,6.4,Person,5832585
+182.0,Melanoma of the skin,2013,Persons,Queensland,3693,79.4,423,9.1,Person,4685439
+183.0,Melanoma of the skin,2013,Persons,Western Australia,1312,52.8,160,6.4,Person,2502188
+184.0,Melanoma of the skin,2013,Persons,South Australia,721,43.1,106,6.3,Person,1678052
+185.0,Melanoma of the skin,2013,Persons,Tasmania,275,53.7,33,6.4,Person,513015
+186.0,Melanoma of the skin,2013,Persons,Australian Capital Territory,135,36.5,17,4.7,Person,386318
+187.0,Melanoma of the skin,2013,Persons,Northern Territory,63,27.1,7,2.9,Person,242304
+188.0,Melanoma of the skin,2013,Persons,,12862,55.6,1666,7.2,Person,23297777
+189.0,Melanoma of the skin,2014,Males,New South Wales,2558,68.7,336,9.0,Male,3750061
+190.0,Melanoma of the skin,2014,Males,Victoria,1402,48.1,190,6.5,Male,2945763
+191.0,Melanoma of the skin,2014,Males,Queensland,2199,93.6,250,10.6,Male,2361282
+192.0,Melanoma of the skin,2014,Males,Western Australia,770,60.8,103,8.1,Male,1271552
+193.0,Melanoma of the skin,2014,Males,South Australia,478,57.2,90,10.8,Male,838094
+194.0,Melanoma of the skin,2014,Males,Tasmania,163,63.9,23,9.0,Male,255134
+195.0,Melanoma of the skin,2014,Males,Australian Capital Territory,81,43.5,11,5.8,Male,194291
+196.0,Melanoma of the skin,2014,Males,Northern Territory,43,34.4,6,4.5,Male,127079
+197.0,Melanoma of the skin,2014,Males,,7705,66.0,1004,8.6,Male,11744498
+198.0,Melanoma of the skin,2014,Females,New South Wales,1797,47.5,165,4.4,Female,3812110
+199.0,Melanoma of the skin,2014,Females,Victoria,1064,35.7,88,3.0,Female,3011749
+200.0,Melanoma of the skin,2014,Females,Queensland,1507,63.6,102,4.3,Female,2385981
+201.0,Melanoma of the skin,2014,Females,Western Australia,530,42.4,49,3.9,Female,1257067
+202.0,Melanoma of the skin,2014,Females,South Australia,310,36.4,33,3.9,Female,855013
+203.0,Melanoma of the skin,2014,Females,Tasmania,169,65.3,14,5.4,Female,259067
+204.0,Melanoma of the skin,2014,Females,Australian Capital Territory,63,33.3,5,2.8,Female,197690
+205.0,Melanoma of the skin,2014,Females,Northern Territory,25,22.2,2,n.p.,Female,116165
+206.0,Melanoma of the skin,2014,Females,,5483,46.4,461,3.9,Female,11895833
+207.0,Melanoma of the skin,2014,Persons,New South Wales,4355,58.0,501,6.7,Person,7562171
+208.0,Melanoma of the skin,2014,Persons,Victoria,2466,41.8,278,4.7,Person,5957512
+209.0,Melanoma of the skin,2014,Persons,Queensland,3706,78.5,352,7.5,Person,4747263
+210.0,Melanoma of the skin,2014,Persons,Western Australia,1300,51.6,152,6.0,Person,2528619
+211.0,Melanoma of the skin,2014,Persons,South Australia,788,46.7,123,7.3,Person,1693107
+212.0,Melanoma of the skin,2014,Persons,Tasmania,332,64.6,37,7.2,Person,514040
+213.0,Melanoma of the skin,2014,Persons,Australian Capital Territory,144,38.4,16,4.3,Person,391981
+214.0,Melanoma of the skin,2014,Persons,Northern Territory,68,28.6,8,3.3,Person,243201
+215.0,Melanoma of the skin,2014,Persons,,13188,56.2,1465,6.2,Person,23640331
+216.0,Melanoma of the skin,2015,Males,New South Wales,2581,68.3,386,10.2,Male,3803289
+217.0,Melanoma of the skin,2015,Males,Victoria,1533,51.5,215,7.2,Male,3011376
+218.0,Melanoma of the skin,2015,Males,Queensland,2192,92.3,221,9.3,Male,2385347
+219.0,Melanoma of the skin,2015,Males,Western Australia,895,70.1,102,8.0,Male,1278792
+220.0,Melanoma of the skin,2015,Males,South Australia,471,56.0,74,8.8,Male,843702
+221.0,Melanoma of the skin,2015,Males,Tasmania,166,65.0,18,7.0,Male,255551
+222.0,Melanoma of the skin,2015,Males,Australian Capital Territory,84,44.0,12,6.1,Male,197696
+223.0,Melanoma of the skin,2015,Males,Northern Territory,48,38.4,6,4.9,Male,127914
+224.0,Melanoma of the skin,2015,Males,,8004,67.7,1039,8.8,Male,11904308
+225.0,Melanoma of the skin,2015,Females,New South Wales,1780,46.4,176,4.6,Female,3868112
+226.0,Melanoma of the skin,2015,Females,Victoria,1162,38.2,111,3.6,Female,3081673
+227.0,Melanoma of the skin,2015,Females,Queensland,1561,65.0,97,4.0,Female,2419586
+228.0,Melanoma of the skin,2015,Females,Western Australia,669,52.9,54,4.3,Female,1268953
+229.0,Melanoma of the skin,2015,Females,South Australia,295,34.3,24,2.8,Female,862235
+230.0,Melanoma of the skin,2015,Females,Tasmania,136,52.4,5,1.9,Female,260242
+231.0,Melanoma of the skin,2015,Females,Australian Capital Territory,70,36.1,6,3.1,Female,201178
+232.0,Melanoma of the skin,2015,Females,Northern Territory,27,23.7,2,n.p.,Female,117123
+233.0,Melanoma of the skin,2015,Females,,5714,47.7,475,4.0,Female,12080273
+234.0,Melanoma of the skin,2015,Persons,New South Wales,4361,57.3,562,7.4,Person,7671401
+235.0,Melanoma of the skin,2015,Persons,Victoria,2695,44.8,326,5.4,Person,6093049
+236.0,Melanoma of the skin,2015,Persons,Queensland,3753,78.6,318,6.7,Person,4804933
+237.0,Melanoma of the skin,2015,Persons,Western Australia,1564,61.6,156,6.1,Person,2547745
+238.0,Melanoma of the skin,2015,Persons,South Australia,766,45.0,98,5.8,Person,1705937
+239.0,Melanoma of the skin,2015,Persons,Tasmania,302,58.6,23,4.5,Person,515697
+240.0,Melanoma of the skin,2015,Persons,Australian Capital Territory,153,40.1,18,4.6,Person,398874
+241.0,Melanoma of the skin,2015,Persons,Northern Territory,75,31.4,8,3.5,Person,244692
+242.0,Melanoma of the skin,2015,Persons,,13718,57.6,1514,6.4,Person,23984581
+243.0,Melanoma of the skin,2016,Males,New South Wales,2858,74.5,288,7.5,Male,3865361
+244.0,Melanoma of the skin,2016,Males,Victoria,1569,51.4,178,5.8,Male,3082379
+245.0,Melanoma of the skin,2016,Males,Queensland,2331,97.0,213,8.9,Male,2421215
+246.0,Melanoma of the skin,2016,Males,Western Australia,912,71.1,91,7.1,Male,1288303
+247.0,Melanoma of the skin,2016,Males,South Australia,463,54.7,56,6.6,Male,849914
+248.0,Melanoma of the skin,2016,Males,Tasmania,185,72.2,23,9.0,Male,258456
+249.0,Melanoma of the skin,2016,Males,Australian Capital Territory,92,47.4,11,5.8,Male,202502
+250.0,Melanoma of the skin,2016,Males,Northern Territory,54,42.5,6,4.9,Male,128021
+251.0,Melanoma of the skin,2016,Males,,8491,70.7,858,7.1,Male,12098143
+252.0,Melanoma of the skin,2016,Females,New South Wales,1927,49.4,131,3.4,Female,3930264
+253.0,Melanoma of the skin,2016,Females,Victoria,1251,40.1,85,2.7,Female,3153402
+254.0,Melanoma of the skin,2016,Females,Queensland,1633,66.9,88,3.6,Female,2461724
+255.0,Melanoma of the skin,2016,Females,Western Australia,624,49.0,36,2.8,Female,1281303
+256.0,Melanoma of the skin,2016,Females,South Australia,341,39.4,39,4.5,Female,869666
+257.0,Melanoma of the skin,2016,Females,Tasmania,148,56.6,7,2.7,Female,263525
+258.0,Melanoma of the skin,2016,Females,Australian Capital Territory,75,38.2,7,3.4,Female,206376
+259.0,Melanoma of the skin,2016,Females,Northern Territory,28,24.6,2,n.p.,Female,118539
+260.0,Melanoma of the skin,2016,Females,,6034,49.5,396,3.2,Female,12286921
+261.0,Melanoma of the skin,2016,Persons,New South Wales,4785,61.9,419,5.4,Person,7795625
+262.0,Melanoma of the skin,2016,Persons,Victoria,2820,45.7,263,4.3,Person,6235781
+263.0,Melanoma of the skin,2016,Persons,Queensland,3964,81.8,301,6.2,Person,4882939
+264.0,Melanoma of the skin,2016,Persons,Western Australia,1536,60.1,127,5.0,Person,2569606
+265.0,Melanoma of the skin,2016,Persons,South Australia,804,46.9,95,5.5,Person,1719580
+266.0,Melanoma of the skin,2016,Persons,Tasmania,333,64.3,30,5.8,Person,521981
+267.0,Melanoma of the skin,2016,Persons,Australian Capital Territory,167,42.8,18,4.6,Person,408878
+268.0,Melanoma of the skin,2016,Persons,Northern Territory,82,33.9,8,3.3,Person,246443
+269.0,Melanoma of the skin,2016,Persons,,14525,60.0,1254,5.2,Person,24385064
+270.0,Melanoma of the skin,2017,Males,New South Wales,2975,76.3,319,8.2,Male,3921301
+271.0,Melanoma of the skin,2017,Males,Victoria,1673,53.7,162,5.2,Male,3144429
+272.0,Melanoma of the skin,2017,Males,Queensland,2477,101.4,241,9.9,Male,2458389
+273.0,Melanoma of the skin,2017,Males,Western Australia,867,66.9,89,6.9,Male,1302076
+274.0,Melanoma of the skin,2017,Males,South Australia,467,54.7,59,6.9,Male,857807
+275.0,Melanoma of the skin,2017,Males,Tasmania,181,69.4,23,8.8,Male,263305
+276.0,Melanoma of the skin,2017,Males,Australian Capital Territory,107,54.4,10,5.2,Male,207866
+277.0,Melanoma of the skin,2017,Males,Northern Territory,52,40.9,5,3.9,Male,128104
+278.0,Melanoma of the skin,2017,Males,,8833,72.4,908,7.4,Male,12284961
+279.0,Melanoma of the skin,2017,Females,New South Wales,1957,49.4,186,4.7,Female,3979645
+280.0,Melanoma of the skin,2017,Females,Victoria,1310,41.1,111,3.5,Female,3213781
+281.0,Melanoma of the skin,2017,Females,Queensland,1671,67.3,106,4.3,Female,2502576
+282.0,Melanoma of the skin,2017,Females,Western Australia,586,45.4,46,3.6,Female,1297852
+283.0,Melanoma of the skin,2017,Females,South Australia,332,38.0,25,2.9,Female,877847
+284.0,Melanoma of the skin,2017,Females,Tasmania,158,59.4,7,2.6,Female,268256
+285.0,Melanoma of the skin,2017,Females,Australian Capital Territory,77,38.5,8,3.9,Female,212360
+286.0,Melanoma of the skin,2017,Females,Northern Territory,29,24.6,2,n.p.,Female,119647
+287.0,Melanoma of the skin,2017,Females,,6129,49.5,495,4.0,Female,12474057
+288.0,Melanoma of the skin,2017,Persons,New South Wales,4932,62.8,505,6.4,Person,7900946
+289.0,Melanoma of the skin,2017,Persons,Victoria,2983,47.3,273,4.3,Person,6358210
+290.0,Melanoma of the skin,2017,Persons,Queensland,4148,84.2,347,7.0,Person,4960965
+291.0,Melanoma of the skin,2017,Persons,Western Australia,1453,56.2,135,5.2,Person,2599928
+292.0,Melanoma of the skin,2017,Persons,South Australia,799,46.2,84,4.9,Person,1735654
+293.0,Melanoma of the skin,2017,Persons,Tasmania,339,64.4,30,5.7,Person,531561
+294.0,Melanoma of the skin,2017,Persons,Australian Capital Territory,184,46.4,18,4.5,Person,420226
+295.0,Melanoma of the skin,2017,Persons,Northern Territory,81,33.1,7,2.9,Person,247514
+296.0,Melanoma of the skin,2017,Persons,,14962,60.8,1403,5.7,Person,24759018
+297.0,Melanoma of the skin,2018,Males,New South Wales,2984,75.5,333,8.4,Male,3976266
+298.0,Melanoma of the skin,2018,Males,Victoria,1766,55.6,195,6.1,Male,3207192
+299.0,Melanoma of the skin,2018,Males,Queensland,2341,94.4,235,9.5,Male,2499842
+300.0,Melanoma of the skin,2018,Males,Western Australia,857,65.4,80,6.1,Male,1319834
+301.0,Melanoma of the skin,2018,Males,South Australia,476,55.2,62,7.2,Male,867603
+302.0,Melanoma of the skin,2018,Males,Tasmania,205,77.0,33,12.4,Male,268840
+303.0,Melanoma of the skin,2018,Males,Australian Capital Territory,114,56.7,12,6.1,Male,212822
+304.0,Melanoma of the skin,2018,Males,Northern Territory,53,41.4,5,4.1,Male,127221
+305.0,Melanoma of the skin,2018,Males,,8807,71.1,966,7.8,Male,12481024
+306.0,Melanoma of the skin,2018,Females,New South Wales,2021,50.5,139,3.5,Female,4027298
+307.0,Melanoma of the skin,2018,Females,Victoria,1311,40.4,97,3.0,Female,3272503
+308.0,Melanoma of the skin,2018,Females,Queensland,1731,68.5,88,3.5,Female,2546592
+309.0,Melanoma of the skin,2018,Females,Western Australia,627,48.0,52,4.0,Female,1316570
+310.0,Melanoma of the skin,2018,Females,South Australia,309,35.0,23,2.6,Female,888112
+311.0,Melanoma of the skin,2018,Females,Tasmania,196,72.3,12,4.4,Female,274087
+312.0,Melanoma of the skin,2018,Females,Australian Capital Territory,81,39.7,8,3.9,Female,217936
+313.0,Melanoma of the skin,2018,Females,Northern Territory,30,25.8,2,n.p.,Female,119997
+314.0,Melanoma of the skin,2018,Females,,6315,50.2,417,3.3,Female,12665116
+315.0,Melanoma of the skin,2018,Persons,New South Wales,5005,62.9,472,5.9,Person,8003564
+316.0,Melanoma of the skin,2018,Persons,Victoria,3078,47.9,292,4.5,Person,6479695
+317.0,Melanoma of the skin,2018,Persons,Queensland,4072,81.3,323,6.5,Person,5046434
+318.0,Melanoma of the skin,2018,Persons,Western Australia,1484,56.7,132,5.0,Person,2636404
+319.0,Melanoma of the skin,2018,Persons,South Australia,785,45.0,85,4.9,Person,1755715
+320.0,Melanoma of the skin,2018,Persons,Tasmania,401,74.6,45,8.4,Person,542927
+321.0,Melanoma of the skin,2018,Persons,Australian Capital Territory,195,48.1,20,5.0,Person,430758
+322.0,Melanoma of the skin,2018,Persons,Northern Territory,83,33.9,7,2.8,Person,247095
+323.0,Melanoma of the skin,2018,Persons,,15123,60.6,1383,5.5,Person,25146140
+324.0,Melanoma of the skin,2019,Males,New South Wales,3012,75.3,307,7.7,Male,4019498
+325.0,Melanoma of the skin,2019,Males,Victoria,1632,50.4,189,5.8,Male,3262240
+326.0,Melanoma of the skin,2019,Males,Queensland,2601,103.2,212,8.4,Male,2540680
+327.0,Melanoma of the skin,2019,Males,Western Australia,945,71.0,104,7.8,Male,1345064
+328.0,Melanoma of the skin,2019,Males,South Australia,545,62.4,79,9.0,Male,878768
+329.0,Melanoma of the skin,2019,Males,Tasmania,224,82.6,26,9.6,Male,273893
+330.0,Melanoma of the skin,2019,Males,Australian Capital Territory,120,58.3,14,6.9,Male,217500
+331.0,Melanoma of the skin,2019,Males,Northern Territory,55,43.3,6,4.6,Male,126289
+332.0,Melanoma of the skin,2019,Males,,9135,72.6,942,7.5,Male,12665662
+333.0,Melanoma of the skin,2019,Females,New South Wales,2077,51.3,157,3.9,Female,4068863
+334.0,Melanoma of the skin,2019,Females,Victoria,1202,36.4,85,2.6,Female,3327810
+335.0,Melanoma of the skin,2019,Females,Queensland,1845,71.9,99,3.9,Female,2589061
+336.0,Melanoma of the skin,2019,Females,Western Australia,676,50.9,45,3.4,Female,1343735
+337.0,Melanoma of the skin,2019,Females,South Australia,357,39.9,33,3.7,Female,900160
+338.0,Melanoma of the skin,2019,Females,Tasmania,188,68.0,14,5.1,Female,279447
+339.0,Melanoma of the skin,2019,Females,Australian Capital Territory,86,40.8,8,3.7,Female,222767
+340.0,Melanoma of the skin,2019,Females,Northern Territory,33,27.6,1,n.p.,Female,120727
+341.0,Melanoma of the skin,2019,Females,,6491,50.9,441,3.5,Female,12854806
+342.0,Melanoma of the skin,2019,Persons,New South Wales,5089,63.2,464,5.8,Person,8088361
+343.0,Melanoma of the skin,2019,Persons,Victoria,2834,43.4,274,4.2,Person,6590050
+344.0,Melanoma of the skin,2019,Persons,Queensland,4446,87.4,311,6.1,Person,5129741
+345.0,Melanoma of the skin,2019,Persons,Western Australia,1621,60.9,149,5.6,Person,2688799
+346.0,Melanoma of the skin,2019,Persons,South Australia,902,51.0,112,6.3,Person,1778928
+347.0,Melanoma of the skin,2019,Persons,Tasmania,412,75.2,40,7.3,Person,553340
+348.0,Melanoma of the skin,2019,Persons,Australian Capital Territory,205,49.5,22,5.3,Person,440267
+349.0,Melanoma of the skin,2019,Persons,Northern Territory,88,35.7,7,2.9,Person,246677
+350.0,Melanoma of the skin,2019,Persons,,15626,61.7,1383,5.5,Person,25520468
+351.0,Melanoma of the skin,2020,Males,New South Wales,2894,71.8,347,8.6,Male,4031001
+352.0,Melanoma of the skin,2020,Males,Victoria,1493,45.6,183,5.6,Male,3274653
+353.0,Melanoma of the skin,2020,Males,Queensland,2408,94.1,222,8.7,Male,2568499
+354.0,Melanoma of the skin,2020,Males,Western Australia,817,60.2,85,6.3,Male,1364994
+355.0,Melanoma of the skin,2020,Males,South Australia,544,61.5,68,7.7,Male,886475
+356.0,Melanoma of the skin,2020,Males,Tasmania,221,80.1,28,10.1,Male,278353
+357.0,Melanoma of the skin,2020,Males,Australian Capital Territory,120,57.2,15,7.1,Male,220886
+358.0,Melanoma of the skin,2020,Males,Northern Territory,55,43.4,5,3.6,Male,126133
+359.0,Melanoma of the skin,2020,Males,,8546,67.1,954,7.5,Male,12728639
+360.0,Melanoma of the skin,2020,Females,New South Wales,2024,49.6,146,3.6,Female,4081000
+361.0,Melanoma of the skin,2020,Females,Victoria,1093,32.7,98,2.9,Female,3341983
+362.0,Melanoma of the skin,2020,Females,Queensland,1761,67.5,105,4.0,Female,2615830
+363.0,Melanoma of the skin,2020,Females,Western Australia,597,44.0,38,2.8,Female,1363193
+364.0,Melanoma of the skin,2020,Females,South Australia,347,38.3,39,4.3,Female,908039
+365.0,Melanoma of the skin,2020,Females,Tasmania,205,72.8,9,3.2,Female,283528
+366.0,Melanoma of the skin,2020,Females,Australian Capital Territory,85,39.4,8,3.7,Female,226764
+367.0,Melanoma of the skin,2020,Females,Northern Territory,33,27.7,2,n.p.,Female,121772
+368.0,Melanoma of the skin,2020,Females,,6135,47.5,445,3.4,Female,12920609
+369.0,Melanoma of the skin,2020,Persons,New South Wales,4918,60.6,493,6.1,Person,8112001
+370.0,Melanoma of the skin,2020,Persons,Victoria,2586,39.1,281,4.2,Person,6616636
+371.0,Melanoma of the skin,2020,Persons,Queensland,4169,80.7,327,6.3,Person,5184329
+372.0,Melanoma of the skin,2020,Persons,Western Australia,1417,52.2,123,4.5,Person,2728187
+373.0,Melanoma of the skin,2020,Persons,South Australia,891,49.8,107,6.0,Person,1794514
+374.0,Melanoma of the skin,2020,Persons,Tasmania,428,76.8,37,6.6,Person,561881
+375.0,Melanoma of the skin,2020,Persons,Australian Capital Territory,205,48.2,23,5.4,Person,447650
+376.0,Melanoma of the skin,2020,Persons,Northern Territory,88,35.8,6,2.5,Person,247819
+377.0,Melanoma of the skin,2020,Persons,,14686,57.3,1399,5.5,Person,25649248
+378.0,Non-melanoma skin cancer (rare types),2007,Males,New South Wales,178,5.3,35,1.0,Male,3413653
+379.0,Non-melanoma skin cancer (rare types),2007,Males,Victoria,53,2.1,6,0.2,Male,2574619
+380.0,Non-melanoma skin cancer (rare types),2007,Males,Queensland,109,5.3,23,1.1,Male,2076128
+381.0,Non-melanoma skin cancer (rare types),2007,Males,Western Australia,48,4.5,12,1.1,Male,1075987
+382.0,Non-melanoma skin cancer (rare types),2007,Males,South Australia,14,1.8,4,n.p.,Male,779355
+383.0,Non-melanoma skin cancer (rare types),2007,Males,Tasmania,12,4.9,1,n.p.,Male,245319
+384.0,Non-melanoma skin cancer (rare types),2007,Males,Australian Capital Territory,5,2.9,1,n.p.,Male,170383
+385.0,Non-melanoma skin cancer (rare types),2007,Males,Northern Territory,0,n.p.,0,n.p.,Male,112777
+386.0,Non-melanoma skin cancer (rare types),2007,Males,,416,4.0,82,0.8,Male,10449776
+387.0,Non-melanoma skin cancer (rare types),2007,Females,New South Wales,119,3.5,22,0.6,Female,3470199
+388.0,Non-melanoma skin cancer (rare types),2007,Females,Victoria,36,1.4,5,0.2,Female,2624884
+389.0,Non-melanoma skin cancer (rare types),2007,Females,Queensland,49,2.4,8,0.4,Female,2083862
+390.0,Non-melanoma skin cancer (rare types),2007,Females,Western Australia,25,2.4,7,0.7,Female,1059019
+391.0,Non-melanoma skin cancer (rare types),2007,Females,South Australia,7,0.9,5,0.6,Female,799134
+392.0,Non-melanoma skin cancer (rare types),2007,Females,Tasmania,6,2.4,5,2.0,Female,250539
+393.0,Non-melanoma skin cancer (rare types),2007,Females,Australian Capital Territory,2,n.p.,0,n.p.,Female,173793
+394.0,Non-melanoma skin cancer (rare types),2007,Females,Northern Territory,0,0.0,0,0.0,Female,103841
+395.0,Non-melanoma skin cancer (rare types),2007,Females,,242,2.3,52,0.5,Female,10566345
+396.0,Non-melanoma skin cancer (rare types),2007,Persons,New South Wales,297,4.3,57,0.8,Person,6883852
+397.0,Non-melanoma skin cancer (rare types),2007,Persons,Victoria,89,1.7,11,0.2,Person,5199503
+398.0,Non-melanoma skin cancer (rare types),2007,Persons,Queensland,158,3.8,31,0.8,Person,4159990
+399.0,Non-melanoma skin cancer (rare types),2007,Persons,Western Australia,73,3.5,19,0.9,Person,2135006
+400.0,Non-melanoma skin cancer (rare types),2007,Persons,South Australia,21,1.3,9,0.6,Person,1578489
+401.0,Non-melanoma skin cancer (rare types),2007,Persons,Tasmania,18,3.6,6,1.2,Person,495858
+402.0,Non-melanoma skin cancer (rare types),2007,Persons,Australian Capital Territory,7,2.2,1,n.p.,Person,344176
+403.0,Non-melanoma skin cancer (rare types),2007,Persons,Northern Territory,0,n.p.,0,n.p.,Person,216618
+404.0,Non-melanoma skin cancer (rare types),2007,Persons,,658,3.2,134,0.6,Person,21016121
+405.0,Non-melanoma skin cancer (rare types),2008,Males,New South Wales,166,4.8,28,0.8,Male,3476199
+406.0,Non-melanoma skin cancer (rare types),2008,Males,Victoria,40,1.5,6,0.2,Male,2633317
+407.0,Non-melanoma skin cancer (rare types),2008,Males,Queensland,119,5.6,25,1.2,Male,2135996
+408.0,Non-melanoma skin cancer (rare types),2008,Males,Western Australia,52,4.7,5,0.5,Male,1113633
+409.0,Non-melanoma skin cancer (rare types),2008,Males,South Australia,11,1.4,4,n.p.,Male,789696
+410.0,Non-melanoma skin cancer (rare types),2008,Males,Tasmania,7,2.8,2,n.p.,Male,248714
+411.0,Non-melanoma skin cancer (rare types),2008,Males,Australian Capital Territory,4,n.p.,2,n.p.,Male,174242
+412.0,Non-melanoma skin cancer (rare types),2008,Males,Northern Territory,1,n.p.,0,n.p.,Male,116223
+413.0,Non-melanoma skin cancer (rare types),2008,Males,,402,3.8,75,0.7,Male,10689738
+414.0,Non-melanoma skin cancer (rare types),2008,Females,New South Wales,127,3.6,24,0.7,Female,3525583
+415.0,Non-melanoma skin cancer (rare types),2008,Females,Victoria,30,1.1,6,0.2,Female,2679968
+416.0,Non-melanoma skin cancer (rare types),2008,Females,Queensland,38,1.8,11,0.5,Female,2139555
+417.0,Non-melanoma skin cancer (rare types),2008,Females,Western Australia,29,2.7,3,n.p.,Female,1095295
+418.0,Non-melanoma skin cancer (rare types),2008,Females,South Australia,6,0.7,4,n.p.,Female,808184
+419.0,Non-melanoma skin cancer (rare types),2008,Females,Tasmania,8,3.2,0,0.0,Female,253060
+420.0,Non-melanoma skin cancer (rare types),2008,Females,Australian Capital Territory,2,n.p.,0,n.p.,Female,176859
+421.0,Non-melanoma skin cancer (rare types),2008,Females,Northern Territory,0,n.p.,0,0.0,Female,106303
+422.0,Non-melanoma skin cancer (rare types),2008,Females,,241,2.3,48,0.4,Female,10785887
+423.0,Non-melanoma skin cancer (rare types),2008,Persons,New South Wales,293,4.2,52,0.7,Person,7001782
+424.0,Non-melanoma skin cancer (rare types),2008,Persons,Victoria,70,1.3,12,0.2,Person,5313285
+425.0,Non-melanoma skin cancer (rare types),2008,Persons,Queensland,157,3.7,36,0.9,Person,4275551
+426.0,Non-melanoma skin cancer (rare types),2008,Persons,Western Australia,81,3.7,8,0.4,Person,2208928
+427.0,Non-melanoma skin cancer (rare types),2008,Persons,South Australia,17,1.1,8,0.5,Person,1597880
+428.0,Non-melanoma skin cancer (rare types),2008,Persons,Tasmania,15,3.0,2,n.p.,Person,501774
+429.0,Non-melanoma skin cancer (rare types),2008,Persons,Australian Capital Territory,6,1.7,2,n.p.,Person,351101
+430.0,Non-melanoma skin cancer (rare types),2008,Persons,Northern Territory,1,n.p.,0,n.p.,Person,222526
+431.0,Non-melanoma skin cancer (rare types),2008,Persons,,643,3.0,123,0.6,Person,21475625
+432.0,Non-melanoma skin cancer (rare types),2009,Males,New South Wales,190,5.4,35,1.0,Male,3526643
+433.0,Non-melanoma skin cancer (rare types),2009,Males,Victoria,47,1.8,9,0.3,Male,2686022
+434.0,Non-melanoma skin cancer (rare types),2009,Males,Queensland,135,6.2,24,1.1,Male,2181500
+435.0,Non-melanoma skin cancer (rare types),2009,Males,Western Australia,46,4.1,6,0.5,Male,1140480
+436.0,Non-melanoma skin cancer (rare types),2009,Males,South Australia,15,1.9,7,0.9,Male,800926
+437.0,Non-melanoma skin cancer (rare types),2009,Males,Tasmania,9,3.6,3,n.p.,Male,251434
+438.0,Non-melanoma skin cancer (rare types),2009,Males,Australian Capital Territory,3,n.p.,2,n.p.,Male,177822
+439.0,Non-melanoma skin cancer (rare types),2009,Males,Northern Territory,1,n.p.,0,n.p.,Male,119297
+440.0,Non-melanoma skin cancer (rare types),2009,Males,,446,4.1,84,0.8,Male,10886022
+441.0,Non-melanoma skin cancer (rare types),2009,Females,New South Wales,111,3.1,22,0.6,Female,3574861
+442.0,Non-melanoma skin cancer (rare types),2009,Females,Victoria,32,1.2,14,0.5,Female,2733227
+443.0,Non-melanoma skin cancer (rare types),2009,Females,Queensland,55,2.5,5,0.2,Female,2185954
+444.0,Non-melanoma skin cancer (rare types),2009,Females,Western Australia,31,2.8,5,0.5,Female,1123267
+445.0,Non-melanoma skin cancer (rare types),2009,Females,South Australia,10,1.2,5,0.6,Female,817652
+446.0,Non-melanoma skin cancer (rare types),2009,Females,Tasmania,5,2.0,0,0.0,Female,255027
+447.0,Non-melanoma skin cancer (rare types),2009,Females,Australian Capital Territory,2,n.p.,1,n.p.,Female,180037
+448.0,Non-melanoma skin cancer (rare types),2009,Females,Northern Territory,0,n.p.,0,0.0,Female,108486
+449.0,Non-melanoma skin cancer (rare types),2009,Females,,247,2.3,52,0.5,Female,10979601
+450.0,Non-melanoma skin cancer (rare types),2009,Persons,New South Wales,301,4.3,57,0.8,Person,7101504
+451.0,Non-melanoma skin cancer (rare types),2009,Persons,Victoria,79,1.5,23,0.4,Person,5419249
+452.0,Non-melanoma skin cancer (rare types),2009,Persons,Queensland,190,4.4,29,0.7,Person,4367454
+453.0,Non-melanoma skin cancer (rare types),2009,Persons,Western Australia,77,3.4,11,0.5,Person,2263747
+454.0,Non-melanoma skin cancer (rare types),2009,Persons,South Australia,25,1.6,12,0.7,Person,1618578
+455.0,Non-melanoma skin cancer (rare types),2009,Persons,Tasmania,14,2.8,3,n.p.,Person,506461
+456.0,Non-melanoma skin cancer (rare types),2009,Persons,Australian Capital Territory,5,1.6,2,n.p.,Person,357859
+457.0,Non-melanoma skin cancer (rare types),2009,Persons,Northern Territory,1,n.p.,0,n.p.,Person,227783
+458.0,Non-melanoma skin cancer (rare types),2009,Persons,,693,3.2,136,0.6,Person,21865623
+459.0,Non-melanoma skin cancer (rare types),2010,Males,New South Wales,174,4.9,34,1.0,Male,3565558
+460.0,Non-melanoma skin cancer (rare types),2010,Males,Victoria,49,1.8,14,0.5,Male,2720959
+461.0,Non-melanoma skin cancer (rare types),2010,Males,Queensland,118,5.4,25,1.1,Male,2214429
+462.0,Non-melanoma skin cancer (rare types),2010,Males,Western Australia,51,4.4,9,0.8,Male,1167862
+463.0,Non-melanoma skin cancer (rare types),2010,Males,South Australia,22,2.7,4,n.p.,Male,808037
+464.0,Non-melanoma skin cancer (rare types),2010,Males,Tasmania,12,4.7,1,n.p.,Male,253833
+465.0,Non-melanoma skin cancer (rare types),2010,Males,Australian Capital Territory,4,n.p.,2,n.p.,Male,181314
+466.0,Non-melanoma skin cancer (rare types),2010,Males,Northern Territory,1,n.p.,0,n.p.,Male,120979
+467.0,Non-melanoma skin cancer (rare types),2010,Males,,434,4.0,88,0.8,Male,11034979
+468.0,Non-melanoma skin cancer (rare types),2010,Females,New South Wales,120,3.3,18,0.5,Female,3614333
+469.0,Non-melanoma skin cancer (rare types),2010,Females,Victoria,33,1.2,7,0.3,Female,2774752
+470.0,Non-melanoma skin cancer (rare types),2010,Females,Queensland,64,2.9,15,0.7,Female,2222453
+471.0,Non-melanoma skin cancer (rare types),2010,Females,Western Australia,29,2.6,1,n.p.,Female,1151201
+472.0,Non-melanoma skin cancer (rare types),2010,Females,South Australia,7,0.9,2,n.p.,Female,824445
+473.0,Non-melanoma skin cancer (rare types),2010,Females,Tasmania,10,3.9,2,n.p.,Female,256386
+474.0,Non-melanoma skin cancer (rare types),2010,Females,Australian Capital Territory,2,n.p.,1,n.p.,Female,183519
+475.0,Non-melanoma skin cancer (rare types),2010,Females,Northern Territory,0,n.p.,0,n.p.,Female,109534
+476.0,Non-melanoma skin cancer (rare types),2010,Females,,265,2.4,48,0.4,Female,11137490
+477.0,Non-melanoma skin cancer (rare types),2010,Persons,New South Wales,294,4.1,52,0.7,Person,7179891
+478.0,Non-melanoma skin cancer (rare types),2010,Persons,Victoria,82,1.5,21,0.4,Person,5495711
+479.0,Non-melanoma skin cancer (rare types),2010,Persons,Queensland,182,4.1,40,0.9,Person,4436882
+480.0,Non-melanoma skin cancer (rare types),2010,Persons,Western Australia,80,3.5,10,0.4,Person,2319063
+481.0,Non-melanoma skin cancer (rare types),2010,Persons,South Australia,29,1.8,6,0.4,Person,1632482
+482.0,Non-melanoma skin cancer (rare types),2010,Persons,Tasmania,22,4.3,3,n.p.,Person,510219
+483.0,Non-melanoma skin cancer (rare types),2010,Persons,Australian Capital Territory,6,1.7,2,n.p.,Person,364833
+484.0,Non-melanoma skin cancer (rare types),2010,Persons,Northern Territory,1,n.p.,0,n.p.,Person,230460
+485.0,Non-melanoma skin cancer (rare types),2010,Persons,,699,3.2,136,0.6,Person,22172469
+486.0,Non-melanoma skin cancer (rare types),2011,Males,New South Wales,188,5.2,37,1.0,Male,3604198
+487.0,Non-melanoma skin cancer (rare types),2011,Males,Victoria,38,1.4,16,0.6,Male,2766513
+488.0,Non-melanoma skin cancer (rare types),2011,Males,Queensland,122,5.5,22,1.0,Male,2253923
+489.0,Non-melanoma skin cancer (rare types),2011,Males,Western Australia,58,4.9,4,n.p.,Male,1202068
+490.0,Non-melanoma skin cancer (rare types),2011,Males,South Australia,30,3.7,5,0.6,Male,815608
+491.0,Non-melanoma skin cancer (rare types),2011,Males,Tasmania,10,3.9,3,n.p.,Male,254896
+492.0,Non-melanoma skin cancer (rare types),2011,Males,Australian Capital Territory,4,n.p.,1,n.p.,Male,184982
+493.0,Non-melanoma skin cancer (rare types),2011,Males,Northern Territory,1,n.p.,0,n.p.,Male,122136
+494.0,Non-melanoma skin cancer (rare types),2011,Males,,452,4.1,89,0.8,Male,11206252
+495.0,Non-melanoma skin cancer (rare types),2011,Females,New South Wales,106,2.9,22,0.6,Female,3654524
+496.0,Non-melanoma skin cancer (rare types),2011,Females,Victoria,23,0.8,14,0.5,Female,2825305
+497.0,Non-melanoma skin cancer (rare types),2011,Females,Queensland,60,2.7,12,0.5,Female,2264726
+498.0,Non-melanoma skin cancer (rare types),2011,Females,Western Australia,39,3.3,2,n.p.,Female,1183879
+499.0,Non-melanoma skin cancer (rare types),2011,Females,South Australia,6,0.7,2,n.p.,Female,831575
+500.0,Non-melanoma skin cancer (rare types),2011,Females,Tasmania,2,n.p.,0,0.0,Female,256984
+501.0,Non-melanoma skin cancer (rare types),2011,Females,Australian Capital Territory,2,n.p.,1,n.p.,Female,187088
+502.0,Non-melanoma skin cancer (rare types),2011,Females,Northern Territory,0,n.p.,0,n.p.,Female,110816
+503.0,Non-melanoma skin cancer (rare types),2011,Females,,238,2.1,52,0.5,Female,11315945
+504.0,Non-melanoma skin cancer (rare types),2011,Persons,New South Wales,294,4.1,59,0.8,Person,7258722
+505.0,Non-melanoma skin cancer (rare types),2011,Persons,Victoria,61,1.1,30,0.5,Person,5591818
+506.0,Non-melanoma skin cancer (rare types),2011,Persons,Queensland,182,4.1,34,0.8,Person,4518649
+507.0,Non-melanoma skin cancer (rare types),2011,Persons,Western Australia,97,4.1,6,0.3,Person,2385947
+508.0,Non-melanoma skin cancer (rare types),2011,Persons,South Australia,36,2.2,7,0.4,Person,1647183
+509.0,Non-melanoma skin cancer (rare types),2011,Persons,Tasmania,12,2.3,3,n.p.,Person,511880
+510.0,Non-melanoma skin cancer (rare types),2011,Persons,Australian Capital Territory,6,1.6,2,n.p.,Person,372070
+511.0,Non-melanoma skin cancer (rare types),2011,Persons,Northern Territory,2,n.p.,1,n.p.,Person,232952
+512.0,Non-melanoma skin cancer (rare types),2011,Persons,,690,3.1,141,0.6,Person,22522197
+513.0,Non-melanoma skin cancer (rare types),2012,Males,New South Wales,200,5.5,41,1.1,Male,3650035
+514.0,Non-melanoma skin cancer (rare types),2012,Males,Victoria,36,1.3,10,0.4,Male,2825349
+515.0,Non-melanoma skin cancer (rare types),2012,Males,Queensland,131,5.7,26,1.1,Male,2299776
+516.0,Non-melanoma skin cancer (rare types),2012,Males,Western Australia,71,5.8,19,1.6,Male,1239615
+517.0,Non-melanoma skin cancer (rare types),2012,Males,South Australia,24,2.9,5,0.6,Male,823688
+518.0,Non-melanoma skin cancer (rare types),2012,Males,Tasmania,11,4.3,1,n.p.,Male,254866
+519.0,Non-melanoma skin cancer (rare types),2012,Males,Australian Capital Territory,5,2.6,1,n.p.,Male,188673
+520.0,Non-melanoma skin cancer (rare types),2012,Males,Northern Territory,1,n.p.,0,n.p.,Male,125043
+521.0,Non-melanoma skin cancer (rare types),2012,Males,,478,4.2,103,0.9,Male,11408788
+522.0,Non-melanoma skin cancer (rare types),2012,Females,New South Wales,116,3.2,28,0.8,Female,3703154
+523.0,Non-melanoma skin cancer (rare types),2012,Females,Victoria,28,1.0,7,0.2,Female,2884237
+524.0,Non-melanoma skin cancer (rare types),2012,Females,Queensland,71,3.1,11,0.5,Female,2311528
+525.0,Non-melanoma skin cancer (rare types),2012,Females,Western Australia,47,3.9,3,n.p.,Female,1217874
+526.0,Non-melanoma skin cancer (rare types),2012,Females,South Australia,13,1.6,1,n.p.,Female,839394
+527.0,Non-melanoma skin cancer (rare types),2012,Females,Tasmania,8,3.1,1,n.p.,Female,257127
+528.0,Non-melanoma skin cancer (rare types),2012,Females,Australian Capital Territory,2,n.p.,1,n.p.,Female,191139
+529.0,Non-melanoma skin cancer (rare types),2012,Females,Northern Territory,1,n.p.,0,n.p.,Female,113685
+530.0,Non-melanoma skin cancer (rare types),2012,Females,,286,2.5,51,0.4,Female,11519235
+531.0,Non-melanoma skin cancer (rare types),2012,Persons,New South Wales,316,4.3,69,0.9,Person,7353189
+532.0,Non-melanoma skin cancer (rare types),2012,Persons,Victoria,64,1.1,17,0.3,Person,5709586
+533.0,Non-melanoma skin cancer (rare types),2012,Persons,Queensland,202,4.4,37,0.8,Person,4611304
+534.0,Non-melanoma skin cancer (rare types),2012,Persons,Western Australia,118,4.9,22,0.9,Person,2457489
+535.0,Non-melanoma skin cancer (rare types),2012,Persons,South Australia,37,2.2,6,0.4,Person,1663082
+536.0,Non-melanoma skin cancer (rare types),2012,Persons,Tasmania,19,3.7,2,n.p.,Person,511993
+537.0,Non-melanoma skin cancer (rare types),2012,Persons,Australian Capital Territory,7,1.8,2,n.p.,Person,379812
+538.0,Non-melanoma skin cancer (rare types),2012,Persons,Northern Territory,2,n.p.,1,n.p.,Person,238728
+539.0,Non-melanoma skin cancer (rare types),2012,Persons,,764,3.4,154,0.7,Person,22928023
+540.0,Non-melanoma skin cancer (rare types),2013,Males,New South Wales,240,6.5,44,1.2,Male,3698220
+541.0,Non-melanoma skin cancer (rare types),2013,Males,Victoria,57,2.0,19,0.7,Male,2884387
+542.0,Non-melanoma skin cancer (rare types),2013,Males,Queensland,148,6.4,38,1.6,Male,2333762
+543.0,Non-melanoma skin cancer (rare types),2013,Males,Western Australia,87,6.9,11,0.9,Male,1259941
+544.0,Non-melanoma skin cancer (rare types),2013,Males,South Australia,23,2.8,6,0.7,Male,830900
+545.0,Non-melanoma skin cancer (rare types),2013,Males,Tasmania,12,4.7,1,n.p.,Male,254878
+546.0,Non-melanoma skin cancer (rare types),2013,Males,Australian Capital Territory,5,2.7,1,n.p.,Male,191691
+547.0,Non-melanoma skin cancer (rare types),2013,Males,Northern Territory,1,n.p.,1,n.p.,Male,126921
+548.0,Non-melanoma skin cancer (rare types),2013,Males,,575,5.0,121,1.1,Male,11582448
+549.0,Non-melanoma skin cancer (rare types),2013,Females,New South Wales,116,3.1,25,0.7,Female,3756718
+550.0,Non-melanoma skin cancer (rare types),2013,Females,Victoria,29,1.0,6,0.2,Female,2948198
+551.0,Non-melanoma skin cancer (rare types),2013,Females,Queensland,72,3.1,20,0.9,Female,2351677
+552.0,Non-melanoma skin cancer (rare types),2013,Females,Western Australia,44,3.6,10,0.8,Female,1242247
+553.0,Non-melanoma skin cancer (rare types),2013,Females,South Australia,9,1.1,3,n.p.,Female,847152
+554.0,Non-melanoma skin cancer (rare types),2013,Females,Tasmania,5,1.9,3,n.p.,Female,258137
+555.0,Non-melanoma skin cancer (rare types),2013,Females,Australian Capital Territory,2,n.p.,1,n.p.,Female,194627
+556.0,Non-melanoma skin cancer (rare types),2013,Females,Northern Territory,0,n.p.,0,n.p.,Female,115450
+557.0,Non-melanoma skin cancer (rare types),2013,Females,,275,2.4,69,0.6,Female,11715329
+558.0,Non-melanoma skin cancer (rare types),2013,Persons,New South Wales,356,4.8,69,0.9,Person,7454938
+559.0,Non-melanoma skin cancer (rare types),2013,Persons,Victoria,86,1.5,25,0.4,Person,5832585
+560.0,Non-melanoma skin cancer (rare types),2013,Persons,Queensland,220,4.7,58,1.2,Person,4685439
+561.0,Non-melanoma skin cancer (rare types),2013,Persons,Western Australia,131,5.3,21,0.8,Person,2502188
+562.0,Non-melanoma skin cancer (rare types),2013,Persons,South Australia,32,1.9,9,0.5,Person,1678052
+563.0,Non-melanoma skin cancer (rare types),2013,Persons,Tasmania,17,3.3,4,n.p.,Person,513015
+564.0,Non-melanoma skin cancer (rare types),2013,Persons,Australian Capital Territory,7,1.8,2,n.p.,Person,386318
+565.0,Non-melanoma skin cancer (rare types),2013,Persons,Northern Territory,2,n.p.,1,n.p.,Person,242304
+566.0,Non-melanoma skin cancer (rare types),2013,Persons,,850,3.7,190,0.8,Person,23297777
+567.0,Non-melanoma skin cancer (rare types),2014,Males,New South Wales,224,6.0,42,1.1,Male,3750061
+568.0,Non-melanoma skin cancer (rare types),2014,Males,Victoria,83,2.8,22,0.8,Male,2945763
+569.0,Non-melanoma skin cancer (rare types),2014,Males,Queensland,131,5.6,40,1.7,Male,2361282
+570.0,Non-melanoma skin cancer (rare types),2014,Males,Western Australia,77,6.1,14,1.1,Male,1271552
+571.0,Non-melanoma skin cancer (rare types),2014,Males,South Australia,27,3.2,7,0.8,Male,838094
+572.0,Non-melanoma skin cancer (rare types),2014,Males,Tasmania,11,4.3,2,n.p.,Male,255134
+573.0,Non-melanoma skin cancer (rare types),2014,Males,Australian Capital Territory,5,2.9,1,n.p.,Male,194291
+574.0,Non-melanoma skin cancer (rare types),2014,Males,Northern Territory,2,n.p.,1,n.p.,Male,127079
+575.0,Non-melanoma skin cancer (rare types),2014,Males,,561,4.8,129,1.1,Male,11744498
+576.0,Non-melanoma skin cancer (rare types),2014,Females,New South Wales,118,3.1,26,0.7,Female,3812110
+577.0,Non-melanoma skin cancer (rare types),2014,Females,Victoria,38,1.3,5,0.2,Female,3011749
+578.0,Non-melanoma skin cancer (rare types),2014,Females,Queensland,74,3.1,13,0.5,Female,2385981
+579.0,Non-melanoma skin cancer (rare types),2014,Females,Western Australia,43,3.4,6,0.5,Female,1257067
+580.0,Non-melanoma skin cancer (rare types),2014,Females,South Australia,16,1.9,1,n.p.,Female,855013
+581.0,Non-melanoma skin cancer (rare types),2014,Females,Tasmania,5,1.9,1,n.p.,Female,259067
+582.0,Non-melanoma skin cancer (rare types),2014,Females,Australian Capital Territory,1,n.p.,1,n.p.,Female,197690
+583.0,Non-melanoma skin cancer (rare types),2014,Females,Northern Territory,0,n.p.,0,n.p.,Female,116165
+584.0,Non-melanoma skin cancer (rare types),2014,Females,,295,2.5,53,0.4,Female,11895833
+585.0,Non-melanoma skin cancer (rare types),2014,Persons,New South Wales,342,4.6,68,0.9,Person,7562171
+586.0,Non-melanoma skin cancer (rare types),2014,Persons,Victoria,121,2.1,27,0.5,Person,5957512
+587.0,Non-melanoma skin cancer (rare types),2014,Persons,Queensland,205,4.3,53,1.1,Person,4747263
+588.0,Non-melanoma skin cancer (rare types),2014,Persons,Western Australia,120,4.8,20,0.8,Person,2528619
+589.0,Non-melanoma skin cancer (rare types),2014,Persons,South Australia,43,2.5,8,0.5,Person,1693107
+590.0,Non-melanoma skin cancer (rare types),2014,Persons,Tasmania,16,3.1,3,n.p.,Person,514040
+591.0,Non-melanoma skin cancer (rare types),2014,Persons,Australian Capital Territory,7,1.8,2,n.p.,Person,391981
+592.0,Non-melanoma skin cancer (rare types),2014,Persons,Northern Territory,2,n.p.,1,n.p.,Person,243201
+593.0,Non-melanoma skin cancer (rare types),2014,Persons,,856,3.6,182,0.8,Person,23640331
+594.0,Non-melanoma skin cancer (rare types),2015,Males,New South Wales,251,6.6,38,1.0,Male,3803289
+595.0,Non-melanoma skin cancer (rare types),2015,Males,Victoria,79,2.7,26,0.9,Male,3011376
+596.0,Non-melanoma skin cancer (rare types),2015,Males,Queensland,138,5.8,25,1.1,Male,2385347
+597.0,Non-melanoma skin cancer (rare types),2015,Males,Western Australia,81,6.3,10,0.8,Male,1278792
+598.0,Non-melanoma skin cancer (rare types),2015,Males,South Australia,30,3.6,6,0.7,Male,843702
+599.0,Non-melanoma skin cancer (rare types),2015,Males,Tasmania,10,3.9,3,n.p.,Male,255551
+600.0,Non-melanoma skin cancer (rare types),2015,Males,Australian Capital Territory,5,2.8,1,n.p.,Male,197696
+601.0,Non-melanoma skin cancer (rare types),2015,Males,Northern Territory,2,n.p.,1,n.p.,Male,127914
+602.0,Non-melanoma skin cancer (rare types),2015,Males,,598,5.1,109,0.9,Male,11904308
+603.0,Non-melanoma skin cancer (rare types),2015,Females,New South Wales,136,3.5,22,0.6,Female,3868112
+604.0,Non-melanoma skin cancer (rare types),2015,Females,Victoria,39,1.3,14,0.5,Female,3081673
+605.0,Non-melanoma skin cancer (rare types),2015,Females,Queensland,82,3.4,6,0.2,Female,2419586
+606.0,Non-melanoma skin cancer (rare types),2015,Females,Western Australia,44,3.5,6,0.5,Female,1268953
+607.0,Non-melanoma skin cancer (rare types),2015,Females,South Australia,15,1.7,2,n.p.,Female,862235
+608.0,Non-melanoma skin cancer (rare types),2015,Females,Tasmania,14,5.4,1,n.p.,Female,260242
+609.0,Non-melanoma skin cancer (rare types),2015,Females,Australian Capital Territory,1,n.p.,0,n.p.,Female,201178
+610.0,Non-melanoma skin cancer (rare types),2015,Females,Northern Territory,0,n.p.,0,n.p.,Female,117123
+611.0,Non-melanoma skin cancer (rare types),2015,Females,,332,2.8,52,0.4,Female,12080273
+612.0,Non-melanoma skin cancer (rare types),2015,Persons,New South Wales,387,5.1,60,0.8,Person,7671401
+613.0,Non-melanoma skin cancer (rare types),2015,Persons,Victoria,118,2.0,40,0.7,Person,6093049
+614.0,Non-melanoma skin cancer (rare types),2015,Persons,Queensland,220,4.6,31,0.6,Person,4804933
+615.0,Non-melanoma skin cancer (rare types),2015,Persons,Western Australia,125,4.9,16,0.6,Person,2547745
+616.0,Non-melanoma skin cancer (rare types),2015,Persons,South Australia,45,2.6,8,0.5,Person,1705937
+617.0,Non-melanoma skin cancer (rare types),2015,Persons,Tasmania,24,4.7,4,n.p.,Person,515697
+618.0,Non-melanoma skin cancer (rare types),2015,Persons,Australian Capital Territory,7,1.7,1,n.p.,Person,398874
+619.0,Non-melanoma skin cancer (rare types),2015,Persons,Northern Territory,2,n.p.,1,n.p.,Person,244692
+620.0,Non-melanoma skin cancer (rare types),2015,Persons,,930,3.9,161,0.7,Person,23984581
+621.0,Non-melanoma skin cancer (rare types),2016,Males,New South Wales,260,6.8,42,1.1,Male,3865361
+622.0,Non-melanoma skin cancer (rare types),2016,Males,Victoria,92,3.0,15,0.5,Male,3082379
+623.0,Non-melanoma skin cancer (rare types),2016,Males,Queensland,157,6.5,28,1.2,Male,2421215
+624.0,Non-melanoma skin cancer (rare types),2016,Males,Western Australia,71,5.5,13,1.0,Male,1288303
+625.0,Non-melanoma skin cancer (rare types),2016,Males,South Australia,38,4.5,8,0.9,Male,849914
+626.0,Non-melanoma skin cancer (rare types),2016,Males,Tasmania,11,4.3,0,0.0,Male,258456
+627.0,Non-melanoma skin cancer (rare types),2016,Males,Australian Capital Territory,6,2.9,1,n.p.,Male,202502
+628.0,Non-melanoma skin cancer (rare types),2016,Males,Northern Territory,2,n.p.,0,n.p.,Male,128021
+629.0,Non-melanoma skin cancer (rare types),2016,Males,,638,5.3,107,0.9,Male,12098143
+630.0,Non-melanoma skin cancer (rare types),2016,Females,New South Wales,144,3.7,22,0.6,Female,3930264
+631.0,Non-melanoma skin cancer (rare types),2016,Females,Victoria,49,1.6,15,0.5,Female,3153402
+632.0,Non-melanoma skin cancer (rare types),2016,Females,Queensland,76,3.1,15,0.6,Female,2461724
+633.0,Non-melanoma skin cancer (rare types),2016,Females,Western Australia,55,4.3,6,0.5,Female,1281303
+634.0,Non-melanoma skin cancer (rare types),2016,Females,South Australia,13,1.5,2,n.p.,Female,869666
+635.0,Non-melanoma skin cancer (rare types),2016,Females,Tasmania,3,n.p.,1,n.p.,Female,263525
+636.0,Non-melanoma skin cancer (rare types),2016,Females,Australian Capital Territory,2,n.p.,1,n.p.,Female,206376
+637.0,Non-melanoma skin cancer (rare types),2016,Females,Northern Territory,0,n.p.,0,n.p.,Female,118539
+638.0,Non-melanoma skin cancer (rare types),2016,Females,,344,2.8,62,0.5,Female,12286921
+639.0,Non-melanoma skin cancer (rare types),2016,Persons,New South Wales,404,5.2,64,0.8,Person,7795625
+640.0,Non-melanoma skin cancer (rare types),2016,Persons,Victoria,141,2.3,30,0.5,Person,6235781
+641.0,Non-melanoma skin cancer (rare types),2016,Persons,Queensland,233,4.8,43,0.9,Person,4882939
+642.0,Non-melanoma skin cancer (rare types),2016,Persons,Western Australia,126,4.9,19,0.7,Person,2569606
+643.0,Non-melanoma skin cancer (rare types),2016,Persons,South Australia,51,3.0,10,0.6,Person,1719580
+644.0,Non-melanoma skin cancer (rare types),2016,Persons,Tasmania,14,2.7,1,n.p.,Person,521981
+645.0,Non-melanoma skin cancer (rare types),2016,Persons,Australian Capital Territory,7,1.8,2,n.p.,Person,408878
+646.0,Non-melanoma skin cancer (rare types),2016,Persons,Northern Territory,3,n.p.,1,n.p.,Person,246443
+647.0,Non-melanoma skin cancer (rare types),2016,Persons,,982,4.1,169,0.7,Person,24385064
+648.0,Non-melanoma skin cancer (rare types),2017,Males,New South Wales,300,7.7,46,1.2,Male,3921301
+649.0,Non-melanoma skin cancer (rare types),2017,Males,Victoria,151,4.8,19,0.6,Male,3144429
+650.0,Non-melanoma skin cancer (rare types),2017,Males,Queensland,171,7.0,26,1.1,Male,2458389
+651.0,Non-melanoma skin cancer (rare types),2017,Males,Western Australia,73,5.6,6,0.5,Male,1302076
+652.0,Non-melanoma skin cancer (rare types),2017,Males,South Australia,29,3.4,7,0.8,Male,857807
+653.0,Non-melanoma skin cancer (rare types),2017,Males,Tasmania,12,4.6,3,n.p.,Male,263305
+654.0,Non-melanoma skin cancer (rare types),2017,Males,Australian Capital Territory,6,2.8,1,n.p.,Male,207866
+655.0,Non-melanoma skin cancer (rare types),2017,Males,Northern Territory,3,n.p.,0,n.p.,Male,128104
+656.0,Non-melanoma skin cancer (rare types),2017,Males,,744,6.1,109,0.9,Male,12284961
+657.0,Non-melanoma skin cancer (rare types),2017,Females,New South Wales,133,3.4,27,0.7,Female,3979645
+658.0,Non-melanoma skin cancer (rare types),2017,Females,Victoria,76,2.4,11,0.3,Female,3213781
+659.0,Non-melanoma skin cancer (rare types),2017,Females,Queensland,98,3.9,18,0.7,Female,2502576
+660.0,Non-melanoma skin cancer (rare types),2017,Females,Western Australia,49,3.8,5,0.4,Female,1297852
+661.0,Non-melanoma skin cancer (rare types),2017,Females,South Australia,20,2.3,5,0.6,Female,877847
+662.0,Non-melanoma skin cancer (rare types),2017,Females,Tasmania,9,3.4,1,n.p.,Female,268256
+663.0,Non-melanoma skin cancer (rare types),2017,Females,Australian Capital Territory,1,n.p.,1,n.p.,Female,212360
+664.0,Non-melanoma skin cancer (rare types),2017,Females,Northern Territory,0,n.p.,0,n.p.,Female,119647
+665.0,Non-melanoma skin cancer (rare types),2017,Females,,387,3.1,68,0.5,Female,12474057
+666.0,Non-melanoma skin cancer (rare types),2017,Persons,New South Wales,433,5.5,73,0.9,Person,7900946
+667.0,Non-melanoma skin cancer (rare types),2017,Persons,Victoria,227,3.6,30,0.5,Person,6358210
+668.0,Non-melanoma skin cancer (rare types),2017,Persons,Queensland,269,5.5,44,0.9,Person,4960965
+669.0,Non-melanoma skin cancer (rare types),2017,Persons,Western Australia,122,4.7,11,0.4,Person,2599928
+670.0,Non-melanoma skin cancer (rare types),2017,Persons,South Australia,49,2.8,12,0.7,Person,1735654
+671.0,Non-melanoma skin cancer (rare types),2017,Persons,Tasmania,21,4.0,4,n.p.,Person,531561
+672.0,Non-melanoma skin cancer (rare types),2017,Persons,Australian Capital Territory,7,1.8,2,n.p.,Person,420226
+673.0,Non-melanoma skin cancer (rare types),2017,Persons,Northern Territory,3,n.p.,1,n.p.,Person,247514
+674.0,Non-melanoma skin cancer (rare types),2017,Persons,,1131,4.6,177,0.7,Person,24759018
+675.0,Non-melanoma skin cancer (rare types),2018,Males,New South Wales,272,6.9,43,1.1,Male,3976266
+676.0,Non-melanoma skin cancer (rare types),2018,Males,Victoria,95,3.0,25,0.8,Male,3207192
+677.0,Non-melanoma skin cancer (rare types),2018,Males,Queensland,148,6.0,24,1.0,Male,2499842
+678.0,Non-melanoma skin cancer (rare types),2018,Males,Western Australia,63,4.8,10,0.8,Male,1319834
+679.0,Non-melanoma skin cancer (rare types),2018,Males,South Australia,31,3.6,5,0.6,Male,867603
+680.0,Non-melanoma skin cancer (rare types),2018,Males,Tasmania,17,6.4,2,n.p.,Male,268840
+681.0,Non-melanoma skin cancer (rare types),2018,Males,Australian Capital Territory,5,2.4,1,n.p.,Male,212822
+682.0,Non-melanoma skin cancer (rare types),2018,Males,Northern Territory,3,n.p.,0,n.p.,Male,127221
+683.0,Non-melanoma skin cancer (rare types),2018,Males,,630,5.1,112,0.9,Male,12481024
+684.0,Non-melanoma skin cancer (rare types),2018,Females,New South Wales,175,4.4,22,0.5,Female,4027298
+685.0,Non-melanoma skin cancer (rare types),2018,Females,Victoria,50,1.5,15,0.5,Female,3272503
+686.0,Non-melanoma skin cancer (rare types),2018,Females,Queensland,74,2.9,13,0.5,Female,2546592
+687.0,Non-melanoma skin cancer (rare types),2018,Females,Western Australia,40,3.1,4,n.p.,Female,1316570
+688.0,Non-melanoma skin cancer (rare types),2018,Females,South Australia,16,1.8,5,0.6,Female,888112
+689.0,Non-melanoma skin cancer (rare types),2018,Females,Tasmania,7,2.6,1,n.p.,Female,274087
+690.0,Non-melanoma skin cancer (rare types),2018,Females,Australian Capital Territory,2,n.p.,0,n.p.,Female,217936
+691.0,Non-melanoma skin cancer (rare types),2018,Females,Northern Territory,1,n.p.,0,n.p.,Female,119997
+692.0,Non-melanoma skin cancer (rare types),2018,Females,,367,2.9,60,0.5,Female,12665116
+693.0,Non-melanoma skin cancer (rare types),2018,Persons,New South Wales,447,5.6,65,0.8,Person,8003564
+694.0,Non-melanoma skin cancer (rare types),2018,Persons,Victoria,145,2.3,40,0.6,Person,6479695
+695.0,Non-melanoma skin cancer (rare types),2018,Persons,Queensland,222,4.4,37,0.7,Person,5046434
+696.0,Non-melanoma skin cancer (rare types),2018,Persons,Western Australia,103,3.9,14,0.5,Person,2636404
+697.0,Non-melanoma skin cancer (rare types),2018,Persons,South Australia,47,2.7,10,0.6,Person,1755715
+698.0,Non-melanoma skin cancer (rare types),2018,Persons,Tasmania,24,4.5,3,n.p.,Person,542927
+699.0,Non-melanoma skin cancer (rare types),2018,Persons,Australian Capital Territory,7,1.7,2,n.p.,Person,430758
+700.0,Non-melanoma skin cancer (rare types),2018,Persons,Northern Territory,3,n.p.,1,n.p.,Person,247095
+701.0,Non-melanoma skin cancer (rare types),2018,Persons,,997,4.0,172,0.7,Person,25146140
+702.0,Non-melanoma skin cancer (rare types),2019,Males,New South Wales,336,8.4,54,1.4,Male,4019498
+703.0,Non-melanoma skin cancer (rare types),2019,Males,Victoria,157,4.9,20,0.6,Male,3262240
+704.0,Non-melanoma skin cancer (rare types),2019,Males,Queensland,210,8.3,38,1.5,Male,2540680
+705.0,Non-melanoma skin cancer (rare types),2019,Males,Western Australia,86,6.5,6,0.5,Male,1345064
+706.0,Non-melanoma skin cancer (rare types),2019,Males,South Australia,32,3.7,3,n.p.,Male,878768
+707.0,Non-melanoma skin cancer (rare types),2019,Males,Tasmania,16,5.9,3,n.p.,Male,273893
+708.0,Non-melanoma skin cancer (rare types),2019,Males,Australian Capital Territory,5,2.6,2,n.p.,Male,217500
+709.0,Non-melanoma skin cancer (rare types),2019,Males,Northern Territory,2,n.p.,0,n.p.,Male,126289
+710.0,Non-melanoma skin cancer (rare types),2019,Males,,845,6.7,127,1.0,Male,12665662
+711.0,Non-melanoma skin cancer (rare types),2019,Females,New South Wales,147,3.6,23,0.6,Female,4068863
+712.0,Non-melanoma skin cancer (rare types),2019,Females,Victoria,87,2.6,12,0.4,Female,3327810
+713.0,Non-melanoma skin cancer (rare types),2019,Females,Queensland,109,4.2,10,0.4,Female,2589061
+714.0,Non-melanoma skin cancer (rare types),2019,Females,Western Australia,40,3.0,7,0.5,Female,1343735
+715.0,Non-melanoma skin cancer (rare types),2019,Females,South Australia,13,1.5,3,n.p.,Female,900160
+716.0,Non-melanoma skin cancer (rare types),2019,Females,Tasmania,7,2.5,0,0.0,Female,279447
+717.0,Non-melanoma skin cancer (rare types),2019,Females,Australian Capital Territory,2,n.p.,0,n.p.,Female,222767
+718.0,Non-melanoma skin cancer (rare types),2019,Females,Northern Territory,1,n.p.,0,n.p.,Female,120727
+719.0,Non-melanoma skin cancer (rare types),2019,Females,,406,3.2,56,0.4,Female,12854806
+720.0,Non-melanoma skin cancer (rare types),2019,Persons,New South Wales,483,6.0,77,1.0,Person,8088361
+721.0,Non-melanoma skin cancer (rare types),2019,Persons,Victoria,244,3.7,32,0.5,Person,6590050
+722.0,Non-melanoma skin cancer (rare types),2019,Persons,Queensland,319,6.3,48,0.9,Person,5129741
+723.0,Non-melanoma skin cancer (rare types),2019,Persons,Western Australia,126,4.7,13,0.5,Person,2688799
+724.0,Non-melanoma skin cancer (rare types),2019,Persons,South Australia,45,2.5,6,0.3,Person,1778928
+725.0,Non-melanoma skin cancer (rare types),2019,Persons,Tasmania,23,4.2,3,n.p.,Person,553340
+726.0,Non-melanoma skin cancer (rare types),2019,Persons,Australian Capital Territory,8,1.9,2,n.p.,Person,440267
+727.0,Non-melanoma skin cancer (rare types),2019,Persons,Northern Territory,3,n.p.,1,n.p.,Person,246677
+728.0,Non-melanoma skin cancer (rare types),2019,Persons,,1251,4.9,183,0.7,Person,25520468
+729.0,Non-melanoma skin cancer (rare types),2020,Males,New South Wales,397,9.8,41,1.0,Male,4031001
+730.0,Non-melanoma skin cancer (rare types),2020,Males,Victoria,167,5.1,30,0.9,Male,3274653
+731.0,Non-melanoma skin cancer (rare types),2020,Males,Queensland,214,8.4,28,1.1,Male,2568499
+732.0,Non-melanoma skin cancer (rare types),2020,Males,Western Australia,86,6.3,11,0.8,Male,1364994
+733.0,Non-melanoma skin cancer (rare types),2020,Males,South Australia,50,5.7,11,1.2,Male,886475
+734.0,Non-melanoma skin cancer (rare types),2020,Males,Tasmania,9,3.3,6,2.2,Male,278353
+735.0,Non-melanoma skin cancer (rare types),2020,Males,Australian Capital Territory,5,2.4,2,n.p.,Male,220886
+736.0,Non-melanoma skin cancer (rare types),2020,Males,Northern Territory,2,n.p.,0,n.p.,Male,126133
+737.0,Non-melanoma skin cancer (rare types),2020,Males,,929,7.3,128,1.0,Male,12728639
+738.0,Non-melanoma skin cancer (rare types),2020,Females,New South Wales,178,4.4,34,0.8,Female,4081000
+739.0,Non-melanoma skin cancer (rare types),2020,Females,Victoria,69,2.1,23,0.7,Female,3341983
+740.0,Non-melanoma skin cancer (rare types),2020,Females,Queensland,104,4.0,20,0.8,Female,2615830
+741.0,Non-melanoma skin cancer (rare types),2020,Females,Western Australia,30,2.2,4,n.p.,Female,1363193
+742.0,Non-melanoma skin cancer (rare types),2020,Females,South Australia,18,2.0,2,n.p.,Female,908039
+743.0,Non-melanoma skin cancer (rare types),2020,Females,Tasmania,11,3.9,5,1.8,Female,283528
+744.0,Non-melanoma skin cancer (rare types),2020,Females,Australian Capital Territory,2,n.p.,1,n.p.,Female,226764
+745.0,Non-melanoma skin cancer (rare types),2020,Females,Northern Territory,1,n.p.,0,n.p.,Female,121772
+746.0,Non-melanoma skin cancer (rare types),2020,Females,,410,3.2,89,0.7,Female,12920609
+747.0,Non-melanoma skin cancer (rare types),2020,Persons,New South Wales,575,7.1,75,0.9,Person,8112001
+748.0,Non-melanoma skin cancer (rare types),2020,Persons,Victoria,236,3.6,53,0.8,Person,6616636
+749.0,Non-melanoma skin cancer (rare types),2020,Persons,Queensland,318,6.2,48,0.9,Person,5184329
+750.0,Non-melanoma skin cancer (rare types),2020,Persons,Western Australia,116,4.3,15,0.6,Person,2728187
+751.0,Non-melanoma skin cancer (rare types),2020,Persons,South Australia,68,3.8,13,0.7,Person,1794514
+752.0,Non-melanoma skin cancer (rare types),2020,Persons,Tasmania,20,3.6,11,2.0,Person,561881
+753.0,Non-melanoma skin cancer (rare types),2020,Persons,Australian Capital Territory,7,1.7,2,n.p.,Person,447650
+754.0,Non-melanoma skin cancer (rare types),2020,Persons,Northern Territory,2,n.p.,1,n.p.,Person,247819
+755.0,Non-melanoma skin cancer (rare types),2020,Persons,,1339,5.2,217,0.8,Person,25649248
+,All,2007,Males,New South Wales,2304,,374,,Male,3413653
+,All,2007,Males,Victoria,1241,,188,,Male,2574619
+,All,2007,Males,Queensland,1700,,234,,Male,2076128
+,All,2007,Males,Western Australia,623,,100,,Male,1075987
+,All,2007,Males,South Australia,356,,59,,Male,779355
+,All,2007,Males,Tasmania,139,,13,,Male,245319
+,All,2007,Males,Australian Capital Territory,77,,15,,Male,170383
+,All,2007,Males,Northern Territory,30,,3,,Male,112777
+,All,2007,Males,,6450,,991,,Male,10449776
+,All,2007,Females,New South Wales,1539,,160,,Female,3470199
+,All,2007,Females,Victoria,1022,,100,,Female,2624884
+,All,2007,Females,Queensland,1174,,98,,Female,2083862
+,All,2007,Females,Western Australia,437,,43,,Female,1059019
+,All,2007,Females,South Australia,286,,39,,Female,799134
+,All,2007,Females,Tasmania,115,,9,,Female,250539
+,All,2007,Females,Australian Capital Territory,61,,4,,Female,173793
+,All,2007,Females,Northern Territory,20,,1,,Female,103841
+,All,2007,Females,,4642,,452,,Female,10566345
+,All,2007,Persons,New South Wales,3843,,534,,Person,6883852
+,All,2007,Persons,Victoria,2263,,288,,Person,5199503
+,All,2007,Persons,Queensland,2874,,332,,Person,4159990
+,All,2007,Persons,Western Australia,1060,,143,,Person,2135006
+,All,2007,Persons,South Australia,642,,98,,Person,1578489
+,All,2007,Persons,Tasmania,254,,22,,Person,495858
+,All,2007,Persons,Australian Capital Territory,138,,19,,Person,344176
+,All,2007,Persons,Northern Territory,50,,4,,Person,216618
+,All,2007,Persons,,11092,,1443,,Person,21016121
+,All,2008,Males,New South Wales,2321,,375,,Male,3476199
+,All,2008,Males,Victoria,1287,,193,,Male,2633317
+,All,2008,Males,Queensland,1895,,238,,Male,2135996
+,All,2008,Males,Western Australia,710,,98,,Male,1113633
+,All,2008,Males,South Australia,424,,82,,Male,789696
+,All,2008,Males,Tasmania,170,,29,,Male,248714
+,All,2008,Males,Australian Capital Territory,80,,16,,Male,174242
+,All,2008,Males,Northern Territory,30,,3,,Male,116223
+,All,2008,Males,,6931,,1034,,Male,10689738
+,All,2008,Females,New South Wales,1616,,174,,Female,3525583
+,All,2008,Females,Victoria,1012,,95,,Female,2679968
+,All,2008,Females,Queensland,1231,,106,,Female,2139555
+,All,2008,Females,Western Australia,454,,33,,Female,1095295
+,All,2008,Females,South Australia,331,,42,,Female,808184
+,All,2008,Females,Tasmania,122,,13,,Female,253060
+,All,2008,Females,Australian Capital Territory,64,,5,,Female,176859
+,All,2008,Females,Northern Territory,20,,1,,Female,106303
+,All,2008,Females,,4847,,472,,Female,10785887
+,All,2008,Persons,New South Wales,3937,,549,,Person,7001782
+,All,2008,Persons,Victoria,2299,,288,,Person,5313285
+,All,2008,Persons,Queensland,3126,,344,,Person,4275551
+,All,2008,Persons,Western Australia,1164,,131,,Person,2208928
+,All,2008,Persons,South Australia,755,,124,,Person,1597880
+,All,2008,Persons,Tasmania,292,,42,,Person,501774
+,All,2008,Persons,Australian Capital Territory,145,,20,,Person,351101
+,All,2008,Persons,Northern Territory,50,,4,,Person,222526
+,All,2008,Persons,,11778,,1506,,Person,21475625
+,All,2009,Males,New South Wales,2380,,388,,Male,3526643
+,All,2009,Males,Victoria,1379,,227,,Male,2686022
+,All,2009,Males,Queensland,1922,,222,,Male,2181500
+,All,2009,Males,Western Australia,683,,96,,Male,1140480
+,All,2009,Males,South Australia,396,,71,,Male,800926
+,All,2009,Males,Tasmania,168,,21,,Male,251434
+,All,2009,Males,Australian Capital Territory,80,,16,,Male,177822
+,All,2009,Males,Northern Territory,31,,3,,Male,119297
+,All,2009,Males,,7044,,1040,,Male,10886022
+,All,2009,Females,New South Wales,1645,,192,,Female,3574861
+,All,2009,Females,Victoria,1080,,109,,Female,2733227
+,All,2009,Females,Queensland,1319,,97,,Female,2185954
+,All,2009,Females,Western Australia,430,,52,,Female,1123267
+,All,2009,Females,South Australia,299,,31,,Female,817652
+,All,2009,Females,Tasmania,120,,16,,Female,255027
+,All,2009,Females,Australian Capital Territory,59,,7,,Female,180037
+,All,2009,Females,Northern Territory,20,,1,,Female,108486
+,All,2009,Females,,4955,,506,,Female,10979601
+,All,2009,Persons,New South Wales,4025,,580,,Person,7101504
+,All,2009,Persons,Victoria,2459,,336,,Person,5419249
+,All,2009,Persons,Queensland,3241,,319,,Person,4367454
+,All,2009,Persons,Western Australia,1113,,148,,Person,2263747
+,All,2009,Persons,South Australia,695,,102,,Person,1618578
+,All,2009,Persons,Tasmania,288,,37,,Person,506461
+,All,2009,Persons,Australian Capital Territory,140,,21,,Person,357859
+,All,2009,Persons,Northern Territory,51,,4,,Person,227783
+,All,2009,Persons,,11999,,1546,,Person,21865623
+,All,2010,Males,New South Wales,2510,,404,,Male,3565558
+,All,2010,Males,Victoria,1353,,216,,Male,2720959
+,All,2010,Males,Queensland,1960,,257,,Male,2214429
+,All,2010,Males,Western Australia,697,,97,,Male,1167862
+,All,2010,Males,South Australia,408,,71,,Male,808037
+,All,2010,Males,Tasmania,170,,21,,Male,253833
+,All,2010,Males,Australian Capital Territory,78,,16,,Male,181314
+,All,2010,Males,Northern Territory,33,,4,,Male,120979
+,All,2010,Males,,7230,,1083,,Male,11034979
+,All,2010,Females,New South Wales,1683,,162,,Female,3614333
+,All,2010,Females,Victoria,1004,,99,,Female,2774752
+,All,2010,Females,Queensland,1332,,133,,Female,2222453
+,All,2010,Females,Western Australia,417,,38,,Female,1151201
+,All,2010,Females,South Australia,318,,20,,Female,824445
+,All,2010,Females,Tasmania,144,,12,,Female,256386
+,All,2010,Females,Australian Capital Territory,52,,6,,Female,183519
+,All,2010,Females,Northern Territory,21,,1,,Female,109534
+,All,2010,Females,,4968,,471,,Female,11137490
+,All,2010,Persons,New South Wales,4193,,566,,Person,7179891
+,All,2010,Persons,Victoria,2357,,315,,Person,5495711
+,All,2010,Persons,Queensland,3292,,390,,Person,4436882
+,All,2010,Persons,Western Australia,1114,,135,,Person,2319063
+,All,2010,Persons,South Australia,726,,91,,Person,1632482
+,All,2010,Persons,Tasmania,314,,33,,Person,510219
+,All,2010,Persons,Australian Capital Territory,130,,21,,Person,364833
+,All,2010,Persons,Northern Territory,54,,5,,Person,230460
+,All,2010,Persons,,12198,,1554,,Person,22172469
+,All,2011,Males,New South Wales,2587,,403,,Male,3604198
+,All,2011,Males,Victoria,1210,,233,,Male,2766513
+,All,2011,Males,Queensland,2046,,269,,Male,2253923
+,All,2011,Males,Western Australia,723,,139,,Male,1202068
+,All,2011,Males,South Australia,434,,78,,Male,815608
+,All,2011,Males,Tasmania,141,,30,,Male,254896
+,All,2011,Males,Australian Capital Territory,80,,13,,Male,184982
+,All,2011,Males,Northern Territory,34,,3,,Male,122136
+,All,2011,Males,,7252,,1165,,Male,11206252
+,All,2011,Females,New South Wales,1722,,175,,Female,3654524
+,All,2011,Females,Victoria,923,,121,,Female,2825305
+,All,2011,Females,Queensland,1439,,108,,Female,2264726
+,All,2011,Females,Western Australia,488,,48,,Female,1183879
+,All,2011,Females,South Australia,293,,28,,Female,831575
+,All,2011,Females,Tasmania,131,,16,,Female,256984
+,All,2011,Females,Australian Capital Territory,50,,6,,Female,187088
+,All,2011,Females,Northern Territory,22,,2,,Female,110816
+,All,2011,Females,,5075,,505,,Female,11315945
+,All,2011,Persons,New South Wales,4309,,578,,Person,7258722
+,All,2011,Persons,Victoria,2133,,354,,Person,5591818
+,All,2011,Persons,Queensland,3485,,377,,Person,4518649
+,All,2011,Persons,Western Australia,1211,,187,,Person,2385947
+,All,2011,Persons,South Australia,727,,106,,Person,1647183
+,All,2011,Persons,Tasmania,272,,46,,Person,511880
+,All,2011,Persons,Australian Capital Territory,130,,19,,Person,372070
+,All,2011,Persons,Northern Territory,57,,6,,Person,232952
+,All,2011,Persons,,12327,,1670,,Person,22522197
+,All,2012,Males,New South Wales,2690,,409,,Male,3650035
+,All,2012,Males,Victoria,1328,,220,,Male,2825349
+,All,2012,Males,Queensland,2145,,257,,Male,2299776
+,All,2012,Males,Western Australia,765,,131,,Male,1239615
+,All,2012,Males,South Australia,417,,69,,Male,823688
+,All,2012,Males,Tasmania,157,,29,,Male,254866
+,All,2012,Males,Australian Capital Territory,84,,13,,Male,188673
+,All,2012,Males,Northern Territory,38,,5,,Male,125043
+,All,2012,Males,,7630,,1142,,Male,11408788
+,All,2012,Females,New South Wales,1815,,205,,Female,3703154
+,All,2012,Females,Victoria,1016,,111,,Female,2884237
+,All,2012,Females,Queensland,1501,,116,,Female,2311528
+,All,2012,Females,Western Australia,498,,42,,Female,1217874
+,All,2012,Females,South Australia,315,,38,,Female,839394
+,All,2012,Females,Tasmania,117,,22,,Female,257127
+,All,2012,Females,Australian Capital Territory,56,,7,,Female,191139
+,All,2012,Females,Northern Territory,24,,1,,Female,113685
+,All,2012,Females,,5367,,541,,Female,11519235
+,All,2012,Persons,New South Wales,4505,,614,,Person,7353189
+,All,2012,Persons,Victoria,2344,,331,,Person,5709586
+,All,2012,Persons,Queensland,3646,,373,,Person,4611304
+,All,2012,Persons,Western Australia,1263,,173,,Person,2457489
+,All,2012,Persons,South Australia,732,,107,,Person,1663082
+,All,2012,Persons,Tasmania,274,,51,,Person,511993
+,All,2012,Persons,Australian Capital Territory,139,,20,,Person,379812
+,All,2012,Persons,Northern Territory,62,,7,,Person,238728
+,All,2012,Persons,,12997,,1683,,Person,22928023
+,All,2013,Males,New South Wales,2780,,442,,Male,3698220
+,All,2013,Males,Victoria,1387,,268,,Male,2884387
+,All,2013,Males,Queensland,2311,,351,,Male,2333762
+,All,2013,Males,Western Australia,867,,120,,Male,1259941
+,All,2013,Males,South Australia,460,,76,,Male,830900
+,All,2013,Males,Tasmania,151,,22,,Male,254878
+,All,2013,Males,Australian Capital Territory,86,,13,,Male,191691
+,All,2013,Males,Northern Territory,40,,6,,Male,126921
+,All,2013,Males,,8098,,1298,,Male,11582448
+,All,2013,Females,New South Wales,1883,,180,,Female,3756718
+,All,2013,Females,Victoria,1031,,124,,Female,2948198
+,All,2013,Females,Queensland,1602,,130,,Female,2351677
+,All,2013,Females,Western Australia,576,,61,,Female,1242247
+,All,2013,Females,South Australia,293,,39,,Female,847152
+,All,2013,Females,Tasmania,141,,15,,Female,258137
+,All,2013,Females,Australian Capital Territory,56,,6,,Female,194627
+,All,2013,Females,Northern Territory,24,,2,,Female,115450
+,All,2013,Females,,5614,,558,,Female,11715329
+,All,2013,Persons,New South Wales,4663,,622,,Person,7454938
+,All,2013,Persons,Victoria,2418,,392,,Person,5832585
+,All,2013,Persons,Queensland,3913,,481,,Person,4685439
+,All,2013,Persons,Western Australia,1443,,181,,Person,2502188
+,All,2013,Persons,South Australia,753,,115,,Person,1678052
+,All,2013,Persons,Tasmania,292,,37,,Person,513015
+,All,2013,Persons,Australian Capital Territory,142,,19,,Person,386318
+,All,2013,Persons,Northern Territory,65,,8,,Person,242304
+,All,2013,Persons,,13712,,1856,,Person,23297777
+,All,2014,Males,New South Wales,2782,,378,,Male,3750061
+,All,2014,Males,Victoria,1485,,212,,Male,2945763
+,All,2014,Males,Queensland,2330,,290,,Male,2361282
+,All,2014,Males,Western Australia,847,,117,,Male,1271552
+,All,2014,Males,South Australia,505,,97,,Male,838094
+,All,2014,Males,Tasmania,174,,25,,Male,255134
+,All,2014,Males,Australian Capital Territory,86,,12,,Male,194291
+,All,2014,Males,Northern Territory,45,,7,,Male,127079
+,All,2014,Males,,8266,,1133,,Male,11744498
+,All,2014,Females,New South Wales,1915,,191,,Female,3812110
+,All,2014,Females,Victoria,1102,,93,,Female,3011749
+,All,2014,Females,Queensland,1581,,115,,Female,2385981
+,All,2014,Females,Western Australia,573,,55,,Female,1257067
+,All,2014,Females,South Australia,326,,34,,Female,855013
+,All,2014,Females,Tasmania,174,,15,,Female,259067
+,All,2014,Females,Australian Capital Territory,64,,6,,Female,197690
+,All,2014,Females,Northern Territory,25,,2,,Female,116165
+,All,2014,Females,,5778,,514,,Female,11895833
+,All,2014,Persons,New South Wales,4697,,569,,Person,7562171
+,All,2014,Persons,Victoria,2587,,305,,Person,5957512
+,All,2014,Persons,Queensland,3911,,405,,Person,4747263
+,All,2014,Persons,Western Australia,1420,,172,,Person,2528619
+,All,2014,Persons,South Australia,831,,131,,Person,1693107
+,All,2014,Persons,Tasmania,348,,40,,Person,514040
+,All,2014,Persons,Australian Capital Territory,151,,18,,Person,391981
+,All,2014,Persons,Northern Territory,70,,9,,Person,243201
+,All,2014,Persons,,14044,,1647,,Person,23640331
+,All,2015,Males,New South Wales,2832,,424,,Male,3803289
+,All,2015,Males,Victoria,1612,,241,,Male,3011376
+,All,2015,Males,Queensland,2330,,246,,Male,2385347
+,All,2015,Males,Western Australia,976,,112,,Male,1278792
+,All,2015,Males,South Australia,501,,80,,Male,843702
+,All,2015,Males,Tasmania,176,,21,,Male,255551
+,All,2015,Males,Australian Capital Territory,89,,13,,Male,197696
+,All,2015,Males,Northern Territory,50,,7,,Male,127914
+,All,2015,Males,,8602,,1148,,Male,11904308
+,All,2015,Females,New South Wales,1916,,198,,Female,3868112
+,All,2015,Females,Victoria,1201,,125,,Female,3081673
+,All,2015,Females,Queensland,1643,,103,,Female,2419586
+,All,2015,Females,Western Australia,713,,60,,Female,1268953
+,All,2015,Females,South Australia,310,,26,,Female,862235
+,All,2015,Females,Tasmania,150,,6,,Female,260242
+,All,2015,Females,Australian Capital Territory,71,,6,,Female,201178
+,All,2015,Females,Northern Territory,27,,2,,Female,117123
+,All,2015,Females,,6046,,527,,Female,12080273
+,All,2015,Persons,New South Wales,4748,,622,,Person,7671401
+,All,2015,Persons,Victoria,2813,,366,,Person,6093049
+,All,2015,Persons,Queensland,3973,,349,,Person,4804933
+,All,2015,Persons,Western Australia,1689,,172,,Person,2547745
+,All,2015,Persons,South Australia,811,,106,,Person,1705937
+,All,2015,Persons,Tasmania,326,,27,,Person,515697
+,All,2015,Persons,Australian Capital Territory,160,,19,,Person,398874
+,All,2015,Persons,Northern Territory,77,,9,,Person,244692
+,All,2015,Persons,,14648,,1675,,Person,23984581
+,All,2016,Males,New South Wales,3118,,330,,Male,3865361
+,All,2016,Males,Victoria,1661,,193,,Male,3082379
+,All,2016,Males,Queensland,2488,,241,,Male,2421215
+,All,2016,Males,Western Australia,983,,104,,Male,1288303
+,All,2016,Males,South Australia,501,,64,,Male,849914
+,All,2016,Males,Tasmania,196,,23,,Male,258456
+,All,2016,Males,Australian Capital Territory,98,,12,,Male,202502
+,All,2016,Males,Northern Territory,56,,6,,Male,128021
+,All,2016,Males,,9129,,965,,Male,12098143
+,All,2016,Females,New South Wales,2071,,153,,Female,3930264
+,All,2016,Females,Victoria,1300,,100,,Female,3153402
+,All,2016,Females,Queensland,1709,,103,,Female,2461724
+,All,2016,Females,Western Australia,679,,42,,Female,1281303
+,All,2016,Females,South Australia,354,,41,,Female,869666
+,All,2016,Females,Tasmania,151,,8,,Female,263525
+,All,2016,Females,Australian Capital Territory,77,,8,,Female,206376
+,All,2016,Females,Northern Territory,28,,2,,Female,118539
+,All,2016,Females,,6378,,458,,Female,12286921
+,All,2016,Persons,New South Wales,5189,,483,,Person,7795625
+,All,2016,Persons,Victoria,2961,,293,,Person,6235781
+,All,2016,Persons,Queensland,4197,,344,,Person,4882939
+,All,2016,Persons,Western Australia,1662,,146,,Person,2569606
+,All,2016,Persons,South Australia,855,,105,,Person,1719580
+,All,2016,Persons,Tasmania,347,,31,,Person,521981
+,All,2016,Persons,Australian Capital Territory,174,,20,,Person,408878
+,All,2016,Persons,Northern Territory,85,,9,,Person,246443
+,All,2016,Persons,,15507,,1423,,Person,24385064
+,All,2017,Males,New South Wales,3275,,365,,Male,3921301
+,All,2017,Males,Victoria,1824,,181,,Male,3144429
+,All,2017,Males,Queensland,2648,,267,,Male,2458389
+,All,2017,Males,Western Australia,940,,95,,Male,1302076
+,All,2017,Males,South Australia,496,,66,,Male,857807
+,All,2017,Males,Tasmania,193,,26,,Male,263305
+,All,2017,Males,Australian Capital Territory,113,,11,,Male,207866
+,All,2017,Males,Northern Territory,55,,5,,Male,128104
+,All,2017,Males,,9577,,1017,,Male,12284961
+,All,2017,Females,New South Wales,2090,,213,,Female,3979645
+,All,2017,Females,Victoria,1386,,122,,Female,3213781
+,All,2017,Females,Queensland,1769,,124,,Female,2502576
+,All,2017,Females,Western Australia,635,,51,,Female,1297852
+,All,2017,Females,South Australia,352,,30,,Female,877847
+,All,2017,Females,Tasmania,167,,8,,Female,268256
+,All,2017,Females,Australian Capital Territory,78,,9,,Female,212360
+,All,2017,Females,Northern Territory,29,,2,,Female,119647
+,All,2017,Females,,6516,,563,,Female,12474057
+,All,2017,Persons,New South Wales,5365,,578,,Person,7900946
+,All,2017,Persons,Victoria,3210,,303,,Person,6358210
+,All,2017,Persons,Queensland,4417,,391,,Person,4960965
+,All,2017,Persons,Western Australia,1575,,146,,Person,2599928
+,All,2017,Persons,South Australia,848,,96,,Person,1735654
+,All,2017,Persons,Tasmania,360,,34,,Person,531561
+,All,2017,Persons,Australian Capital Territory,191,,20,,Person,420226
+,All,2017,Persons,Northern Territory,84,,8,,Person,247514
+,All,2017,Persons,,16093,,1580,,Person,24759018
+,All,2018,Males,New South Wales,3256,,376,,Male,3976266
+,All,2018,Males,Victoria,1861,,220,,Male,3207192
+,All,2018,Males,Queensland,2489,,259,,Male,2499842
+,All,2018,Males,Western Australia,920,,90,,Male,1319834
+,All,2018,Males,South Australia,507,,67,,Male,867603
+,All,2018,Males,Tasmania,222,,35,,Male,268840
+,All,2018,Males,Australian Capital Territory,119,,13,,Male,212822
+,All,2018,Males,Northern Territory,56,,5,,Male,127221
+,All,2018,Males,,9437,,1078,,Male,12481024
+,All,2018,Females,New South Wales,2196,,161,,Female,4027298
+,All,2018,Females,Victoria,1361,,112,,Female,3272503
+,All,2018,Females,Queensland,1805,,101,,Female,2546592
+,All,2018,Females,Western Australia,667,,56,,Female,1316570
+,All,2018,Females,South Australia,325,,28,,Female,888112
+,All,2018,Females,Tasmania,203,,13,,Female,274087
+,All,2018,Females,Australian Capital Territory,83,,8,,Female,217936
+,All,2018,Females,Northern Territory,31,,2,,Female,119997
+,All,2018,Females,,6682,,477,,Female,12665116
+,All,2018,Persons,New South Wales,5452,,537,,Person,8003564
+,All,2018,Persons,Victoria,3223,,332,,Person,6479695
+,All,2018,Persons,Queensland,4294,,360,,Person,5046434
+,All,2018,Persons,Western Australia,1587,,146,,Person,2636404
+,All,2018,Persons,South Australia,832,,95,,Person,1755715
+,All,2018,Persons,Tasmania,425,,48,,Person,542927
+,All,2018,Persons,Australian Capital Territory,202,,22,,Person,430758
+,All,2018,Persons,Northern Territory,86,,8,,Person,247095
+,All,2018,Persons,,16120,,1555,,Person,25146140
+,All,2019,Males,New South Wales,3348,,361,,Male,4019498
+,All,2019,Males,Victoria,1789,,209,,Male,3262240
+,All,2019,Males,Queensland,2811,,250,,Male,2540680
+,All,2019,Males,Western Australia,1031,,110,,Male,1345064
+,All,2019,Males,South Australia,577,,82,,Male,878768
+,All,2019,Males,Tasmania,240,,29,,Male,273893
+,All,2019,Males,Australian Capital Territory,125,,16,,Male,217500
+,All,2019,Males,Northern Territory,57,,6,,Male,126289
+,All,2019,Males,,9980,,1069,,Male,12665662
+,All,2019,Females,New South Wales,2224,,180,,Female,4068863
+,All,2019,Females,Victoria,1289,,97,,Female,3327810
+,All,2019,Females,Queensland,1954,,109,,Female,2589061
+,All,2019,Females,Western Australia,716,,52,,Female,1343735
+,All,2019,Females,South Australia,370,,36,,Female,900160
+,All,2019,Females,Tasmania,195,,14,,Female,279447
+,All,2019,Females,Australian Capital Territory,88,,8,,Female,222767
+,All,2019,Females,Northern Territory,34,,1,,Female,120727
+,All,2019,Females,,6897,,497,,Female,12854806
+,All,2019,Persons,New South Wales,5572,,541,,Person,8088361
+,All,2019,Persons,Victoria,3078,,306,,Person,6590050
+,All,2019,Persons,Queensland,4765,,359,,Person,5129741
+,All,2019,Persons,Western Australia,1747,,162,,Person,2688799
+,All,2019,Persons,South Australia,947,,118,,Person,1778928
+,All,2019,Persons,Tasmania,435,,43,,Person,553340
+,All,2019,Persons,Australian Capital Territory,213,,24,,Person,440267
+,All,2019,Persons,Northern Territory,91,,8,,Person,246677
+,All,2019,Persons,,16877,,1566,,Person,25520468
+,All,2020,Males,New South Wales,3291,,388,,Male,4031001
+,All,2020,Males,Victoria,1660,,213,,Male,3274653
+,All,2020,Males,Queensland,2622,,250,,Male,2568499
+,All,2020,Males,Western Australia,903,,96,,Male,1364994
+,All,2020,Males,South Australia,594,,79,,Male,886475
+,All,2020,Males,Tasmania,230,,34,,Male,278353
+,All,2020,Males,Australian Capital Territory,125,,17,,Male,220886
+,All,2020,Males,Northern Territory,57,,5,,Male,126133
+,All,2020,Males,,9475,,1082,,Male,12728639
+,All,2020,Females,New South Wales,2202,,180,,Female,4081000
+,All,2020,Females,Victoria,1162,,121,,Female,3341983
+,All,2020,Females,Queensland,1865,,125,,Female,2615830
+,All,2020,Females,Western Australia,627,,42,,Female,1363193
+,All,2020,Females,South Australia,365,,41,,Female,908039
+,All,2020,Females,Tasmania,216,,14,,Female,283528
+,All,2020,Females,Australian Capital Territory,87,,9,,Female,226764
+,All,2020,Females,Northern Territory,34,,2,,Female,121772
+,All,2020,Females,,6545,,534,,Female,12920609
+,All,2020,Persons,New South Wales,5493,,568,,Person,8112001
+,All,2020,Persons,Victoria,2822,,334,,Person,6616636
+,All,2020,Persons,Queensland,4487,,375,,Person,5184329
+,All,2020,Persons,Western Australia,1533,,138,,Person,2728187
+,All,2020,Persons,South Australia,959,,120,,Person,1794514
+,All,2020,Persons,Tasmania,448,,48,,Person,561881
+,All,2020,Persons,Australian Capital Territory,212,,25,,Person,447650
+,All,2020,Persons,Northern Territory,90,,7,,Person,247819
+,All,2020,Persons,,16025,,1616,,Person,25649248

@@ -1,0 +1,76 @@
+Cancer,RD_stage,Sex,Age,Count,Rate_100k
+Melanoma of the skin,I,Females,40–49,622.0,39.5
+Melanoma of the skin,I,Females,50–59,728.0,51.25
+Melanoma of the skin,I,Females,60–69,865.0,80.0
+Melanoma of the skin,I,Females,70–79,615.0,90.80000000000001
+Melanoma of the skin,I,Females,80+,439.0,85.0
+Melanoma of the skin,I,Males,40–49,551.0,35.6
+Melanoma of the skin,I,Males,50–59,943.0,68.1
+Melanoma of the skin,I,Males,60–69,1371.0,127.45
+Melanoma of the skin,I,Males,70–79,1047.0,170.15
+Melanoma of the skin,I,Males,80+,605.0,183.3
+Melanoma of the skin,I,Persons,40–49,1173.0,37.55
+Melanoma of the skin,I,Persons,50–59,1671.0,59.6
+Melanoma of the skin,I,Persons,60–69,0.0,103.6
+Melanoma of the skin,I,Persons,70–79,1662.0,128.5
+Melanoma of the skin,I,Persons,80+,1044.0,122.55
+Melanoma of the skin,II,Females,40–49,33.0,2.1
+Melanoma of the skin,II,Females,50–59,68.0,4.800000000000001
+Melanoma of the skin,II,Females,60–69,107.0,10.05
+Melanoma of the skin,II,Females,70–79,122.0,18.5
+Melanoma of the skin,II,Females,80+,221.0,42.45
+Melanoma of the skin,II,Males,40–49,70.0,4.55
+Melanoma of the skin,II,Males,50–59,112.0,8.05
+Melanoma of the skin,II,Males,60–69,224.0,20.9
+Melanoma of the skin,II,Males,70–79,232.0,38.45
+Melanoma of the skin,II,Males,80+,339.0,105.6
+Melanoma of the skin,II,Persons,40–49,103.0,3.3000000000000003
+Melanoma of the skin,II,Persons,50–59,180.0,6.45
+Melanoma of the skin,II,Persons,60–69,331.0,15.45
+Melanoma of the skin,II,Persons,70–79,354.0,27.950000000000003
+Melanoma of the skin,II,Persons,80+,560.0,66.55
+Melanoma of the skin,III,Females,40–49,14.0,0.9
+Melanoma of the skin,III,Females,50–59,23.0,1.6
+Melanoma of the skin,III,Females,60–69,24.0,2.15
+Melanoma of the skin,III,Females,70–79,27.0,4.0
+Melanoma of the skin,III,Females,80+,22.0,4.25
+Melanoma of the skin,III,Males,40–49,19.0,1.25
+Melanoma of the skin,III,Males,50–59,44.0,3.1500000000000004
+Melanoma of the skin,III,Males,60–69,57.0,5.25
+Melanoma of the skin,III,Males,70–79,33.0,5.25
+Melanoma of the skin,III,Males,80+,30.0,8.85
+Melanoma of the skin,III,Persons,40–49,33.0,1.05
+Melanoma of the skin,III,Persons,50–59,67.0,2.35
+Melanoma of the skin,III,Persons,60–69,81.0,3.7
+Melanoma of the skin,III,Persons,70–79,60.0,4.6
+Melanoma of the skin,III,Persons,80+,52.0,6.1
+Melanoma of the skin,IV,Females,40–49,11.0,0.7
+Melanoma of the skin,IV,Females,50–59,13.0,0.9
+Melanoma of the skin,IV,Females,60–69,19.0,1.75
+Melanoma of the skin,IV,Females,70–79,7.0,1.05
+Melanoma of the skin,IV,Females,80+,16.0,3.05
+Melanoma of the skin,IV,Males,40–49,15.0,1.0
+Melanoma of the skin,IV,Males,50–59,24.0,1.7
+Melanoma of the skin,IV,Males,60–69,43.0,4.0
+Melanoma of the skin,IV,Males,70–79,42.0,7.05
+Melanoma of the skin,IV,Males,80+,30.0,9.350000000000001
+Melanoma of the skin,IV,Persons,40–49,26.0,0.85
+Melanoma of the skin,IV,Persons,50–59,37.0,1.25
+Melanoma of the skin,IV,Persons,60–69,62.0,2.8499999999999996
+Melanoma of the skin,IV,Persons,70–79,49.0,3.95
+Melanoma of the skin,IV,Persons,80+,46.0,5.5
+Melanoma of the skin,Stage unknown,Females,40–49,17.0,1.0499999999999998
+Melanoma of the skin,Stage unknown,Females,50–59,28.0,2.0
+Melanoma of the skin,Stage unknown,Females,60–69,36.0,3.4499999999999997
+Melanoma of the skin,Stage unknown,Females,70–79,18.0,2.7
+Melanoma of the skin,Stage unknown,Females,80+,17.0,3.25
+Melanoma of the skin,Stage unknown,Males,40–49,24.0,1.55
+Melanoma of the skin,Stage unknown,Males,50–59,34.0,2.45
+Melanoma of the skin,Stage unknown,Males,60–69,57.0,5.35
+Melanoma of the skin,Stage unknown,Males,70–79,30.0,5.0
+Melanoma of the skin,Stage unknown,Males,80+,29.0,9.05
+Melanoma of the skin,Stage unknown,Persons,40–49,41.0,1.3
+Melanoma of the skin,Stage unknown,Persons,50–59,62.0,2.2
+Melanoma of the skin,Stage unknown,Persons,60–69,93.0,4.35
+Melanoma of the skin,Stage unknown,Persons,70–79,48.0,3.75
+Melanoma of the skin,Stage unknown,Persons,80+,46.0,5.45
